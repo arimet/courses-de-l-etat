@@ -1,0 +1,207 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>La liste de courses de l'État</title>
+  <meta name="description" content="Chaque jour, les marchés publics les plus insolites publiés au BOAMP, imprimés sur un ticket de caisse.">
+  <meta property="og:title" content="La liste de courses de l'État">
+  <meta property="og:description" content="Chaque jour, les marchés publics les plus insolites publiés au BOAMP.">
+  <meta name="theme-color" content="#232429">
+  <link rel="preload" href="fonts/Unbounded-400-800.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="fonts/IBMPlexMono-normal-400.woff2" as="font" type="font/woff2" crossorigin>
+  <style>
+    @font-face { font-family: 'Unbounded'; src: url(fonts/Unbounded-400-800.woff2) format('woff2'); font-weight: 400 800; font-display: swap; }
+    @font-face { font-family: 'Plex Mono'; src: url(fonts/IBMPlexMono-normal-400.woff2) format('woff2'); font-weight: 400; font-display: swap; }
+    @font-face { font-family: 'Plex Mono'; src: url(fonts/IBMPlexMono-normal-600.woff2) format('woff2'); font-weight: 600; font-display: swap; }
+    @font-face { font-family: 'Plex Mono'; src: url(fonts/IBMPlexMono-italic-400.woff2) format('woff2'); font-weight: 400; font-style: italic; font-display: swap; }
+
+    /* A dark checkout belt in both modes; only the paper dims at night. */
+    :root {
+      --belt: #232429;
+      --belt-line: #2c2d33;
+      --on-bg: #f1f1ee;
+      --on-bg-muted: #a4a6b0;
+      --paper: #fbfbf8;
+      --ink: #17171c;
+      --ink-muted: #5d5f6b;
+      --accent: #2140d4;
+      --hover: #eef0fb;
+      --display: 'Unbounded', system-ui, sans-serif;
+      --mono: 'Plex Mono', ui-monospace, monospace;
+      color-scheme: dark;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root { --belt: #1a1b1f; --belt-line: #222328; --paper: #e8e8e3; --hover: #dcdfee; }
+    }
+
+    * { box-sizing: border-box; }
+    html { -webkit-text-size-adjust: 100%; }
+    body {
+      margin: 0; min-height: 100dvh; color: var(--on-bg); font: 16px/1.5 var(--display);
+      background:
+        radial-gradient(ellipse 70% 60% at 60% 40%, rgb(255 255 255 / .05), transparent 70%),
+        repeating-linear-gradient(0deg, var(--belt) 0 14px, var(--belt-line) 14px 16px),
+        var(--belt);
+      background-attachment: fixed;
+    }
+    a { color: inherit; }
+    :focus-visible { outline: 2px solid currentColor; outline-offset: 3px; }
+
+    .page { max-width: 1240px; margin: 0 auto; padding: 48px 16px 64px; display: grid; grid-template-columns: minmax(0, 1fr); gap: 40px; }
+    @media (min-width: 960px) {
+      .page { grid-template-columns: minmax(0, 1fr) minmax(0, 580px); gap: 72px; padding: 72px 40px 96px; align-items: start; }
+      .intro { position: sticky; top: 72px; }
+    }
+    /* On phones the explanation goes after the ticket: .intro children join the page grid. */
+    @media (max-width: 959px) {
+      .page { gap: 0; }
+      .intro { display: contents; }
+      .page > .receipt { order: 1; margin: 52px 0 12px; }
+      .colophon { order: 2; }
+    }
+
+    h1 {
+      font-size: clamp(1.9rem, 4.6vw, 4.2rem); font-weight: 800; line-height: 1; letter-spacing: -.03em;
+      margin: 0 0 24px; text-wrap: balance;
+    }
+    .lede { font-size: 1.05rem; line-height: 1.55; color: var(--on-bg-muted); max-width: 32ch; margin: 0; }
+
+    .figures { display: flex; flex-wrap: wrap; gap: 24px 48px; margin: 44px 0 0; }
+    .figures div { display: flex; flex-direction: column; gap: 6px; }
+    .figures dt { font: .8rem/1.3 var(--mono); color: var(--on-bg-muted); order: 2; max-width: 22ch; }
+    .figures dd { margin: 0; font-size: clamp(1.5rem, 3vw, 2rem); font-weight: 700; letter-spacing: -.02em; line-height: 1.05; font-variant-numeric: tabular-nums; }
+
+    /* The receipt */
+    .receipt {
+      position: relative; background: var(--paper); color: var(--ink);
+      padding: 36px 24px 40px; margin: 12px 0;
+      box-shadow: 0 2px 0 rgb(0 0 0 / .15), 0 40px 70px -24px rgb(0 0 0 / .75);
+      font-family: var(--mono); font-size: .9rem;
+    }
+    @media (min-width: 960px) { .receipt { rotate: 1deg; padding: 44px 40px 48px; } }
+    /* Torn edges: two triangle gradients per edge. */
+    .receipt::before, .receipt::after {
+      content: ''; position: absolute; left: 0; right: 0; height: 12px;
+      background:
+        linear-gradient(135deg, var(--paper) 6px, transparent 0) 0 0 / 12px 12px repeat-x,
+        linear-gradient(-135deg, var(--paper) 6px, transparent 0) 0 0 / 12px 12px repeat-x;
+    }
+    .receipt::after { top: 100%; }
+    .receipt::before { bottom: 100%; rotate: 180deg; }
+
+    .head { text-align: center; text-transform: uppercase; letter-spacing: .06em; }
+    .head strong { display: block; font-size: 1.05rem; letter-spacing: .12em; }
+
+    .date-nav { display: flex; align-items: center; justify-content: center; gap: 8px; margin-top: 14px; }
+    .date-nav button {
+      flex: none; width: 34px; height: 34px; border-radius: 999px; cursor: pointer;
+      font: 600 1rem var(--mono); color: var(--ink); background: transparent;
+      border: 1.5px solid color-mix(in srgb, var(--ink) 25%, transparent);
+      transition: background .2s, border-color .2s, transform .1s;
+    }
+    .date-nav button:hover:not(:disabled) { border-color: var(--ink); background: var(--hover); }
+    .date-nav button:active:not(:disabled) { transform: scale(.94); }
+    .date-nav button:disabled { opacity: .3; cursor: default; }
+    .date-pick {
+      position: relative; cursor: pointer; padding: 6px 10px; border-radius: 6px;
+      font-size: .8rem; font-weight: 600; transition: background .2s;
+    }
+    @media (max-width: 420px) { .date-pick { font-size: .7rem; letter-spacing: .02em; white-space: nowrap; padding: 6px 4px; } }
+    .date-pick:hover, .date-pick:focus-within { background: var(--hover); }
+    .date-pick span { border-bottom: 1.5px dashed color-mix(in srgb, var(--ink) 45%, transparent); }
+    /* The native date input covers the label, so a click or tap opens the system picker. */
+    .date-pick input { position: absolute; inset: 0; width: 100%; height: 100%; opacity: 0; cursor: pointer; border: 0; padding: 0; color-scheme: light; }
+
+    .rule { border: 0; border-top: 1.5px dashed color-mix(in srgb, var(--ink) 35%, transparent); margin: 24px 0; }
+
+    #top { list-style: none; margin: 0; padding: 0; counter-reset: n; }
+    #top li {
+      counter-increment: n; position: relative;
+      display: grid; grid-template-columns: 2.2em minmax(0, 1fr) auto; column-gap: 12px;
+      grid-template-areas: 'n body price';
+      padding: 14px 10px; margin: 0 -10px; border-radius: 6px; transition: background .2s;
+    }
+    #top li:hover { background: var(--hover); }
+    #top li::before { content: counter(n, decimal-leading-zero); grid-area: n; color: var(--accent); font-weight: 600; }
+    .body { grid-area: body; }
+    .body a {
+      font-weight: 600; font-size: .95rem; line-height: 1.4; text-decoration: none;
+      display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;
+    }
+    .body a::after { content: ''; position: absolute; inset: 0; } /* whole row is clickable */
+    .body a:hover { text-decoration: underline; text-underline-offset: 3px; }
+    .quip { margin: 6px 0 0; font-style: italic; }
+    .buyer { display: block; margin-top: 6px; color: var(--ink-muted); font-size: .75rem; text-transform: uppercase; letter-spacing: .04em; }
+    .price { grid-area: price; text-align: right; font-weight: 600; white-space: nowrap; font-variant-numeric: tabular-nums; }
+    .price.nc { color: var(--ink-muted); font-weight: 400; }
+    @media (max-width: 520px) {
+      #top li { grid-template-columns: 2em minmax(0, 1fr); grid-template-areas: 'n body' '. price'; row-gap: 6px; }
+    }
+
+    .total { display: flex; justify-content: space-between; align-items: baseline; gap: 16px; font-weight: 600; font-size: 1.15rem; text-transform: uppercase; }
+    .total-note { margin: 6px 0 0; color: var(--ink-muted); font-size: .75rem; }
+
+    .barcode {
+      height: 48px; width: min(240px, 70%); margin: 28px auto 10px;
+      background: repeating-linear-gradient(90deg,
+        var(--ink) 0 2px, transparent 2px 4px, var(--ink) 4px 5px, transparent 5px 8px,
+        var(--ink) 8px 11px, transparent 11px 12px, var(--ink) 12px 13px, transparent 13px 17px);
+    }
+    .foot { text-align: center; color: var(--ink-muted); font-size: .72rem; margin: 0; }
+
+    .state { text-align: center; padding: 24px 0; color: var(--ink-muted); }
+    .state button { margin-top: 12px; font: 600 .85rem var(--mono); color: var(--paper); background: var(--ink); border: 0; border-radius: 999px; padding: 10px 18px; cursor: pointer; }
+
+    .skel { height: 14px; border-radius: 4px; margin: 20px 0; background: linear-gradient(90deg, var(--hover) 25%, color-mix(in srgb, var(--hover) 40%, var(--paper)) 50%, var(--hover) 75%) 0 0 / 200% 100%; }
+    .skel:nth-child(odd) { width: 78%; }
+
+    .colophon { margin: 40px 0 0; padding-top: 24px; border-top: 1px solid rgb(255 255 255 / .14); font: .8rem/1.65 var(--mono); color: var(--on-bg-muted); max-width: 46ch; }
+
+    @media (prefers-reduced-motion: no-preference) {
+      .skel { animation: shimmer 1.4s linear infinite; }
+      .receipt { animation: belt .9s cubic-bezier(.16, 1, .3, 1) both; }
+      .printed li { animation: print .5s cubic-bezier(.16, 1, .3, 1) both; animation-delay: calc(var(--i) * 70ms); }
+      .intro > * { animation: rise .7s cubic-bezier(.16, 1, .3, 1) both; }
+      .intro > :nth-child(2) { animation-delay: .08s; }
+      .intro > :nth-child(3) { animation-delay: .16s; }
+      .intro > :nth-child(4) { animation-delay: .24s; }
+    }
+    @keyframes shimmer { to { background-position: -200% 0; } }
+    /* The ticket arrives on the belt, like shopping at the checkout. */
+    @keyframes belt { from { opacity: 0; translate: 0 -60px; } }
+    @keyframes print { from { opacity: 0; transform: translateY(-10px); } }
+    @keyframes rise { from { opacity: 0; transform: translateY(16px); } }
+  </style>
+</head>
+<body>
+  <main class="page">
+    <section class="intro">
+      <h1>La liste de courses de l'État</h1>
+      <p class="lede">Chaque jour, les achats publics les plus insolites publiés au BOAMP.</p>
+      <dl class="figures" aria-live="polite">
+        <div><dt>avis de marché publiés ce jour-là</dt><dd id="count">…</dd></div>
+        <div><dt>de montants estimés sur ce ticket</dt><dd id="sum">…</dd></div>
+      </dl>
+      <p class="colophon">Chaque matin, une intelligence artificielle choisit les dix avis les plus insolites du jour et écrit la phrase en italique. Les jours où elle n'a pas tourné, le tri se fait par mots-clés. Les montants sont estimés par l'acheteur ; N.C. veut dire que l'avis n'en donne pas. Seul l'avis officiel, accessible en cliquant sur chaque ligne, fait foi.</p>
+
+    </section>
+
+    <article class="receipt" aria-labelledby="ticket-title">
+      <header class="head">
+        <strong id="ticket-title">Courses de l'État</strong>
+        <div class="date-nav">
+          <button type="button" id="prev" aria-label="Jour précédent">‹</button>
+          <label class="date-pick"><span id="ticket-date"></span><input type="date" id="jour" aria-label="Choisir une date"></label>
+          <button type="button" id="next" aria-label="Jour suivant">›</button>
+        </div>
+      </header>
+      <hr class="rule">
+      <div id="content"></div>
+      <div class="barcode" aria-hidden="true"></div>
+      <p class="foot">Données BOAMP, DILA. Montants estimés par les acheteurs.</p>
+    </article>
+  </main>
+  <script type="module" src="app.js"></script>
+</body>
+</html>
