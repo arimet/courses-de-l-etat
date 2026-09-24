@@ -1,0 +1,10 @@
+{
+  "name": "courses-de-l-etat",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "pick": "node --env-file-if-exists=.env scripts/pick.mjs",
+    "serve": "python3 -m http.server 8000"
+  }
+}
