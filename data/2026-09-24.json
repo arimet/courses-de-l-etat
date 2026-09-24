@@ -1,0 +1,153 @@
+{
+ "date": "2026-09-24",
+ "total": 316,
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "top": [
+  {
+   "idweb": "26-91693",
+   "objet": "Mission de maîtrise d'oeuvre navale patrimoniale pour la restauration du navire MARITÉ",
+   "nomacheteur": "GIP MARITE",
+   "code_departement": [
+    "50"
+   ],
+   "descripteur_libelle": [
+    "Maîtrise d'oeuvre",
+    "Ingénierie",
+    "Etude"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-91693",
+   "pourquoi": "Le Marité, dernier voilier charbonnier, se refait une beauté."
+  },
+  {
+   "idweb": "26-92445",
+   "objet": "REPRISE DES SEPULTURES AU CIMETIERE DE SAINT-MARTIN EN COAILLEUX ET SERVICES ASSOCIES",
+   "nomacheteur": "Mairie de Saint-Chamond",
+   "code_departement": [
+    "42"
+   ],
+   "descripteur_libelle": [
+    "Cimetière"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-92445",
+   "pourquoi": "Saint-Chamond recycle ses concessions funéraires."
+  },
+  {
+   "idweb": "26-91867",
+   "objet": "FOURNITURE DE REACTIFS DE PREPARATION DE LIBRAIRIES POUR ADN TUMORAL CIRCULANT AVEC ADN GERMINAL APPARIE",
+   "nomacheteur": "HOSPICES CIVILS DE LYON - Etablissement support du GHT VAL RHONE CENTRE",
+   "code_departement": [
+    "38",
+    "42",
+    "83"
+   ],
+   "descripteur_libelle": [
+    "Réactifs"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-91867",
+   "pourquoi": "Réactifs pour traquer l'ADN cancéreux dans le sang."
+  },
+  {
+   "idweb": "26-92193",
+   "objet": "Location, pose et dépose de 50 chalets en bois pour le marché de Noël 2026 de Porticcio",
+   "nomacheteur": "COMMUNE DE GROSSETO PRUGNA",
+   "code_departement": [
+    "20A"
+   ],
+   "descripteur_libelle": [
+    "Location (matériels)",
+    "Bâtiments modulaires"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-92193",
+   "pourquoi": "Porticcio monte 50 chalets pour son marché de Noël."
+  },
+  {
+   "idweb": "26-91899",
+   "objet": "FOURNITURES DE CD ET VINYLES, ADULTE ET JEUNESSE, NEUFS OU RECONDITIONNÉS COMME NEUFS, POUR LES BIBLIOTHEQUES MEDIATHEQUES DE METZ",
+   "nomacheteur": "Mairie de Metz",
+   "code_departement": [
+    "57"
+   ],
+   "descripteur_libelle": [
+    "Cd, DVD"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-91899",
+   "pourquoi": "Metz commande des vinyles et CD pour ses bibliothèques."
+  },
+  {
+   "idweb": "26-92180",
+   "objet": "Fourniture et livraison de pylônes  métalliques pour station  météorologique en haute montagne",
+   "nomacheteur": "Météo-France",
+   "code_departement": [
+    "31"
+   ],
+   "descripteur_libelle": [
+    "Métallerie"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-92180",
+   "pourquoi": "Météo-France plante des pylônes au sommet des montagnes."
+  },
+  {
+   "idweb": "26-91600",
+   "objet": "PRESTATIONS D’ETUDES ET DE TESTS DE LISIBILITE DE DOCUMENTS ET MESSAGES AUPRES DE GROUPE D’EPARGNANTS ET D’INVESTISSEURS",
+   "nomacheteur": "Autorité des Marchés Financiers",
+   "code_departement": [
+    "75"
+   ],
+   "descripteur_libelle": [
+    "Etude"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-91600",
+   "pourquoi": "L'AMF soumet sa prose à des cobayes épargnants."
+  },
+  {
+   "idweb": "26-92394",
+   "objet": "PONTON",
+   "nomacheteur": "SYNDICAT MIXTE DES PORTS DE LA SEINE-MARITIME",
+   "code_departement": [
+    "76"
+   ],
+   "descripteur_libelle": [
+    "Installation portuaire"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-92394",
+   "pourquoi": "La Seine-Maritime s'offre un ponton."
+  },
+  {
+   "idweb": "26-92341",
+   "objet": "ATELIERS DE CO-DEVELOPPEMENT DE L'ENFANT EN CRECHE",
+   "nomacheteur": "METROPOLE NICE COTE D'AZUR",
+   "code_departement": [
+    "6",
+    "13",
+    "83"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services",
+    "Formation"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-92341",
+   "pourquoi": "Nice organise du co-développement... à la crèche."
+  },
+  {
+   "idweb": "26-91744",
+   "objet": "Concession de service pour l'exploitation et la gestion de la librairie-boutique du musée de l'Air et de l'Espace.",
+   "nomacheteur": "Musée de l'Air et de l'Espace",
+   "code_departement": [
+    "93",
+    "92",
+    "94",
+    "77",
+    "95",
+    "75",
+    "91"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services",
+    "Délégation de service public",
+    "Livres"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-91744",
+   "pourquoi": "Le musée de l'Air externalise sa boutique souvenirs."
+  }
+ ]
+}

@@ -1,0 +1,147 @@
+{
+ "date": "2026-09-23",
+ "total": 292,
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "top": [
+  {
+   "idweb": "26-91233",
+   "objet": "Achat de champagne Brut non millésimé",
+   "nomacheteur": "CHÂTEAU DE VERSAILLES SPECTACLES",
+   "code_departement": [
+    "78"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-91233",
+   "pourquoi": "Louis XIV validerait la commande."
+  },
+  {
+   "idweb": "26-91889",
+   "objet": "Remorquage, calage et mise à sec en forme de radoub du chalutier en bois le Jacques-Louise",
+   "nomacheteur": "Commune de Cherbourg-en-Cotentin",
+   "code_departement": [
+    "50"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-91889",
+   "pourquoi": "La mairie sort le chalutier 'Jacques-Louise' de l'eau."
+  },
+  {
+   "idweb": "26-92026",
+   "objet": "Etude de faisabilité pour la conception et l'exploitation d'un navire hydrogène liquide destiné au service public de desserte en marchandises entre Brest, Sein, Molène et Ouessant",
+   "nomacheteur": "REGION BRETAGNE",
+   "code_departement": [
+    "35",
+    "29"
+   ],
+   "descripteur_libelle": [
+    "Etude"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-92026",
+   "pourquoi": "La Bretagne prépare son cargo à hydrogène pour les îles."
+  },
+  {
+   "idweb": "26-91939",
+   "objet": "MAPA 2026-052 : FETES DE NOEL 2026 - LOT 1 : Script et réalisation d’images vidéo",
+   "nomacheteur": "Ville du Cannet (06)",
+   "code_departement": [
+    "6"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-91939",
+   "pourquoi": "Le Cannet écrit le scénario de son Noël 2026."
+  },
+  {
+   "idweb": "26-91856",
+   "objet": "Fourniture de produits destructeurs d’odeurs  pour Installation de Stockage de Déchets  Non Dangereux (ISDND) de Monflanquin",
+   "nomacheteur": "VALORIZON",
+   "code_departement": [
+    "47"
+   ],
+   "descripteur_libelle": [
+    "Déchetterie (exploitation)",
+    "Produits chimiques"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-91856",
+   "pourquoi": "Parfum 'Fraîcheur décharge' pour l'enfouissement de Monflanquin."
+  },
+  {
+   "idweb": "26-91765",
+   "objet": "MISSION DE MAITRISE D OEUVRE POUR L INSTRUMENTALISATION DE LA SOURCE D EAU POTABLE DE FONTENY \"SOURCE DE LA FURIEUSE\"",
+   "nomacheteur": "Commune de Salins les Bains (39)",
+   "code_departement": [
+    "39"
+   ],
+   "descripteur_libelle": [
+    "Alimentation en eau potable",
+    "Génie civil",
+    "Réseaux divers"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-91765",
+   "pourquoi": "Domptage en règle de la 'Source de la Furieuse'."
+  },
+  {
+   "idweb": "26-91313",
+   "objet": "fourniture et installation d’une structure gonflable sur de deux courts de tennis extérieurs et d’éclairage de quatre courts de tennis situés dans la commune de BAGNEUX",
+   "nomacheteur": "Vallée Sud - Grand Paris (92)",
+   "code_departement": [
+    "92"
+   ],
+   "descripteur_libelle": [
+    "Bâche",
+    "Articles à usage unique"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-91313",
+   "pourquoi": "Un château gonflable géant sur les courts de Bagneux."
+  },
+  {
+   "idweb": "26-91927",
+   "objet": "Fourniture d'un véhicule d'Inspection Télévisée des Réseaux d'assainissement de 3,5 tonnes",
+   "nomacheteur": "Ca Aurillac Agglomeration",
+   "code_departement": [
+    "15"
+   ],
+   "descripteur_libelle": [
+    "Assainissement",
+    "Véhicules"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-91927",
+   "pourquoi": "Un camion cinéma pour explorer les égouts d'Aurillac."
+  },
+  {
+   "idweb": "26-92125",
+   "objet": "CREATION D'UN LOCAL DE ROBOTISATION DE PILULIER POUR LA\nPHARMACIE AU CENTRE HOSPITALIER DE SAINT QUENTIN",
+   "nomacheteur": "Centre hospitalier de Saint Quentin",
+   "code_departement": [
+    "2"
+   ],
+   "descripteur_libelle": [
+    "Electricité (travaux)",
+    "Peinture (travaux)",
+    "Plomberie (travaux)",
+    "Menuiserie"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-92125",
+   "pourquoi": "Un robot pharmacien prépare les piluliers à Saint-Quentin."
+  },
+  {
+   "idweb": "26-91866",
+   "objet": "Le présent marché est un marché de travaux pour l'aménagement d'une passe à poissons sur la Sèvre Niortaise à Niort.",
+   "nomacheteur": "Etablissement public territorial",
+   "code_departement": [
+    "79"
+   ],
+   "descripteur_libelle": [
+    "Rivières/ruisseaux",
+    "Terrassement"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-91866",
+   "pourquoi": "Une autoroute pour poissons sur la Sèvre Niortaise."
+  }
+ ]
+}

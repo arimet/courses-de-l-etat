@@ -1,0 +1,141 @@
+{
+ "date": "2026-09-22",
+ "total": 240,
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "top": [
+  {
+   "idweb": "26-90846",
+   "objet": "ACQUISITION ET MAINTENANCE D’UN EXOSQUELETTE DE MARCHE MOTORISE",
+   "nomacheteur": "UG 07",
+   "code_departement": [
+    "78",
+    "93"
+   ],
+   "descripteur_libelle": [
+    "Maintenance"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-90846",
+   "pourquoi": "Un exosquelette pour ménager les dos."
+  },
+  {
+   "idweb": "26-91631",
+   "objet": "Fourniture, mise en service, maintenance et qualification d'un pasteurisateur de lait maternel humain ainsi que la fourniture des accessoires, des consommables et des pièces détach",
+   "nomacheteur": "Chu de Martinique",
+   "code_departement": [
+    "972"
+   ],
+   "descripteur_libelle": [
+    "Matériel de stérilisation"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-91631",
+   "pourquoi": "Le lait maternel passe à la pasteurisation."
+  },
+  {
+   "idweb": "26-91580",
+   "objet": "Destruction des nids de frelons asiatiques sur le territoire de la Communauté de communes Val d’Ille-Aubigné pour la période du 1er janvier 2027 au 31 décembre 2030 pour un montant maximum de 180 000,",
+   "nomacheteur": "Communauté de communes Val d'Ille-Aubigné",
+   "code_departement": [
+    "35"
+   ],
+   "descripteur_libelle": [
+    "Dératisation, désinsectisation"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-91580",
+   "pourquoi": "Chasse aux frelons : marché de 4 ans."
+  },
+  {
+   "idweb": "26-91608",
+   "objet": "Travaux de restauration écologique et d'ouverture au public de l'Espace Naturel Sensible (ENS) \"Le marais du Lutin\"",
+   "nomacheteur": "Département de Seine-et-Marne",
+   "code_departement": [
+    "77"
+   ],
+   "descripteur_libelle": [
+    "Travaux forestiers",
+    "Espaces verts"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-91608",
+   "pourquoi": "Le marais du Lutin sort de l'ombre."
+  },
+  {
+   "idweb": "26-91001",
+   "objet": "Conception, fabrication/aménagement et livraison d'un véhicule spécial itinérant pour un Relais Petite Enfance",
+   "nomacheteur": "Ville de Mamoudzou (976)",
+   "code_departement": [
+    "976"
+   ],
+   "descripteur_libelle": [
+    "Véhicules"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-91001",
+   "pourquoi": "La crèche part en tournée à Mayotte."
+  },
+  {
+   "idweb": "26-91318",
+   "objet": "MARCHE EPICERIE",
+   "nomacheteur": "LYCEE GENERAL TECHNOLOGIQUE JEHAN ANGO",
+   "code_departement": [
+    "27",
+    "76"
+   ],
+   "descripteur_libelle": [
+    "Denrées alimentaires"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-91318",
+   "pourquoi": "Le lycée ouvre sa propre épicerie."
+  },
+  {
+   "idweb": "26-91328",
+   "objet": "Fourniture d'hydrogène renouvelable (vert)",
+   "nomacheteur": "Spl D'un point à l'autre",
+   "code_departement": [
+    "81"
+   ],
+   "descripteur_libelle": [
+    "Carburant, hydrocarbure",
+    "Location (matériels)"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-91328",
+   "pourquoi": "L'hydrogène vert fait le plein."
+  },
+  {
+   "idweb": "26-91619",
+   "objet": "Mission d'assistance pour la recherche d'un opérateur investisseur pour la réalisation d'un hôtel 4 étoiles",
+   "nomacheteur": "Mairie du Monêtier les Bains",
+   "code_departement": [
+    "5"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-91619",
+   "pourquoi": "La mairie cherche investisseur pour un palace."
+  },
+  {
+   "idweb": "26-90999",
+   "objet": "Prestation d'évaluation psychologique pour l'agrément des candidats à l'adoption",
+   "nomacheteur": "Conseil Départemental des Bouches du Rhône",
+   "code_departement": [
+    "13"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-90999",
+   "pourquoi": "Un psy valide les futurs parents."
+  },
+  {
+   "idweb": "26-91746",
+   "objet": "Enseignement à la communication adapté à la profession d'assistant de régulation médicale (ARM) et gestion des réactions comportementales",
+   "nomacheteur": "ASSISTANCE PUBLIQUE HÔPITAUX DE MARSEILLE",
+   "code_departement": [
+    "13"
+   ],
+   "descripteur_libelle": [
+    "Formation"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-91746",
+   "pourquoi": "Apprendre à calmer l'urgence au téléphone."
+  }
+ ]
+}
