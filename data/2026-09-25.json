@@ -1,0 +1,147 @@
+{
+ "date": "2026-09-25",
+ "total": 289,
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "top": [
+  {
+   "idweb": "26-92837",
+   "objet": "Stérilisation des oeufs de goélands argentés sur la commune du Havre",
+   "nomacheteur": "Ville du Havre",
+   "code_departement": [
+    "76"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-92837",
+   "pourquoi": "Stérilisation d’oeufs de goélands : la ville veille."
+  },
+  {
+   "idweb": "26-92147",
+   "objet": "Accord-cadre relatif à l'organisation et la fourniture de spectacles pyrotechniques",
+   "nomacheteur": "Ville de Bandol",
+   "code_departement": [
+    "83"
+   ],
+   "descripteur_libelle": [
+    "Feu d'artifice"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-92147",
+   "pourquoi": "Des feux d’artifice sous contrat public."
+  },
+  {
+   "idweb": "26-92339",
+   "objet": "FOurniture et livraison de cocktails et buffets pour la Mairie des 15 et 16è arrondissements de Marseille",
+   "nomacheteur": "Ville de Marseille",
+   "code_departement": [
+    "13"
+   ],
+   "descripteur_libelle": [
+    "Repas, traiteur"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-92339",
+   "pourquoi": "La mairie sirote des cocktails aux frais du contribuable."
+  },
+  {
+   "idweb": "26-92607",
+   "objet": "FOURNITURE ET LIVRAISON D’EQUIPEMENTS DE PROJECTION  CINEMATOGRAPHIQUE POUR SEANCE EN PLEIN AIR OU EN SALLE",
+   "nomacheteur": "Département-Région de Mayotte",
+   "code_departement": [
+    "976"
+   ],
+   "descripteur_libelle": [
+    "Audiovisuel",
+    "Vidéo, cinéma",
+    "Film"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-92607",
+   "pourquoi": "Du cinéma plein air financé par la ville."
+  },
+  {
+   "idweb": "26-92735",
+   "objet": "Achat d'un spectromètre RMN de paillasse pour l' ICMMO UPSaclay",
+   "nomacheteur": "Université Paris-Saclay",
+   "code_departement": [
+    "91"
+   ],
+   "descripteur_libelle": [
+    "Equipements spécialisés",
+    "Laboratoire (matériel)"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-92735",
+   "pourquoi": "Un RMN de paillasse pour la recherche locale."
+  },
+  {
+   "idweb": "26-92220",
+   "objet": "Attribution de sous-traités d'exploitation du domaine public maritime pour l'exercice d'activités commerciales liées aux écoles de surf",
+   "nomacheteur": "Ville Bidart",
+   "code_departement": [
+    "64"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-92220",
+   "pourquoi": "Le surf scolaire loué par l’État."
+  },
+  {
+   "idweb": "26-92971",
+   "objet": "Concession de service public relative à l'exploitation du camping municipal à vocation sociale et touristique \"L'ETOILE DE MER***\"",
+   "nomacheteur": "COMMUNE DE ST OUEN-SUR-SEINE",
+   "code_departement": [
+    "93"
+   ],
+   "descripteur_libelle": [
+    "Délégation de service public"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-92971",
+   "pourquoi": "Un camping municipal sous gestion publique."
+  },
+  {
+   "idweb": "26-92822",
+   "objet": "TRANSPORTS DE CORPS AVANT MISE EN BIERE - RELANCE DES LOTS 1 ET 2",
+   "nomacheteur": "GH Saintes - Saint-Jean d'Angély, Ets support du GHT Charente-Maritime Sud",
+   "code_departement": [
+    "17"
+   ],
+   "descripteur_libelle": [
+    "Transport"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-92822",
+   "pourquoi": "Transport des défunts avant mise en bière."
+  },
+  {
+   "idweb": "26-92373",
+   "objet": "Prestation restauration collective alternative et innovante de type « réfrigérateur connecté »",
+   "nomacheteur": "Commune de Maurepas",
+   "code_departement": [
+    "78"
+   ],
+   "descripteur_libelle": [
+    "Repas, traiteur"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-92373",
+   "pourquoi": "Réfrigérateur connecté pour cantines innovantes."
+  },
+  {
+   "idweb": "26-92156",
+   "objet": "Fourniture de données sur les achats de végétaux d’ornement et de potager en France ainsi que les prestations d’entretien et d’aménagement (jardin, terrasse)",
+   "nomacheteur": "FranceAgriMer",
+   "code_departement": [
+    "60",
+    "75",
+    "77",
+    "78",
+    "91",
+    "92",
+    "93",
+    "95"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-92156",
+   "pourquoi": "Qui achète quoi ? L’État surveille les plantes."
+  }
+ ]
+}
