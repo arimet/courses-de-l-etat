@@ -1,0 +1,20 @@
+{
+ "date": "2026-09-26",
+ "total": 1,
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "top": [
+  {
+   "idweb": "26-93133",
+   "objet": "Les prestations à réaliser comprennent des interventions d'urgence sur les réseaux pour rétablir l'alimentation des abonnés, branchements neufs et petites extensions",
+   "nomacheteur": "Territoire du SieLL 55210 Heudicourt-sous-les-Côtes",
+   "code_departement": [
+    "55"
+   ],
+   "descripteur_libelle": [
+    "Alimentation en eau potable"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-93133",
+   "pourquoi": "Quand le courant prend des vacances, on l'appelle au secours."
+  }
+ ]
+}
