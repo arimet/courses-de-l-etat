@@ -1,0 +1,149 @@
+{
+ "date": "2026-09-27",
+ "total": 150,
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "top": [
+  {
+   "idweb": "26-92605",
+   "objet": "Conception, fabrication/aménagement et livraison d'un véhicule spécial itinérant pour un Relais Petite Enfance",
+   "nomacheteur": "Ville de Mamoudzou (976)",
+   "code_departement": [
+    "976"
+   ],
+   "descripteur_libelle": [
+    "Véhicules"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-92605",
+   "pourquoi": "Un camion qui fait crèche itinérante"
+  },
+  {
+   "idweb": "26-92621",
+   "objet": "Commercialisation par régie des espaces publicitaires des sites Internet de Météo-France à la Réunion et à Mayotte",
+   "nomacheteur": "METEO FRANCE",
+   "code_departement": [
+    "94",
+    "976",
+    "974"
+   ],
+   "descripteur_libelle": [
+    "Objet publicitaire"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-92621",
+   "pourquoi": "Météo-France vend du soleil publicitaire"
+  },
+  {
+   "idweb": "26-92681",
+   "objet": "Prestations de stockage, pose, dépose, réparation et nettoyage de panneaux d'affichage électoral",
+   "nomacheteur": "Ville de Strasbourg",
+   "code_departement": [
+    "67"
+   ],
+   "descripteur_libelle": [
+    "Panneaux",
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-92681",
+   "pourquoi": "Le stockage des promesses électorales"
+  },
+  {
+   "idweb": "26-92745",
+   "objet": "Fourniture de six simulateurs de conduite d'engins avec solution pédagogique intégrée",
+   "nomacheteur": "LYCEE DES METIERS BLAISE PASCAL",
+   "code_departement": [
+    "17"
+   ],
+   "descripteur_libelle": [
+    "Equipements spécialisés"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-92745",
+   "pourquoi": "Six simulateurs pour ne pas casser la pelle"
+  },
+  {
+   "idweb": "26-92890",
+   "objet": "2026-184-DPER : Fourniture d'équipements de jeux d'eau et de brumisation, d eleurs accessoires, pièces détachées et prestations techniques associées-.",
+   "nomacheteur": "Conseil Départemental des Ardennes",
+   "code_departement": [
+    "8"
+   ],
+   "descripteur_libelle": [
+    "Jeux, jouets"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-92890",
+   "pourquoi": "Des jeux d'eau dans les Ardennes"
+  },
+  {
+   "idweb": "26-92910",
+   "objet": "MARCHE RELATIF À LA CONSERVATION-RESTAURATION D’OEUVRES D’ART DU MUSEE NISSIM DE CAMONDO",
+   "nomacheteur": "LES ARTS DECORATIFS",
+   "code_departement": [
+    "75"
+   ],
+   "descripteur_libelle": [
+    "Oeuvre d'art"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-92910",
+   "pourquoi": "Restaurer les trésors de Camondo"
+  },
+  {
+   "idweb": "26-92915",
+   "objet": "Mission d'assistance à la maîtrise d'ouvrage à caractère administratif, financier et technique relatif à la transformation bâtimentaire du Hall Concorde du Musée de l'Air et de l'Espace",
+   "nomacheteur": "Musée de l'Air et de l'Espace",
+   "code_departement": [
+    "93"
+   ],
+   "descripteur_libelle": [
+    "Assistance à maîtrise d'ouvrage"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-92915",
+   "pourquoi": "Le Concorde change de hangar"
+  },
+  {
+   "idweb": "26-92917",
+   "objet": "Entretien des espaces verts dans les cimetières Grenoblois  - Marché réservé aux structures d'insertion professionnelle",
+   "nomacheteur": "VILLE DE GRENOBLE",
+   "code_departement": [
+    "38"
+   ],
+   "descripteur_libelle": [
+    "Espaces verts",
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-92917",
+   "pourquoi": "Tondre l'herbe au cimetière, insertion comprise"
+  },
+  {
+   "idweb": "26-92925",
+   "objet": "Prestations de transports collectifs par voie routière pour les besoins de l'ISAE-SUPAERO",
+   "nomacheteur": "Institut Supérieur de l'Aéronautique et de l'Espace",
+   "code_departement": [
+    "31"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services",
+    "Transport"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-92925",
+   "pourquoi": "Des navettes pour futurs astronautes"
+  },
+  {
+   "idweb": "26-92945",
+   "objet": "Prestations de déménagement de documents de la Bibliothèque interuniversitaire de la Sorbonne et de la Bibliothèque interuniversitaire Cujas, rattachées à l’université Paris 1 Panthéon-Sorbonne",
+   "nomacheteur": "Université Paris 1 Panthéon-Sorbonne",
+   "code_departement": [
+    "75",
+    "91",
+    "92",
+    "93",
+    "94",
+    "95",
+    "77",
+    "78"
+   ],
+   "descripteur_libelle": [
+    "Déménagement"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-92945",
+   "pourquoi": "Déménager la Sorbonne, carton par carton"
+  }
+ ]
+}
