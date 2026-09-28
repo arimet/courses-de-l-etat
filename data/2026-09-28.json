@@ -1,0 +1,142 @@
+{
+ "date": "2026-09-28",
+ "total": 133,
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "top": [
+  {
+   "idweb": "26-93537",
+   "objet": "Conception, réalisation et exécution d'un spectacle « son et image » en plein air à l'occasion du millénaire de la naissance de Guillaume le Conquérant à la maison du Département d",
+   "nomacheteur": "Département de la Manche",
+   "code_departement": [
+    "50"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services",
+    "Spectacle"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-93537",
+   "pourquoi": "Un son et lumière pour fêter Guillaume le Conquérant."
+  },
+  {
+   "idweb": "26-93405",
+   "objet": "Organisation du Marché Médiéval des éditions 2027 et 2028 des Fêtes de Jeanne d'Arc",
+   "nomacheteur": "Ville d'Orléans",
+   "code_departement": [
+    "45"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services",
+    "Evénementiel"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-93405",
+   "pourquoi": "Un marché médiéval pour revivre l'époque de Jeanne d'Arc."
+  },
+  {
+   "idweb": "26-93462",
+   "objet": "ANIMATIONS DES FÊTES DE FIN D’ANNÉE 2026 DE LA VILLE DE LA SEYNE SUR MER",
+   "nomacheteur": "Ville de la Seyne sur Mer",
+   "code_departement": [
+    "83"
+   ],
+   "descripteur_libelle": [
+    "Evénementiel"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-93462",
+   "pourquoi": "Des animations de fin d’année qui font briller la ville."
+  },
+  {
+   "idweb": "26-93345",
+   "objet": "Organisation de séjours d'été 2027 et 2028 pour les enfants et adolescents vincennois",
+   "nomacheteur": "Mairie de Vincennes",
+   "code_departement": [
+    "94"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-93345",
+   "pourquoi": "Des colonies de vacances estivales pour les jeunes vincennois."
+  },
+  {
+   "idweb": "26-93141",
+   "objet": "Prestations De Transcription Et Restitution De Debats",
+   "nomacheteur": "Département des Alpes de Haute Provence",
+   "code_departement": [
+    "4"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-93141",
+   "pourquoi": "Des sténographes au service des débats départementaux."
+  },
+  {
+   "idweb": "26-93202",
+   "objet": "Prestations de traiteur dans le cadre des banquets annuels des aînés",
+   "nomacheteur": "Ville Liévin",
+   "code_departement": [
+    "62"
+   ],
+   "descripteur_libelle": [
+    "Repas, traiteur"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-93202",
+   "pourquoi": "Un traiteur pour régaler les aînés lors de leurs banquets."
+  },
+  {
+   "idweb": "26-93502",
+   "objet": "Capture, ramassage et prise en charge des animaux errants ou morts sur la voie publique pour la ville de Châtenay-Malabry",
+   "nomacheteur": "Ville de Châtenay-Malabry",
+   "code_departement": [
+    "92"
+   ],
+   "descripteur_libelle": [
+    "Animaux",
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-93502",
+   "pourquoi": "Des brigades pour ramasser les animaux errants des rues."
+  },
+  {
+   "idweb": "26-93224",
+   "objet": "La dynamisation, la gestion et la tenue du marché forain de Viry-Chatillon et de sa régie de recettes",
+   "nomacheteur": "Commune de Viry-Chatillon",
+   "code_departement": [
+    "91"
+   ],
+   "descripteur_libelle": [
+    "Denrées alimentaires",
+    "Mise à disposition de personnel"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-93224",
+   "pourquoi": "Gestion dynamique du marché forain de Viry-Chatillon."
+  },
+  {
+   "idweb": "26-93303",
+   "objet": "Réalisation des opérations d'isolement de déchets suite au déclenchement d'un portique de détection de radioactivité des sites gérés par le Sittomat",
+   "nomacheteur": "S.I.T.T.O.M.A.T",
+   "code_departement": [
+    "83"
+   ],
+   "descripteur_libelle": [
+    "Produits radioactifs"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-93303",
+   "pourquoi": "Isolation des déchets radioactifs détectés par portique."
+  },
+  {
+   "idweb": "26-93188",
+   "objet": "Conception d’illustrations et maquettage de supports de signalétique et de valorisation des sites du Conservatoire du littoral à La Réunion (974)",
+   "nomacheteur": "CELRL 17",
+   "code_departement": [
+    "974",
+    "976"
+   ],
+   "descripteur_libelle": [
+    "Signalétique"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-93188",
+   "pourquoi": "Illustrations pour valoriser les côtes du Conservatoire du littoral."
+  }
+ ]
+}
