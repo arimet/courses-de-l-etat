@@ -1,0 +1,151 @@
+{
+ "date": "2026-09-29",
+ "total": 230,
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "top": [
+  {
+   "idweb": "26-93735",
+   "objet": "PRESTATIONS D’ANALYSE NON-DESTRUCTIVE ET DE COMMENTAIRE D’IMAGERIE SCIENTIFIQUE CONSACREE A L’OEUVRE DE THEODORE GERICAULT - LE RADEAU DE LA MEDUSE (INV. 4884).",
+   "nomacheteur": "Musée du Louvre",
+   "code_departement": [
+    "75"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-93735",
+   "pourquoi": "Le Louvre ausculte le Radeau de la Méduse."
+  },
+  {
+   "idweb": "26-93915",
+   "objet": "Acquisition progressive de pianos acoustiques destinés au pôle des enseignements artistiques du Conservatoire de musique de la Communauté d'Agglomération de l'Étampois Sud-Essonne",
+   "nomacheteur": "CA Etampois Sud Essonne",
+   "code_departement": [
+    "91",
+    "92",
+    "93",
+    "94",
+    "95",
+    "45",
+    "77"
+   ],
+   "descripteur_libelle": [
+    "Instruments de musique"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-93915",
+   "pourquoi": "Des pianos pour le conservatoire, pas pour le salon."
+  },
+  {
+   "idweb": "26-93337",
+   "objet": "Location-vente d'un tomographe à rayons X",
+   "nomacheteur": "INSTITUT POLYTECHNIQUE DE GRENOBLE",
+   "code_departement": [
+    "38"
+   ],
+   "descripteur_libelle": [
+    "Matériel électronique",
+    "Laboratoire (fourniture)",
+    "Laboratoire (matériel)",
+    "Equipement industriel",
+    "Equipements spécialisés",
+    "Matériel de précision"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-93337",
+   "pourquoi": "Un tomographe à louer, pas à l'hôpital."
+  },
+  {
+   "idweb": "26-93629",
+   "objet": "Location, installation et exploitation d'une patinoire, d'un jardin des glaces mobiles et d'un chemin des neiges (2 lots)",
+   "nomacheteur": "Mairie de Vincennes",
+   "code_departement": [
+    "94"
+   ],
+   "descripteur_libelle": [
+    "Equipement sportif"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-93629",
+   "pourquoi": "Patinoire mobile et neige artificielle en ville."
+  },
+  {
+   "idweb": "26-93924",
+   "objet": "FOURNITURE DE COLIS DE NOËL POUR LES AÎNÉS",
+   "nomacheteur": "COMMUNE DE MOLSHEIM",
+   "code_departement": [
+    "67"
+   ],
+   "descripteur_libelle": [
+    "Colis"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-93924",
+   "pourquoi": "Colis de Noël pour les aînés, pas pour le sapin."
+  },
+  {
+   "idweb": "26-93797",
+   "objet": "Préparation, organisation, mise à disposition de repas et animation des banquets des seniors et de la soirée des jeunes diplômés de la ville de Romainville",
+   "nomacheteur": "MAIRIE DE ROMAINVILLE",
+   "code_departement": [
+    "93",
+    "75",
+    "94"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-93797",
+   "pourquoi": "Seniors festoyés, diplômés célébrés."
+  },
+  {
+   "idweb": "26-93649",
+   "objet": "Mission de coordination de la programmation culturelle de la commémoration de l'abolition de l'esclavage du 10 mai",
+   "nomacheteur": "VILLE DE NANTES",
+   "code_departement": [
+    "44"
+   ],
+   "descripteur_libelle": [
+    "Assistance à maîtrise d'ouvrage"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-93649",
+   "pourquoi": "Coordination culturelle pour la commémoration de l'esclavage."
+  },
+  {
+   "idweb": "26-93305",
+   "objet": "Diagnostics et expertises arboricoles sur le territoire de la ville de Villeurbanne",
+   "nomacheteur": "Ville de Villeurbanne",
+   "code_departement": [
+    "69"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-93305",
+   "pourquoi": "Experts arbres auscultent la ville de Villeurbanne."
+  },
+  {
+   "idweb": "26-93964",
+   "objet": "Missions de diagnostic acoustique des bâtiments existants dans le cadre du projet d'extension du réseau de tramway de la Communauté Urbaine Le Havre Seine Métropole",
+   "nomacheteur": "Le Havre Seine Metropole",
+   "code_departement": [
+    "76"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services",
+    "Etude"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-93964",
+   "pourquoi": "Diagnostic acoustique avant le tramway qui roule."
+  },
+  {
+   "idweb": "26-93164",
+   "objet": "Prestation de collecte, d'analyse des échantillons prélevés dans le cadre du pilote et de l'étude principale \"SaMarOya\" et stockage temporaire de mèches de cheveux.",
+   "nomacheteur": "Santé publique France",
+   "code_departement": [
+    "94"
+   ],
+   "descripteur_libelle": [
+    "Analyses médicales, biologiques"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-93164",
+   "pourquoi": "Collecte de cheveux pour l'étude SaMarOya."
+  }
+ ]
+}
