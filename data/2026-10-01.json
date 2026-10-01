@@ -1,0 +1,159 @@
+{
+ "date": "2026-10-01",
+ "total": 351,
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "top": [
+  {
+   "idweb": "26-94949",
+   "objet": "Accord cadre à bons de commande de fournitures d'agrumes Fête du Citron 2027",
+   "nomacheteur": "Office de Tourisme de la ville de Menton",
+   "code_departement": [
+    "6",
+    "83"
+   ],
+   "descripteur_libelle": [
+    "Matériel agricole, horticole"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-94949",
+   "pourquoi": "La Fête du Citron commande des agrumes au kilo."
+  },
+  {
+   "idweb": "26-94693",
+   "objet": "26F0953_MUNITIONS",
+   "nomacheteur": "Mairie de Cannes",
+   "code_departement": [
+    "6"
+   ],
+   "descripteur_libelle": [
+    "Armement"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-94693",
+   "pourquoi": "La mairie de Cannes s'arme : munitions au menu."
+  },
+  {
+   "idweb": "26-94020",
+   "objet": "Fabrication et livraison d'orthèses sur mesure, de bas de contention sur mesure et fourniture d'orthèses de série pour les patients hospitalisés pour les besoins des établissements du GHT Vendée.",
+   "nomacheteur": "CHD VENDEE",
+   "code_departement": [
+    "85"
+   ],
+   "descripteur_libelle": [
+    "Consommables médicaux"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-94020",
+   "pourquoi": "L'hôpital vendéen fabrique des bas sur mesure."
+  },
+  {
+   "idweb": "26-93993",
+   "objet": "Fourniture de copeaux pour le centre équestre de la Ville de Mâcon",
+   "nomacheteur": "MAIRIE DE MACON",
+   "code_departement": [
+    "71"
+   ],
+   "descripteur_libelle": [
+    "Animaux",
+    "Bois"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-93993",
+   "pourquoi": "Mâcon garnit son centre équestre en copeaux."
+  },
+  {
+   "idweb": "26-94109",
+   "objet": "AAPC2026/25 Retrait d’épaves immergées sur des fonds de 9 à 23 m à Motu Uta.",
+   "nomacheteur": "Port autonome de Papeete",
+   "code_departement": [
+    "13",
+    "29",
+    "33",
+    "34",
+    "44",
+    "56",
+    "76",
+    "83",
+    "85"
+   ],
+   "descripteur_libelle": [
+    "Démolition"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-94109",
+   "pourquoi": "Papeete pêche les épaves sous 23 mètres d'eau."
+  },
+  {
+   "idweb": "26-94200",
+   "objet": "Fourniture d’informations relatives aux ventes de cidres en grande distribution sur le marché français et aux achats de cidres par les ménages français pour leur consommation à domicile",
+   "nomacheteur": "FRANCEAGRIMER",
+   "code_departement": [
+    "93",
+    "75",
+    "94",
+    "92",
+    "91",
+    "77",
+    "4",
+    "29"
+   ],
+   "descripteur_libelle": [
+    "Etude"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-94200",
+   "pourquoi": "FranceAgriMer espionne vos achats de cidre en supermarché."
+  },
+  {
+   "idweb": "26-95004",
+   "objet": "Location de matériel scénique",
+   "nomacheteur": "Mairie de Vaison la Romaine",
+   "code_departement": [
+    "84"
+   ],
+   "descripteur_libelle": [
+    "Sonorisation",
+    "Matériel scénique"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-95004",
+   "pourquoi": "Vaison-la-Romaine loue du matériel de concert."
+  },
+  {
+   "idweb": "26-94876",
+   "objet": "La présente consultation a pour objet le déploiement du programme pédagogique « Ma Cour Agroécologique » auprès des établissements scolaires du Plateau de Saclay et conception d'un",
+   "nomacheteur": "Terre Et Cite",
+   "code_departement": [
+    "91"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services",
+    "Etude"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-94876",
+   "pourquoi": "Saclay lance 'Ma Cour Agroécologique' à l'école."
+  },
+  {
+   "idweb": "26-94658",
+   "objet": "Traduction, saisie et mise en forme d’abrégés de demandes de brevets européens en langue anglaise ou allemande à traduire vers le français, pour le compte de l’INPI.",
+   "nomacheteur": "INPI.",
+   "code_departement": [
+    "92",
+    "75"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-94658",
+   "pourquoi": "L'INPI traduit des brevets anglais vers le français."
+  },
+  {
+   "idweb": "26-94002",
+   "objet": "Pots à formol sécurisés",
+   "nomacheteur": "Hôpitaux Civils de Colmar (68)",
+   "code_departement": [
+    "68"
+   ],
+   "descripteur_libelle": [
+    "Analyses médicales, biologiques",
+    "Laboratoire (matériel)",
+    "Produits chimiques"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-94002",
+   "pourquoi": "Colmar sécurise ses bocaux de formol à l'hôpital."
+  }
+ ]
+}
