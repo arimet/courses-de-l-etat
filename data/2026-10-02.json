@@ -1,0 +1,143 @@
+{
+ "date": "2026-10-02",
+ "total": 328,
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "top": [
+  {
+   "idweb": "26-95151",
+   "objet": "LOCATION ET EXPLOITATION D'UNE PATINOIRE ET D'UNE PISTE DE\nLUGE EN SYNTHÉTIQUE, LOCATION D'ELEMENTS DE DECORATION\nPOUR LES FÊTES DE FIN D'ANNÉE 2026 DE LA VILLE DE BRUNOY",
+   "nomacheteur": "Commune de Brunoy",
+   "code_departement": [
+    "91",
+    "75",
+    "45",
+    "77"
+   ],
+   "descripteur_libelle": [
+    "Location (matériels)"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-95151",
+   "pourquoi": "Patinoire synthétique et luge pour fêtes de fin d'année à Brunoy"
+  },
+  {
+   "idweb": "26-95205",
+   "objet": "26GHT45- Transports de corps avant mise en bière pour le Centre Hospitalier de vierzon",
+   "nomacheteur": "GHT DU CHER",
+   "code_departement": [
+    "18"
+   ],
+   "descripteur_libelle": [
+    "Transport"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-95205",
+   "pourquoi": "Avant la bière, le transport des corps à Vierzon"
+  },
+  {
+   "idweb": "26-94623",
+   "objet": "MISSION MOE RÉHABILITATION DU BÂTIMENT ET AMÉNAGEMENT DU SITE DE L'ANCIENNE USINE A THÉ - LA FABRIQUE VÉGÉTALE",
+   "nomacheteur": "Mairie de la Plaine des Palmistes",
+   "code_departement": [
+    "974"
+   ],
+   "descripteur_libelle": [
+    "Maîtrise d'oeuvre"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-94623",
+   "pourquoi": "Usine à thé transformée en fabrique de légumes : infusion verte"
+  },
+  {
+   "idweb": "26-94595",
+   "objet": "MISSION DE MAITRISE D’OEUVRE POUR LA RESTAURATION DU PAVILLON DE LA CARTE DU CIEL ET DU LABORATOIRE FOUCAULT",
+   "nomacheteur": "OBSPM",
+   "code_departement": [
+    "75"
+   ],
+   "descripteur_libelle": [
+    "Ingénierie"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-94595",
+   "pourquoi": "Pavillon du ciel et labo Foucault retrouvent leurs étoiles"
+  },
+  {
+   "idweb": "26-94768",
+   "objet": "Fabrication, stockage et livraison des cartes électorales",
+   "nomacheteur": "Ministère de l'Intérieur",
+   "code_departement": [
+    "75"
+   ],
+   "descripteur_libelle": [
+    "Impression"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-94768",
+   "pourquoi": "L'État imprime vos futures cartes de vote"
+  },
+  {
+   "idweb": "26-94643",
+   "objet": "Valves cardiaques percutanées au profit du groupement régional de commandes- GCS Nouvelle Aquitaine",
+   "nomacheteur": "CHU BORDEAUX",
+   "code_departement": [
+    "33"
+   ],
+   "descripteur_libelle": [
+    "Produits pharmaceutiques"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-94643",
+   "pourquoi": "Des valves cardiaques percutanées pour le cœur du Sud-Ouest"
+  },
+  {
+   "idweb": "26-95302",
+   "objet": "PRESTATION DE TRAITEUR POUR LE RENDEZ-VOUS DES AINES DE SAINT-SEBASTIEN-SUR-LOIRE",
+   "nomacheteur": "CCAS de la ville de Saint Sébastien sur Loire",
+   "code_departement": [
+    "44"
+   ],
+   "descripteur_libelle": [
+    "Repas, traiteur"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-95302",
+   "pourquoi": "Un traiteur pour les aînés, repas servi avec sourire"
+  },
+  {
+   "idweb": "26-95477",
+   "objet": "La présente consultation concerne la passation de 2 marchés pour l?organisation d?un service de traiteur pour les v?ux du Maire aux personnalités (Lot n°1) et au personnel communal (Lot n°2).",
+   "nomacheteur": "Commune de La Garenne-Colombes",
+   "code_departement": [
+    "92",
+    "75",
+    "77",
+    "78"
+   ],
+   "descripteur_libelle": [
+    "Repas, traiteur"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-95477",
+   "pourquoi": "Traiteur de luxe pour vœux du maire et ses employés"
+  },
+  {
+   "idweb": "26-94384",
+   "objet": "Acquisition d'un centre de découpe par jet d'eau abrasif et prestations associées.",
+   "nomacheteur": "Université de Lorraine",
+   "code_departement": [
+    "54"
+   ],
+   "descripteur_libelle": [
+    "Machines-outils"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-94384",
+   "pourquoi": "Jet d'eau abrasif : la découpe qui fait splash"
+  },
+  {
+   "idweb": "26-95230",
+   "objet": "ACQUISITION D’UN MICROSCOPE ELECTRONIQUE A BALAYAGE - COMPACT  POUR L’UNIVERSITE DE LORRAINE",
+   "nomacheteur": "Université de Lorraine",
+   "code_departement": [
+    "54"
+   ],
+   "descripteur_libelle": [
+    "Equipements spécialisés"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-95230",
+   "pourquoi": "Microscope électronique : l'université voit tout en détail"
+  }
+ ]
+}
