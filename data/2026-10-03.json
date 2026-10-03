@@ -1,0 +1,144 @@
+{
+ "date": "2026-10-03",
+ "total": 12,
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "top": [
+  {
+   "idweb": "26-94893",
+   "objet": "Fourniture d'un hangar métallo-textile préfabriqué, modulaire, démontable et équipé pour hélicoptère, et prestations associées.",
+   "nomacheteur": "DGDDI DNGCD",
+   "code_departement": [
+    "80",
+    "76"
+   ],
+   "descripteur_libelle": [
+    "Bâtiments modulaires"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-94893",
+   "pourquoi": "Un hangar qui prête ses ailes aux hélicos."
+  },
+  {
+   "idweb": "26-94879",
+   "objet": "ACHAT DE SEJOURS D'ÉTÉ POUR LES ENFANTS ET LES JEUNES PENDANT LES VACANCES SCOLAIRES DE LA ZONE C 2027 A 2030",
+   "nomacheteur": "Ville de Gennevilliers",
+   "code_departement": [
+    "92"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services",
+    "Voyage"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-94879",
+   "pourquoi": "Des colonies de vacances achetées en gros."
+  },
+  {
+   "idweb": "26-94861",
+   "objet": "Délégation de Service Public pour l’exploitation de plages naturelles à Soulac-sur-Mer",
+   "nomacheteur": "Mairie de Soulac-sur-Mer",
+   "code_departement": [
+    "33"
+   ],
+   "descripteur_libelle": [
+    "Plage",
+    "Délégation de service public"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-94861",
+   "pourquoi": "La ville loue son sable aux estivants."
+  },
+  {
+   "idweb": "26-94868",
+   "objet": "Valorisation des déchets verts produits par les services municipaux des communes de la Communauté d'agglomération du Puy-en-Velay",
+   "nomacheteur": "CA du Puy en Velay",
+   "code_departement": [
+    "43"
+   ],
+   "descripteur_libelle": [
+    "Déchets non ménagers (prestations)"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-94868",
+   "pourquoi": "Du compost made in mairie."
+  },
+  {
+   "idweb": "26-94885",
+   "objet": "Acquisition d'un hydrocureur sur porteur neuf de 26 tonnes-.",
+   "nomacheteur": "REGIE DE L'EAU ET DE l'ASSAINISSEMENT",
+   "code_departement": [
+    "88"
+   ],
+   "descripteur_libelle": [
+    "Matériel de travaux publics"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-94885",
+   "pourquoi": "Un aspirateur de voirie XXL."
+  },
+  {
+   "idweb": "26-94873",
+   "objet": "NETTOYAGE DU HALL 9",
+   "nomacheteur": "Syndicat Mixte DECOSET",
+   "code_departement": [
+    "31"
+   ],
+   "descripteur_libelle": [
+    "Nettoyage de locaux"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-94873",
+   "pourquoi": "Le hall neuf fait sa beauté."
+  },
+  {
+   "idweb": "26-94871",
+   "objet": "FOURNITURE DE DISPOSITIFS MÉDICAUX STERILES ET IMPLANTABLES POUR FERMETURE DES PLAIES, PANSEMENT, OBJET DE SOIN",
+   "nomacheteur": "Centre Hospitalier Universitaire de Nîmes",
+   "code_departement": [
+    "30"
+   ],
+   "descripteur_libelle": [
+    "Consommables médicaux"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-94871",
+   "pourquoi": "Des points de suture qui viennent en kit."
+  },
+  {
+   "idweb": "26-94865",
+   "objet": "FOURNITURE ET LIVRAISON DE BARRIERES METALLIQUES DE SECURITE ROUTIERE",
+   "nomacheteur": "Conseil départemental du Jura",
+   "code_departement": [
+    "39"
+   ],
+   "descripteur_libelle": [
+    "Glissières de sécurité",
+    "Voirie"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-94865",
+   "pourquoi": "Des gardes-fous qui ne prennent pas de vacances."
+  },
+  {
+   "idweb": "26-94863",
+   "objet": "Groupement de commandes CULHSM / VDH - Fourniture, installation et maintenance de bornes de recharge (IRVE) - Marché transversal en groupement de commandes",
+   "nomacheteur": "LE HAVRE SEINE METROPOLE",
+   "code_departement": [
+    "76"
+   ],
+   "descripteur_libelle": [
+    "Matériel électrique",
+    "Equipements spécialisés",
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-94863",
+   "pourquoi": "Des prises qui font le plein d'électrons."
+  },
+  {
+   "idweb": "26-94880",
+   "objet": "Fourniture de matériel pour l'éclairage public",
+   "nomacheteur": "Communauté d'agglomération Bourges Plus",
+   "code_departement": [
+    "18"
+   ],
+   "descripteur_libelle": [
+    "Candélabre",
+    "Eclairage public"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-94880",
+   "pourquoi": "Des lampadaires qui éclairent les idées."
+  }
+ ]
+}
