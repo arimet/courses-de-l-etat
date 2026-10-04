@@ -1,0 +1,152 @@
+{
+ "date": "2026-10-04",
+ "total": 144,
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "top": [
+  {
+   "idweb": "26-95115",
+   "objet": "DELEGATION DE SERVICE PUBLIC CONSTRUCTION ET EXPLOITATION DU CREMATORIUM",
+   "nomacheteur": "Mairie de Cavaillon",
+   "code_departement": [
+    "84"
+   ],
+   "descripteur_libelle": [
+    "Délégation de service public"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-95115",
+   "pourquoi": "Le crématorium passe aux mains publiques."
+  },
+  {
+   "idweb": "26-95141",
+   "objet": "Acquisition et livraison d'équipements permettant l'étude des animaux en milieu naturel",
+   "nomacheteur": "Université de Reims Champagne Ardenne",
+   "code_departement": [
+    "51"
+   ],
+   "descripteur_libelle": [
+    "Animaux",
+    "Matériel d'imprimerie",
+    "Matériel photographique et cinématographique"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-95141",
+   "pourquoi": "Des jumelles pour épier les animaux sauvages."
+  },
+  {
+   "idweb": "26-95249",
+   "objet": "Prestations de transports de produits issus du sang humain et autres biens",
+   "nomacheteur": "HUS-Etablissement support du GHT 10",
+   "code_departement": [
+    "67",
+    "57"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services",
+    "Transport"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-95249",
+   "pourquoi": "Le sang voyage en camion frigo."
+  },
+  {
+   "idweb": "26-95273",
+   "objet": "Distribution non adressée du magazine 2026 de la Métropole du Grand Paris",
+   "nomacheteur": "Métropole du Grand Paris",
+   "code_departement": [
+    "75",
+    "91",
+    "92",
+    "93",
+    "94",
+    "95"
+   ],
+   "descripteur_libelle": [
+    "Boîtes aux lettres"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-95273",
+   "pourquoi": "Un magazine qui vole dans les boîtes."
+  },
+  {
+   "idweb": "26-95327",
+   "objet": "Fourniture de produits radiopharmaceutiques destinés aux activités de médecine nucléaire des établissements membres du GHT 83",
+   "nomacheteur": "Centre Hospitalier Intercommunal de Toulon la Seyne sur Mer",
+   "code_departement": [
+    "83"
+   ],
+   "descripteur_libelle": [
+    "Produits pharmaceutiques"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-95327",
+   "pourquoi": "De la radioactivité en prescription."
+  },
+  {
+   "idweb": "26-95329",
+   "objet": "ACCORD-CADRE DE SEJOURS EN EUROPE ET LONGUE DISTANCE, DE VISITE D'UNE VILLE-REGION EUROPEENNE, DE PRESTATIONS DE SERVICES D'EXCURSIONS EN CAR, DE TRANSPORT EN CAR ET DE CROISIERE",
+   "nomacheteur": "Centre Communal d'Action Sociale",
+   "code_departement": [
+    "60"
+   ],
+   "descripteur_libelle": [
+    "Transport",
+    "Voyage"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-95329",
+   "pourquoi": "Voyages organisés pour les seniors du CCAS."
+  },
+  {
+   "idweb": "26-95352",
+   "objet": "LOGISTIQUE ET SUPPORTS DE COMMUNICATION DU SALON INTERNATIONAL TECHetBIO 2027",
+   "nomacheteur": "CHAMBRE D'AGRICULTURE DE LA DROME",
+   "code_departement": [
+    "26"
+   ],
+   "descripteur_libelle": [
+    "Stand",
+    "Sonorisation",
+    "Gardiennage",
+    "Mobilier",
+    "Signalétique"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-95352",
+   "pourquoi": "Le salon bio se fait beau."
+  },
+  {
+   "idweb": "26-95391",
+   "objet": "Éditique métropole",
+   "nomacheteur": "ETABLISSEMENT FRANCAIS DU SANG",
+   "code_departement": [
+    "93"
+   ],
+   "descripteur_libelle": [
+    "Impression"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-95391",
+   "pourquoi": "Le métro a besoin d'un correcteur."
+  },
+  {
+   "idweb": "26-95395",
+   "objet": "Acquisition d'une machine de fraisage et prestations associées dans le domaine de la micro-électronique pour l'IRCGN au sein de l'Unité Nationale de Police Judiciaire de la Gendarmerie Nationale",
+   "nomacheteur": "COMSOPGN",
+   "code_departement": [
+    "95",
+    "36"
+   ],
+   "descripteur_libelle": [
+    "Matériel de précision"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-95395",
+   "pourquoi": "La police fraise ses preuves."
+  },
+  {
+   "idweb": "26-95407",
+   "objet": "Marché d'études spécialisées archéologie – RELANCE du lot 3: DENDROCHRONOLOGIE-.",
+   "nomacheteur": "Conseil Départemental des Ardennes",
+   "code_departement": [
+    "8"
+   ],
+   "descripteur_libelle": [
+    "Etude"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-95407",
+   "pourquoi": "On compte les arbres pour raconter l'histoire."
+  }
+ ]
+}
