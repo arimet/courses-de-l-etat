@@ -1,0 +1,161 @@
+{
+ "date": "2026-10-05",
+ "total": 187,
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "top": [
+  {
+   "idweb": "26-95688",
+   "objet": "Le marché a pour objet la réalisation d'un voyage en Espagne, destination Bilbao, du 4 au 9 avril 2027.",
+   "nomacheteur": "Lycée Jean Puy",
+   "code_departement": [
+    "1",
+    "3",
+    "42",
+    "43",
+    "63",
+    "69"
+   ],
+   "descripteur_libelle": [
+    "Voyage"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-95688",
+   "pourquoi": "Un voyage scolaire qui sent la paella."
+  },
+  {
+   "idweb": "26-96068",
+   "objet": "CONCEPTION, REALISATION ET POSE D’UN BARRAGE DEVIANT ANTI SARGASSES – PLAGE DE ROSEAU",
+   "nomacheteur": "Ville de Capesterre Belle-Eau (971)",
+   "code_departement": [
+    "971"
+   ],
+   "descripteur_libelle": [
+    "Maintenance"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-96068",
+   "pourquoi": "Un barrage qui dit non aux algues."
+  },
+  {
+   "idweb": "26-95755",
+   "objet": "Orange (84) - Base Aérienne 115 - Capitaine de Seynes - Création d'une aire de jeux de type PADEL",
+   "nomacheteur": "SID Sud-Est",
+   "code_departement": [
+    "84",
+    "13",
+    "30",
+    "26",
+    "4"
+   ],
+   "descripteur_libelle": [
+    "Terrassement",
+    "Terrain de sport"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-95755",
+   "pourquoi": "Un smash sur le tarmac."
+  },
+  {
+   "idweb": "26-96030",
+   "objet": "2026-08-LOT 1 Entretien des espaces verts et LOT 2 Prestation d'Écopâturage",
+   "nomacheteur": "SMEACC (Syndicat Mixte d'Eau et d'Assainissement du Caux Central)",
+   "code_departement": [
+    "76"
+   ],
+   "descripteur_libelle": [
+    "Espaces verts"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-96030",
+   "pourquoi": "Des tondeuses à quatre pattes."
+  },
+  {
+   "idweb": "26-96080",
+   "objet": "Organisation et mise en œuvre d’une journée thématique sur le thème de Jules Verne pour les enfants du personnel de la CPAM du Val-de-Marne",
+   "nomacheteur": "CPAM DU VAL DE MARNE",
+   "code_departement": [
+    "94",
+    "75",
+    "77",
+    "91",
+    "92",
+    "93",
+    "95",
+    "78"
+   ],
+   "descripteur_libelle": [
+    "Evénementiel"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-96080",
+   "pourquoi": "Une journée autour du monde en 80 blagues."
+  },
+  {
+   "idweb": "26-96039",
+   "objet": "Confection et livraison de colis alimentaires festifs et chocolats destinés aux personnes âgées ou isolées de la commune d'Antibes Juan-les-Pins pour l'année 2027",
+   "nomacheteur": "CCAS d'Antibes (06)",
+   "code_departement": [
+    "6"
+   ],
+   "descripteur_libelle": [
+    "Colis"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-96039",
+   "pourquoi": "Des papilles en fête pour nos aînés."
+  },
+  {
+   "idweb": "26-95948",
+   "objet": "ORGANISATION DE SEJOUR A DESTINATION DES SENIORS DE LA VILLE DE ROMILLY-SUR-SEINE-.",
+   "nomacheteur": "Ville de Romilly-sur-Seine",
+   "code_departement": [
+    "10"
+   ],
+   "descripteur_libelle": [
+    "Repas, traiteur"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-95948",
+   "pourquoi": "Un séjour qui sent bon la sieste."
+  },
+  {
+   "idweb": "26-95951",
+   "objet": "Formation au permis de conduire poids-lourds pour les sapeurs-pompiers du SDIS 35",
+   "nomacheteur": "SDIS 35",
+   "code_departement": [
+    "35"
+   ],
+   "descripteur_libelle": [
+    "Formation"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-95951",
+   "pourquoi": "Des camions qui apprennent à pompier."
+  },
+  {
+   "idweb": "26-96082",
+   "objet": "CREATION ET DEVELOPPEMENT DES RESEAUX SOCIAUX DU DISPOSITIF TEAM GO GIRLS DE L’AGENCE NATIONALE DU SPORT",
+   "nomacheteur": "Agence nationale du Sport",
+   "code_departement": [
+    "94",
+    "75",
+    "91",
+    "92",
+    "93",
+    "95",
+    "77",
+    "78"
+   ],
+   "descripteur_libelle": [
+    "Publicité, Communication"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-96082",
+   "pourquoi": "Des likes pour des sprints."
+  },
+  {
+   "idweb": "26-95921",
+   "objet": "Système de microspectroscopie optique multimodale",
+   "nomacheteur": "ULIM.",
+   "code_departement": [
+    "87"
+   ],
+   "descripteur_libelle": [
+    "Equipements spécialisés"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-95921",
+   "pourquoi": "Un œil high-tech pour la recherche."
+  }
+ ]
+}
