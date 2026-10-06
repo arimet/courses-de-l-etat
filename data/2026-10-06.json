@@ -1,0 +1,142 @@
+{
+ "date": "2026-10-06",
+ "total": 223,
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "top": [
+  {
+   "idweb": "26-96533",
+   "objet": "LILLE NEIGE 2027",
+   "nomacheteur": "Ville de Lille",
+   "code_departement": [
+    "59"
+   ],
+   "descripteur_libelle": [
+    "Evénementiel"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-96533",
+   "pourquoi": "Lille veut sa propre neige, même en été."
+  },
+  {
+   "idweb": "26-95789",
+   "objet": "Location, montage et démontage d'une attraction foraine, d'une patinoire de glace synthétique avec plancher, chalet et décoration et l'achat et location d'illuminations pour le marché de Noël 2026...",
+   "nomacheteur": "Ville de Lomme, Commune associée à la Ville de Lille",
+   "code_departement": [
+    "59"
+   ],
+   "descripteur_libelle": [
+    "Location (matériels)"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-95789",
+   "pourquoi": "Noël s'installe avec patinoire et chalet clé en main."
+  },
+  {
+   "idweb": "26-96483",
+   "objet": "Organisation de séjours pour enfants et adolescents en hiver et en été 2027",
+   "nomacheteur": "Mairie de Drancy",
+   "code_departement": [
+    "93",
+    "75"
+   ],
+   "descripteur_libelle": [
+    "Voyage"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-96483",
+   "pourquoi": "Colos vacances financées par la mairie de Drancy."
+  },
+  {
+   "idweb": "26-96499",
+   "objet": "Accord-cadre mono-attributaire à bons de commande relatif à l’organisation d’opérations funéraires et obsèques-.",
+   "nomacheteur": "Commune de Troyes",
+   "code_departement": [
+    "10"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-96499",
+   "pourquoi": "Obseques clés en main, marché public de pompes funèbres."
+  },
+  {
+   "idweb": "26-96582",
+   "objet": "Fournitures Des Couches Jetables Pour L'Ensemble Des Structures De La Petite Enfance De La Ville",
+   "nomacheteur": "Mairie de Gonesse",
+   "code_departement": [
+    "95"
+   ],
+   "descripteur_libelle": [
+    "Couches"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-96582",
+   "pourquoi": "La ville couche ses petits, couche après couche."
+  },
+  {
+   "idweb": "26-96583",
+   "objet": "Dispositif d'accompagnement administratif et juridique des mineurs non accompagnés en demande d'asile",
+   "nomacheteur": "Grandlyon Métropole",
+   "code_departement": [
+    "69"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-96583",
+   "pourquoi": "Mineurs isolés assistés, papiers et soutien juridiques."
+  },
+  {
+   "idweb": "26-96437",
+   "objet": "Conception, réalisation et installation d'un parcours immersif",
+   "nomacheteur": "Commune de Saint Etienne de Tinée (06)",
+   "code_departement": [
+    "6"
+   ],
+   "descripteur_libelle": [
+    "Equipements spécialisés",
+    "Matériel photographique et cinématographique"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-96437",
+   "pourquoi": "Plongez dans un parcours réalisés par la commune."
+  },
+  {
+   "idweb": "26-96494",
+   "objet": "Accompagner le tourisme durable autour des patrimoines naturels, paysagers et culturels du volcan littoral (Saint-Philippe ; Sainte-Rose)",
+   "nomacheteur": "PNR 974",
+   "code_departement": [
+    "974"
+   ],
+   "descripteur_libelle": [
+    "Etude"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-96494",
+   "pourquoi": "Tourisme vert au pied du volcan, subventionné."
+  },
+  {
+   "idweb": "26-96439",
+   "objet": "Mise à disposition de salles et prestations afférentes dans le cadre de l’organisation de la cérémonie de remise des diplômes de l’IAE Lille, composante de l’Université de Lille",
+   "nomacheteur": "UNIVERSITE DE LILLE",
+   "code_departement": [
+    "59"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services",
+    "Repas, traiteur",
+    "Evénementiel",
+    "Audiovisuel"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-96439",
+   "pourquoi": "Remise de diplômes avec salle et service tout compris."
+  },
+  {
+   "idweb": "26-95689",
+   "objet": "Réalisation de reportages photographiques et de création de contenus pour les réseaux sociaux",
+   "nomacheteur": "Brest métropole",
+   "code_departement": [
+    "29"
+   ],
+   "descripteur_libelle": [
+    "Publicité, Communication"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-95689",
+   "pourquoi": "La métropole Brest devient influenceuse officielle."
+  }
+ ]
+}
