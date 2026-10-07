@@ -1,0 +1,150 @@
+{
+ "date": "2026-10-07",
+ "total": 303,
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "top": [
+  {
+   "idweb": "26-96831",
+   "objet": "LOCATION D'ÉQUIPEMENT NÉCESSAIRE AUX PRATIQUES SUR LA NEIGE ET PRESTATIONS ASSOCIÉES POUR LES VILLAGES DE VACANCES DU CONSEIL DÉPARTEMENTAL DU VAL DE MARNE.",
+   "nomacheteur": "ORG - 0001 - CONSEIL DÉPARTEMENTAL DU VAL DE MARNE",
+   "code_departement": [
+    "94",
+    "73",
+    "74"
+   ],
+   "descripteur_libelle": [
+    "Equipement sportif"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-96831",
+   "pourquoi": "Des skis prêtés aux colonies de vacances."
+  },
+  {
+   "idweb": "26-96387",
+   "objet": "Fourniture déploiement moustiques stériles destinés à la lutte biologique contre le moustique tigre par la mise en oeuvre de la Technique de l'Insecte Stérile (TIS), sans recours aux insecticides",
+   "nomacheteur": "EPT 10 Paris Est Marne et Bois",
+   "code_departement": [
+    "94"
+   ],
+   "descripteur_libelle": [
+    "Animaux"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-96387",
+   "pourquoi": "Lâcher de moustiques stériles contre le tigre."
+  },
+  {
+   "idweb": "26-96086",
+   "objet": "26V0397 - Achat de tissus et accessoires  de tringlerie",
+   "nomacheteur": "Ville de Nice",
+   "code_departement": [
+    "6"
+   ],
+   "descripteur_libelle": [
+    "Textile"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-96086",
+   "pourquoi": "Du tissu pour rideaux niçois."
+  },
+  {
+   "idweb": "26-96900",
+   "objet": "Fourniture de peinture, revêtements muraux et de sols, éléments de décoration et divers accessoires",
+   "nomacheteur": "Mairie Charenton Le Pont",
+   "code_departement": [
+    "94"
+   ],
+   "descripteur_libelle": [
+    "Peinture (fourniture)"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-96900",
+   "pourquoi": "Un coup de neuf pour la mairie."
+  },
+  {
+   "idweb": "26-97001",
+   "objet": "Prestations  pour le Salon International de l'Agriculture - Éditions 2027 et 2028",
+   "nomacheteur": "Chambre Régionale d'Agriculture de Bourgogne-Franche-Comté",
+   "code_departement": [
+    "21"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services",
+    "Publicité, Communication"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-97001",
+   "pourquoi": "Le salon de l’agriculture cherche du soutien."
+  },
+  {
+   "idweb": "26-96081",
+   "objet": "prestation de traiteur à l'ENTPE",
+   "nomacheteur": "ENTPE",
+   "code_departement": [
+    "69",
+    "1",
+    "38",
+    "42"
+   ],
+   "descripteur_libelle": [
+    "Repas, traiteur"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-96081",
+   "pourquoi": "Un traiteur pour l’école d’ingénieurs."
+  },
+  {
+   "idweb": "26-96053",
+   "objet": "Relance : Location annuelle d'une balayeuse avec  maintenance et sans chauffeur pour la Ville de Mitry-Mory",
+   "nomacheteur": "Ville de Mitry-Mory",
+   "code_departement": [
+    "77"
+   ],
+   "descripteur_libelle": [
+    "Véhicules (location)"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-96053",
+   "pourquoi": "Une balayeuse louée, sans conducteur."
+  },
+  {
+   "idweb": "26-96023",
+   "objet": "TRANSPORTS SANITAIRES TERRESTRES DE PATIENTS ET TRANSPORTS D’USAGERS",
+   "nomacheteur": "GH Saintes - SJY, Ets support du GHT Charente Maritime Sud",
+   "code_departement": [
+    "17"
+   ],
+   "descripteur_libelle": [
+    "Transport"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-96023",
+   "pourquoi": "Des ambulances pour les patients."
+  },
+  {
+   "idweb": "26-96122",
+   "objet": "PRESTATION DE MAINTENANCE DES EQUIPEMENTS BIOMEDICAUX ET CONSOMMABLES LIES",
+   "nomacheteur": "Centre Hospitalier Universitaire de Nîmes",
+   "code_departement": [
+    "30"
+   ],
+   "descripteur_libelle": [
+    "Maintenance",
+    "Consommables médicaux",
+    "Matériel médical"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-96122",
+   "pourquoi": "Maintenance high-tech pour l’hôpital."
+  },
+  {
+   "idweb": "26-96025",
+   "objet": "Fourniture d’une solution externalisée d’envoi de documents en masse (impression, mise sous pli, affranchissement, et remise à un distributeur), d’archivage, et de suivi des envois via un portail web",
+   "nomacheteur": "AGENCE DE L’EAU ARTOIS - PICARDIE",
+   "code_departement": [
+    "59",
+    "62",
+    "80",
+    "2",
+    "60",
+    "75"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-96025",
+   "pourquoi": "Le courrier en masse externalisé."
+  }
+ ]
+}
