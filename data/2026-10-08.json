@@ -1,0 +1,165 @@
+{
+ "date": "2026-10-08",
+ "total": 331,
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "top": [
+  {
+   "idweb": "26-96565",
+   "objet": "ORGANISATION DU BANQUET DES AINEES DE LA VILLE DE CHEVILLY-LARUE",
+   "nomacheteur": "CCAS de la ville de Chevilly-Larue",
+   "code_departement": [
+    "94",
+    "75",
+    "77",
+    "78"
+   ],
+   "descripteur_libelle": [
+    "Repas, traiteur",
+    "Evénementiel"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-96565",
+   "pourquoi": "Le ville invite ses aînés à festoyer."
+  },
+  {
+   "idweb": "26-96845",
+   "objet": "TRANSPORT D'OEUVRES D'ARTS POUR LES MUSEES DE RODEZ AGGLOMERATION",
+   "nomacheteur": "CA RODEZ AGGLOMERATION",
+   "code_departement": [
+    "12"
+   ],
+   "descripteur_libelle": [
+    "Transport"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-96845",
+   "pourquoi": "Les tableaux prennent le camion."
+  },
+  {
+   "idweb": "26-96762",
+   "objet": "Marché de scénographie et d'applications numériques pour l'exposition de la M.M.I",
+   "nomacheteur": "COMUE - UdL",
+   "code_departement": [
+    "69"
+   ],
+   "descripteur_libelle": [
+    "Equipement muséographique",
+    "Logiciel",
+    "Matériel scénique"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-96762",
+   "pourquoi": "L'expo s'offre un décor high-tech."
+  },
+  {
+   "idweb": "26-96872",
+   "objet": "Fourniture et livraison de jeux, de jouets et de cartes cadeaux pour les services du Département du Territoire de Belfort - Lot n° 4 : Jeux et jouets d'extérieurs dits de loisirs",
+   "nomacheteur": "DEPARTEMENT DU TERRITOIRE DE BELFORT",
+   "code_departement": [
+    "90",
+    "25",
+    "68",
+    "70"
+   ],
+   "descripteur_libelle": [
+    "Jeux, jouets",
+    "Equipement sportif"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-96872",
+   "pourquoi": "Le département joue à dehors."
+  },
+  {
+   "idweb": "26-96926",
+   "objet": "ACQUISITION ET LIVRAISON DE FOURNITURES SCOLAIRES, DE FOURNITURES DE TRAVAUX MANUELS ET DE MATÉRIEL PÉDAGOGIQUE, LIVRES SCOLAIRES ET NON SCOLAIRES ET JEUX ET JOUETS POUR LES SERVICES MUNICIPAUX",
+   "nomacheteur": "Ville de Vigneux sur Seine",
+   "code_departement": [
+    "45",
+    "75",
+    "77",
+    "78",
+    "91",
+    "92",
+    "93",
+    "94",
+    "95"
+   ],
+   "descripteur_libelle": [
+    "Articles de bureau et articles scolaires",
+    "Jeux, jouets",
+    "Livres"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-96926",
+   "pourquoi": "La ville abaste les cartables et les jeux."
+  },
+  {
+   "idweb": "26-96970",
+   "objet": "ORGANISATION DU MARCHE DU « CENTRE-VILLE » ET DES « MAZIERES »",
+   "nomacheteur": "VILLE DE DRAVEIL",
+   "code_departement": [
+    "91",
+    "78",
+    "94",
+    "95"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-96970",
+   "pourquoi": "Le centre-ville devient marché à ciel ouvert."
+  },
+  {
+   "idweb": "26-96509",
+   "objet": "ACQUISITION DE MACHINES DE COUTURES A DESTINATION DES LYCEES DE LA REGION CENTRE-VAL DE LOIRE",
+   "nomacheteur": "REGION CENTRE VAL DE LOIRE",
+   "code_departement": [
+    "45"
+   ],
+   "descripteur_libelle": [
+    "Machines-outils"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-96509",
+   "pourquoi": "Les lycées piquent leur première aiguille."
+  },
+  {
+   "idweb": "26-96503",
+   "objet": "FOURNITURE DE DENREES ALIMENTAIRES POUR LA VILLE DE GRAND-QUEVILLY - POISSONS SURGELES",
+   "nomacheteur": "Ville de Grand Quevilly",
+   "code_departement": [
+    "76"
+   ],
+   "descripteur_libelle": [
+    "Denrées alimentaires",
+    "Surgelés"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-96503",
+   "pourquoi": "Grand-Quevilly mise sur le poisson glacé."
+  },
+  {
+   "idweb": "26-96590",
+   "objet": "FOURNITURE ET LIVRAISON DE TITRES RESTAURANT",
+   "nomacheteur": "COMMUNAUTE D'AGGLOMERATION DE MARNE ET GONDOIRE",
+   "code_departement": [
+    "77"
+   ],
+   "descripteur_libelle": [
+    "Titres restaurant"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-96590",
+   "pourquoi": "Les tickets resto débarquent en masse."
+  },
+  {
+   "idweb": "26-96697",
+   "objet": "Marché de veille presse et relations médias",
+   "nomacheteur": "Institut National D'Etudes Démographiques",
+   "code_departement": [
+    "75"
+   ],
+   "descripteur_libelle": [
+    "Surveillance",
+    "Etude",
+    "Publicité, Communication",
+    "Logiciel",
+    "Audiovisuel"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-96697",
+   "pourquoi": "L'INED scrute les titres du jour."
+  }
+ ]
+}
