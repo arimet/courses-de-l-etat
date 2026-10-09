@@ -1,0 +1,150 @@
+{
+ "date": "2026-10-09",
+ "total": 396,
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "top": [
+  {
+   "idweb": "26-98026",
+   "objet": "Mise à disposition d’un frigo connecté et livraison de repas pour les personnels de l’Institut de France et des cinq Académies",
+   "nomacheteur": "Institut de France",
+   "code_departement": [
+    "51",
+    "52",
+    "75",
+    "76",
+    "77",
+    "92",
+    "93",
+    "94"
+   ],
+   "descripteur_libelle": [
+    "Repas, traiteur"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-98026",
+   "pourquoi": "Un frigo connecté pour les Immortels."
+  },
+  {
+   "idweb": "26-97220",
+   "objet": "M202601500 - Exploitation et acquisition d'un petit train touristique pour la commune de Honfleur",
+   "nomacheteur": "Mairie de Honfleur",
+   "code_departement": [
+    "14"
+   ],
+   "descripteur_libelle": [
+    "Equipement thermique"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-97220",
+   "pourquoi": "Honfleur s'offre son petit train."
+  },
+  {
+   "idweb": "26-97380",
+   "objet": "Gestion de l'activité de location de bateaux électriques - Année 2027 renouvelable en 2028, 2029, 2030",
+   "nomacheteur": "Le Mans Métropole",
+   "code_departement": [
+    "72"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-97380",
+   "pourquoi": "Le Mans met les voiles en électrique."
+  },
+  {
+   "idweb": "26-97964",
+   "objet": "Travaux de maçonnerie et de revêtement pierre dans le cadre de la construction du garage à sièges du télésiège de la Rosta sur la commune et le domaine skiable des Gets (Haute-Savo",
+   "nomacheteur": "Solegets",
+   "code_departement": [
+    "74"
+   ],
+   "descripteur_libelle": [
+    "Maçonnerie"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-97964",
+   "pourquoi": "Un garage pour les sièges du télésiège."
+  },
+  {
+   "idweb": "26-97166",
+   "objet": "FOURNITURE DE PORTIERS DE RUE",
+   "nomacheteur": "MINISTERE DE L'INTERIEUR",
+   "code_departement": [
+    "75"
+   ],
+   "descripteur_libelle": [
+    "Informatique (matériel)",
+    "Informatique (prestations de services)",
+    "Informatique (assistance)"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-97166",
+   "pourquoi": "Le ministère recrute des portiers de rue."
+  },
+  {
+   "idweb": "26-97966",
+   "objet": "Assurance embarcations (bateaux) pour les besoins du Sdis des Yvelines (Sdis 78)",
+   "nomacheteur": "Service départemental d'incendie et de secours des Yvelines",
+   "code_departement": [
+    "78"
+   ],
+   "descripteur_libelle": [
+    "Assurance"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-97966",
+   "pourquoi": "Les pompiers des Yvelines assurent leurs bateaux."
+  },
+  {
+   "idweb": "26-98102",
+   "objet": "Location et maintenance de jeux de convivialité",
+   "nomacheteur": "BAMAC",
+   "code_departement": [
+    "75"
+   ],
+   "descripteur_libelle": [
+    "Jeux, jouets",
+    "Mobilier"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-98102",
+   "pourquoi": "L'État loue de la convivialité en kit."
+  },
+  {
+   "idweb": "26-97259",
+   "objet": "Fourniture et livraison de jeux, de jouets et de cartes cadeaux pour les services du Département du Territoire de Belfort - Lot n° 2 : Jeux pour les personnes âgées, handicapées et public empêché",
+   "nomacheteur": "DEPARTEMENT DU TERRITOIRE DE BELFORT",
+   "code_departement": [
+    "90",
+    "25",
+    "70",
+    "39"
+   ],
+   "descripteur_libelle": [
+    "Jeux, jouets"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-97259",
+   "pourquoi": "Des jouets pour le « public empêché »."
+  },
+  {
+   "idweb": "26-97176",
+   "objet": "Prestations de maintenance des barrages anti sargasses pour le compte du GIP Sargasses",
+   "nomacheteur": "GIP Sargasses - Prévention et Gestion des Sargasses en Martinique",
+   "code_departement": [
+    "972"
+   ],
+   "descripteur_libelle": [
+    "Barrage",
+    "Maintenance"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-97176",
+   "pourquoi": "Des barrages contre l'invasion de sargasses."
+  },
+  {
+   "idweb": "26-97218",
+   "objet": "Sous-traités d’exploitation de la concession de plage de Blériot-Plage – Lots 2, 5, 10, 11, 13 et 18",
+   "nomacheteur": "VILLE DE SANGATTE",
+   "code_departement": [
+    "62"
+   ],
+   "descripteur_libelle": [
+    "Plage"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-97218"
+  }
+ ]
+}
