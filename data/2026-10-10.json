@@ -1,0 +1,154 @@
+{
+ "date": "2026-10-10",
+ "total": 50,
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "top": [
+  {
+   "idweb": "26-97521",
+   "objet": "Mise à disposition des contenants, collecte et traitement des bouteilles de gaz de protoxyde d’azote au profit de la Police Nationale et la Gendarmerie Nationale de Nouvelle-Aquitaine.",
+   "nomacheteur": "SGAMI SUD-OUEST",
+   "code_departement": [
+    "17",
+    "24",
+    "33",
+    "40",
+    "47",
+    "64",
+    "79",
+    "86",
+    "87"
+   ],
+   "descripteur_libelle": [
+    "Déchets non ménagers (prestations)"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-97521",
+   "pourquoi": "Gaz hilarant pour forces de l'ordre, recyclage officiel."
+  },
+  {
+   "idweb": "26-97528",
+   "objet": "Prestations de prisées, renouvellements et ventes aux enchères publiques judiciaires du Crédit Municipal de Bordeaux en son agence de Bordeaux",
+   "nomacheteur": "CREDIT MUNICIPAL DE BORDEAUX",
+   "code_departement": [
+    "33",
+    "24",
+    "16"
+   ],
+   "descripteur_libelle": [
+    "Métaux précieux",
+    "Prestations de services",
+    "Oeuvre d'art"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-97528",
+   "pourquoi": "Le Crédit Municipal joue aux commissaires-priseurs."
+  },
+  {
+   "idweb": "26-97572",
+   "objet": "Fourniture de végétaux : Arbres tige, plants et baliveaux forestiers",
+   "nomacheteur": "Département des Hauts-de-Seine",
+   "code_departement": [
+    "92"
+   ],
+   "descripteur_libelle": [
+    "Végétaux"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-97572",
+   "pourquoi": "Les Hauts-de-Seine commandent la forêt de demain."
+  },
+  {
+   "idweb": "26-97480",
+   "objet": "Prestations de sensibilisation au compostage individuel et distributions de composteurs individuels et bio-seaux",
+   "nomacheteur": "Angers Loire Metropole (49)",
+   "code_departement": [
+    "49"
+   ],
+   "descripteur_libelle": [
+    "Composteur"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-97480",
+   "pourquoi": "Angers distribue des poubelles à vers domestiques."
+  },
+  {
+   "idweb": "26-97533",
+   "objet": "spectrométrie de masse à temps de vol, haute résolution pour l’analyse métabolomique de petits métabolites",
+   "nomacheteur": "Université Bourgogne Europe",
+   "code_departement": [
+    "21"
+   ],
+   "descripteur_libelle": [
+    "Laboratoire (matériel)"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-97533",
+   "pourquoi": "L'université s'offre un nez électronique haute précision."
+  },
+  {
+   "idweb": "26-97565",
+   "objet": "Transport à température dirigée d'échantillons biologiques et diagnostiques",
+   "nomacheteur": "CHU de Lille - ES du GHT HPGL",
+   "code_departement": [
+    "59"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services",
+    "Transport"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-97565",
+   "pourquoi": "Urgence biologique : le CHU de Lille livre au frais."
+  },
+  {
+   "idweb": "26-97522",
+   "objet": "Convention de délégation de service public pour la gestion et l'exploitation du centre Equestre Marseille-Pastré",
+   "nomacheteur": "Commune de Marseille",
+   "code_departement": [
+    "13"
+   ],
+   "descripteur_libelle": [
+    "Equipement sportif"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-97522",
+   "pourquoi": "Marseille délègue son centre équestre, cheval public."
+  },
+  {
+   "idweb": "26-97487",
+   "objet": "PRESTATIONS DE DEBROUSSAILLEMENT D’OFFICE",
+   "nomacheteur": "Ville de Mandelieu-La Napoule (06)",
+   "code_departement": [
+    "6"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services",
+    "Espaces verts"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-97487",
+   "pourquoi": "Mandelieu impose le débroussaillement, facture à l'occupant."
+  },
+  {
+   "idweb": "26-97485",
+   "objet": "FOURNITURE DE DENRÉES ALIMENTAIRES ET PRODUITS DE RÉCEPTION NOVEMBRE 2026-2030",
+   "nomacheteur": "COMMUNE DU TAMPON",
+   "code_departement": [
+    "974"
+   ],
+   "descripteur_libelle": [
+    "Denrées alimentaires"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-97485",
+   "pourquoi": "Le Tampon prévoit le festin de Noël 2030."
+  },
+  {
+   "idweb": "26-97541",
+   "objet": "Fourniture de barquettes jetables, films alimentaires, housses jetables et divers articles à usage unique pour la restauration.",
+   "nomacheteur": "GCS HACOM",
+   "code_departement": [
+    "76",
+    "14",
+    "27",
+    "50"
+   ],
+   "descripteur_libelle": [
+    "Barquettes alimentaires"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-97541",
+   "pourquoi": "Restauration collective : le tout-jetable en commande groupée."
+  }
+ ]
+}
