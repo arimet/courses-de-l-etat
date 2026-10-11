@@ -1,0 +1,142 @@
+{
+ "date": "2026-10-11",
+ "total": 181,
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "top": [
+  {
+   "idweb": "26-97913",
+   "objet": "Transport en hélicoptere et travaux aériens pour le compte des adhérents de CADI",
+   "nomacheteur": "Centrale d'Achats Durables et Innovants",
+   "code_departement": [
+    "974"
+   ],
+   "descripteur_libelle": [
+    "Transport"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-97913",
+   "pourquoi": "CADI décolle, l'État paie le carburant."
+  },
+  {
+   "idweb": "26-98167",
+   "objet": "Service de capture, transport, prise en charge des animaux vivants/morts et gestion des chats libres sur le territoire du Muretain Agglo",
+   "nomacheteur": "LE MURETAIN AGGLO",
+   "code_departement": [
+    "31"
+   ],
+   "descripteur_libelle": [
+    "Animaux"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-98167",
+   "pourquoi": "Ils chassent les chats libres, pas les souris."
+  },
+  {
+   "idweb": "26-98058",
+   "objet": "Prestations de collecte et d'évacuation des sargasses décomposées et boues de sargasses, sur le territoire de la Martinique",
+   "nomacheteur": "GIP Sargasses - Prévention et Gestion des Sargasses en Martinique",
+   "code_departement": [
+    "972"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-98058",
+   "pourquoi": "Ils ramassent les algues qui puent la plage."
+  },
+  {
+   "idweb": "26-97868",
+   "objet": "FOURNITURE DE MATERIEL NATURALISTE- PETIT MATERIEL ET CAMERA POUR LES SERVICES DE LA VILLE DE LILLE ET DE SES COMMUNES ASSOCIEES DE LOMME ET HELLEMMES",
+   "nomacheteur": "Ville de Lille",
+   "code_departement": [
+    "59"
+   ],
+   "descripteur_libelle": [
+    "Matériel photographique et cinématographique"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-97868",
+   "pourquoi": "La ville devient détective de la nature."
+  },
+  {
+   "idweb": "26-97990",
+   "objet": "Fourniture d'un système modulaire de consommation alimentaire et hydrique et de mesure d'activités",
+   "nomacheteur": "Université de Rouen Normandie",
+   "code_departement": [
+    "76"
+   ],
+   "descripteur_libelle": [
+    "Laboratoire (matériel)",
+    "Equipements spécialisés",
+    "Laboratoire (fourniture)"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-97990",
+   "pourquoi": "Ils pèsent vos repas et vos pas."
+  },
+  {
+   "idweb": "26-97789",
+   "objet": "Prestations de psychomotricité en EHPAD",
+   "nomacheteur": "Centre Communal d'Action Sociale de Tours",
+   "code_departement": [
+    "37"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-97789",
+   "pourquoi": "Grand-mère fait du yoga, c'est remboursé."
+  },
+  {
+   "idweb": "26-98046",
+   "objet": "fourniture de matériel pour l’Enseignement et les Activités Educatives - Lot 8 Jeux, jouets et matériel d’éducation physique et de psychomotricité issus du réemploi",
+   "nomacheteur": "Ville de Nîmes (30)",
+   "code_departement": [
+    "30"
+   ],
+   "descripteur_libelle": [
+    "Jeux, jouets"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-98046",
+   "pourquoi": "Les jouets d'occasion font faire du sport."
+  },
+  {
+   "idweb": "26-98053",
+   "objet": "EFINITION DE LA STRATEGIE, DU PLAN D'ACTIONS ET MISE EN ŒUVRE DE LA COMMUNICATION SUR LE DON, LE PRELEVEMENT ET LA GREFFE D'ORGANES ET DE TISSUS AUPRES DU GRAND PUBLIC ET DES PROFESSIONNELS DE SANTE",
+   "nomacheteur": "Agence de la biomedecine",
+   "code_departement": [
+    "93",
+    "75",
+    "92",
+    "78"
+   ],
+   "descripteur_libelle": [
+    "Publicité, Communication"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-98053",
+   "pourquoi": "Ils vendent le don d'organes comme une pub."
+  },
+  {
+   "idweb": "26-98177",
+   "objet": "Infrastructure numérique du Portail « Bibliothèques virtuelles humanistes » (BVH)",
+   "nomacheteur": "Université de Tours",
+   "code_departement": [
+    "37"
+   ],
+   "descripteur_libelle": [
+    "Informatique (prestations de services)"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-98177",
+   "pourquoi": "Bibliothèque virtuelle, les serveurs prennent le relais."
+  },
+  {
+   "idweb": "26-97863",
+   "objet": "La fourniture et la livraison de matériels de sport au profit d’organismes du Ministère des Armées",
+   "nomacheteur": "Plate-Forme Commissariat Sud-est",
+   "code_departement": [
+    "69"
+   ],
+   "descripteur_libelle": [
+    "Equipement sportif"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-97863",
+   "pourquoi": "L'armée échange ses armes contre des ballons."
+  }
+ ]
+}
