@@ -1,0 +1,148 @@
+{
+ "date": "2026-10-12",
+ "total": 167,
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "top": [
+  {
+   "idweb": "26-98302",
+   "objet": "Construction D'Un Mazot De Festivites Au Plan D'Eau",
+   "nomacheteur": "Commune de Combloux",
+   "code_departement": [
+    "74"
+   ],
+   "descripteur_libelle": [
+    "Bâtiment",
+    "Tous corps d'état"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-98302",
+   "pourquoi": "Un chalet de fête au bord du lac"
+  },
+  {
+   "idweb": "26-98385",
+   "objet": "Gestion et entretien d'une aire d'accueil et d'une aire de grand passage destinées aux gens du voyage",
+   "nomacheteur": "HAUT BUGEY AGGLOMERATION",
+   "code_departement": [
+    "1"
+   ],
+   "descripteur_libelle": [
+    "Aire d'accueil"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-98385",
+   "pourquoi": "Un terrain d’accueil qui fait voyager les services"
+  },
+  {
+   "idweb": "26-98810",
+   "objet": "Marché de prestations intellectuelles - Déviation de la crique Hôpital vers la crique Mancelière - Commune de Matoury : Lot 1 : Missions de maîtrise d'oeuvre / Lot 2 : Inventaires f",
+   "nomacheteur": "Communauté d'agglomération du centre littoral (Cacl)",
+   "code_departement": [
+    "973"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-98810",
+   "pourquoi": "Ils redirigent un ruisseau pour le plaisir de la nature"
+  },
+  {
+   "idweb": "26-98696",
+   "objet": "La consultation a pour objet la conclusion d'un contrat de concession relatif à l'organisation des spectacles taurins dans les arènes de Saint-Vincent de Tyrosse pour une durée de 4 ans de 2027 à 2...",
+   "nomacheteur": "Mairie de Saint-Vincent de Tyrosse",
+   "code_departement": [
+    "40"
+   ],
+   "descripteur_libelle": [
+    "Spectacle"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-98696",
+   "pourquoi": "Des corridas sous contrat public, olé !"
+  },
+  {
+   "idweb": "26-98777",
+   "objet": "Accord-cadre à bons de commande pour l’organisation \net la promotion du festival de la gastronomie de saint-martin\nRelance des lots 10, 17 et 20 déclarés sans suite",
+   "nomacheteur": "Office de Tourisme de Saint Martin (978)",
+   "code_departement": [
+    "978"
+   ],
+   "descripteur_libelle": [
+    "Evénementiel",
+    "Extincteur",
+    "Nettoyage de locaux",
+    "Clôture"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-98777",
+   "pourquoi": "Ils vendent la fête du goût comme un produit"
+  },
+  {
+   "idweb": "26-98767",
+   "objet": "MARCHE DE REALISATION DE TRAVAUX D’AMENAGEMENTS SCENOGRAPHIQUES DE L’EXPOSITION « Dans le plus simple appareil - Deux cents ans de photographies de nus »",
+   "nomacheteur": "Bibliothèque Nationale de France",
+   "code_departement": [
+    "75"
+   ],
+   "descripteur_libelle": [
+    "Menuiserie"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-98767",
+   "pourquoi": "Ils affichent deux siècles de nus en grand"
+  },
+  {
+   "idweb": "26-98733",
+   "objet": "Prestation d'insertion socio-professionnelle par la réalisation de missions en lien avec les biodéchets",
+   "nomacheteur": "Grand Chambery",
+   "code_departement": [
+    "73"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-98733",
+   "pourquoi": "Ils transforment les déchets en jobs"
+  },
+  {
+   "idweb": "26-98790",
+   "objet": "Collecte et traitement des déchets spécifiques générés par les activités de démoustication de la Collectivité",
+   "nomacheteur": "COLLECTIVITE TERRITORIALE DE GUYANE",
+   "code_departement": [
+    "973"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services",
+    "Déchets non ménagers (prestations)"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-98790",
+   "pourquoi": "Ils recyclent les moustiques morts en ressources"
+  },
+  {
+   "idweb": "26-98386",
+   "objet": "Consultation pour la sélection d’un prestataire en charge de l’animation d’une résidence intergénérationnelle à MONTESSON (78360)",
+   "nomacheteur": "L’apes",
+   "code_departement": [
+    "75",
+    "92",
+    "93",
+    "78"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services",
+    "Evénementiel"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-98386",
+   "pourquoi": "Ils animent la maison où âges se mélangent"
+  },
+  {
+   "idweb": "26-98328",
+   "objet": "TIERCE MAINTENANCE APPLICATIVE DE L'OUTIL \"SIGNALEMENT DE DÉGÂTS OCCASIONNES PAR LA FAUNE SAUVAGE (ESOD)\" POUR LE RÉSEAU DES CHAMBRES D'AGRICULTURE ET PRESTATIONS ASSOCIÉES",
+   "nomacheteur": "CHAMBRES D'AGRICULTURE FRANCE",
+   "code_departement": [
+    "75"
+   ],
+   "descripteur_libelle": [
+    "Maintenance",
+    "Logiciel",
+    "Informatique (prestations de services)"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-98328",
+   "pourquoi": "Ils bâtissent un espace ado-parents en kit"
+  }
+ ]
+}
