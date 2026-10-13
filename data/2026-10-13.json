@@ -1,0 +1,156 @@
+{
+ "date": "2026-10-13",
+ "total": 270,
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "top": [
+  {
+   "idweb": "26-98833",
+   "objet": "Voyage scolaire en Roumanie",
+   "nomacheteur": "LYCEE GENERAL TECHNOLOGIQUE JEAN PUY",
+   "code_departement": [
+    "3",
+    "42",
+    "43",
+    "63",
+    "69"
+   ],
+   "descripteur_libelle": [
+    "Voyage"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-98833",
+   "pourquoi": "Un car scolaire qui rêve de Dracula."
+  },
+  {
+   "idweb": "26-98825",
+   "objet": "Affrètement d'un navire dans le cadre du projet RECIFS SENTINELLE",
+   "nomacheteur": "TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES (T.A.A.F.)",
+   "code_departement": [
+    "974"
+   ],
+   "descripteur_libelle": [
+    "Transport"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-98825",
+   "pourquoi": "Un bateau veille sur les récifs comme un gardien."
+  },
+  {
+   "idweb": "26-98866",
+   "objet": "Acquisition d'un robot automatisé de manipulation de liquides pour extraction de lipides et de métabolites primaires et spécialisés",
+   "nomacheteur": "INRAE",
+   "code_departement": [
+    "78"
+   ],
+   "descripteur_libelle": [
+    "Matériel de précision"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-98866",
+   "pourquoi": "Un robot qui presse les lipides comme un citron."
+  },
+  {
+   "idweb": "26-99151",
+   "objet": "Prestation de ménage du Centre d'enseignement zootechnique Bergerie nationale",
+   "nomacheteur": "CENTRE D'ENSEIGNEMENT ZOOTECHNIQUE",
+   "code_departement": [
+    "78",
+    "28",
+    "91",
+    "27"
+   ],
+   "descripteur_libelle": [
+    "Nettoyage de locaux"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-99151",
+   "pourquoi": "La Bergerie nationale prend son bain."
+  },
+  {
+   "idweb": "26-99303",
+   "objet": "Location, livraison, pose, mise en service et maintenance préventive, curative de fontaines intérieures",
+   "nomacheteur": "Conseil Départemental de l'Essonne",
+   "code_departement": [
+    "91"
+   ],
+   "descripteur_libelle": [
+    "Maintenance",
+    "Location (matériels)",
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-99303",
+   "pourquoi": "Des fontaines qui jouent dans les bureaux."
+  },
+  {
+   "idweb": "26-98937",
+   "objet": "Acquisition de projecteurs Led pour la Salle Marivaux de l'espace culturel de l'Atrium",
+   "nomacheteur": "Ville de Tassin La Demi-Lune",
+   "code_departement": [
+    "69"
+   ],
+   "descripteur_libelle": [
+    "Spectacle"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-98937",
+   "pourquoi": "Marivaux brille désormais sous LED."
+  },
+  {
+   "idweb": "26-98503",
+   "objet": "Acquisition d’un rhéomètre rotatif modulaire avec capacité DMA et accessoires associés",
+   "nomacheteur": "UTBM.",
+   "code_departement": [
+    "90",
+    "25",
+    "70",
+    "68",
+    "67"
+   ],
+   "descripteur_libelle": [
+    "Laboratoire (matériel)"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-98503",
+   "pourquoi": "Un rhéomètre qui fait danser les molécules."
+  },
+  {
+   "idweb": "26-98488",
+   "objet": "Acquisition de matériels et de réactifs de quantification de l'ADN humain et prestations associées pour le Service National de Police Scientifique (SNPS)",
+   "nomacheteur": "Ministère de l'Intérieur",
+   "code_departement": [
+    "75",
+    "13",
+    "31",
+    "69",
+    "59"
+   ],
+   "descripteur_libelle": [
+    "Laboratoire (matériel)",
+    "Laboratoire (fourniture)"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-98488",
+   "pourquoi": "La police scientifique décode l'ADN comme un jeu."
+  },
+  {
+   "idweb": "26-98301",
+   "objet": "Prestations de transport, d'emballage, de manutention et de convoiement d'oeuvres d'art pour le mUsée d'Art Moderne et Contemporain de Saint Etienne Métropole",
+   "nomacheteur": "Saint-Etienne Métropole",
+   "code_departement": [
+    "42"
+   ],
+   "descripteur_libelle": [
+    "Oeuvre d'art",
+    "Transport"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-98301",
+   "pourquoi": "L'art voyage en première classe."
+  },
+  {
+   "idweb": "26-98524",
+   "objet": "Location Longue Durée (LLD) avec entretien et assurance tous risques du parc automobile de la Chambre de Métiers et de l'Artisanat de la Réunion",
+   "nomacheteur": "CMAR REUNION",
+   "code_departement": [
+    "974"
+   ],
+   "descripteur_libelle": [
+    "Véhicules (location)"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-98524",
+   "pourquoi": "Des voitures en leasing qui chouchoutent leurs conducteurs."
+  }
+ ]
+}
