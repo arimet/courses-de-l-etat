@@ -1,0 +1,141 @@
+{
+ "date": "2026-10-14",
+ "total": 306,
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "top": [
+  {
+   "idweb": "26-99398",
+   "objet": "Interventions subaquatiques dans les ports départementaux du Calvados",
+   "nomacheteur": "CONSEIL DEPARTEMENTAL DU CALVADOS (CD 14)",
+   "code_departement": [
+    "14"
+   ],
+   "descripteur_libelle": [
+    "Installation portuaire"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-99398",
+   "pourquoi": "Plongée obligatoire pour les ports du Calvados."
+  },
+  {
+   "idweb": "26-99425",
+   "objet": "Transfert de la clôture de chœur de l'abbaye Sainte-Croix vers la cathédrale Saint-Pierre de Poitiers",
+   "nomacheteur": "DRAC Nouvelle-Aquitaine",
+   "code_departement": [
+    "86"
+   ],
+   "descripteur_libelle": [
+    "Monuments historiques"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-99425",
+   "pourquoi": "La clôture du chœur déménage à Poitiers."
+  },
+  {
+   "idweb": "26-99019",
+   "objet": "ILLUMINATIONS DE NOEL",
+   "nomacheteur": "COMMUNE DE CALVI",
+   "code_departement": [
+    "20B"
+   ],
+   "descripteur_libelle": [
+    "Illumination"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-99019",
+   "pourquoi": "Calvi brille pour Noël, marché lumineux."
+  },
+  {
+   "idweb": "26-99672",
+   "objet": "Centre de loisirs Prévalaye - Déconstruction de six tipis et construction de trois yourtes - Relance lot 2",
+   "nomacheteur": "Ville de Rennes",
+   "code_departement": [
+    "35"
+   ],
+   "descripteur_libelle": [
+    "Bâtiment"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-99672",
+   "pourquoi": "Tipis out, yourtes in au Prévalaye."
+  },
+  {
+   "idweb": "26-99064",
+   "objet": "Projet Interreg France - Suisse 2021- 2027 « Pierres & Pixels - des châteaux en 3D»",
+   "nomacheteur": "Département de la Haute-Savoie",
+   "code_departement": [
+    "74"
+   ],
+   "descripteur_libelle": [
+    "Fouille archéologique",
+    "Vidéo, cinéma",
+    "Film"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-99064",
+   "pourquoi": "Châteaux en 3D, projet franco-suisse ludique."
+  },
+  {
+   "idweb": "26-98769",
+   "objet": "Réalisation du suivi des Macro-Invertébrés et des Diatomées dans les cours d'eau de la Martinique",
+   "nomacheteur": "Office De l'Eau Martinique",
+   "code_departement": [
+    "972"
+   ],
+   "descripteur_libelle": [
+    "Etude",
+    "Rivières/ruisseaux"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-98769",
+   "pourquoi": "Surveillance des bestioles d'eau en Martinique."
+  },
+  {
+   "idweb": "26-99017",
+   "objet": "MAINTENANCE DES REFRIGERATEURS A MEDICAMENTS, BANQUES DE SANG ET EQUIPEMENTS DE FROID DES CH DE CHARTRES, CHATEAUDUN, NOGENT-LE-ROTROU ET LA LOUPE",
+   "nomacheteur": "Groupement Hospitalier de Territoire d'Eure-et-Loir",
+   "code_departement": [
+    "28"
+   ],
+   "descripteur_libelle": [
+    "Maintenance"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-99017",
+   "pourquoi": "Fridgos pour médicaments et sang sous surveillance."
+  },
+  {
+   "idweb": "26-99648",
+   "objet": "Assurances multirisques et responsabilité civile",
+   "nomacheteur": "Parc national de Port-Cros",
+   "code_departement": [
+    "83"
+   ],
+   "descripteur_libelle": [
+    "Assurance"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-99648",
+   "pourquoi": "Parc national assuré contre tout risque."
+  },
+  {
+   "idweb": "26-98680",
+   "objet": "Fourniture et pose de bornes enterrées en rétrofit sur le territoire de Paris Terres d'Envol",
+   "nomacheteur": "PARIS TERRES D'ENVOL",
+   "code_departement": [
+    "93"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services",
+    "Conteneur, poubelles"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-98680",
+   "pourquoi": "Bornes secrètes sous le sol de Paris."
+  },
+  {
+   "idweb": "26-98630",
+   "objet": "Fourniture et installation d'aires de jeux dans les cours d'école et sol de réception-.",
+   "nomacheteur": "C3C Services Urbains",
+   "code_departement": [
+    "51"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-98630",
+   "pourquoi": "Aire de jeux neuve pour les écoliers."
+  }
+ ]
+}
