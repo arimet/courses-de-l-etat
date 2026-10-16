@@ -1,0 +1,141 @@
+{
+ "date": "2026-10-16",
+ "total": 323,
+ "model": null,
+ "top": [
+  {
+   "idweb": "26-100559",
+   "objet": "Le Centre Communal d'Action Sociale (CCAS) de la Ville d'Avion souhaite organiser, dans le cadre des festivités de Noël, plusieurs représentations de cirque sous chapiteau destinées notamment aux h...",
+   "nomacheteur": "MAIRIE D'AVION",
+   "code_departement": [
+    "62"
+   ],
+   "descripteur_libelle": [
+    "Spectacle",
+    "Tente",
+    "Evénementiel"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-100559"
+  },
+  {
+   "idweb": "26-99976",
+   "objet": "Installation de racks à bateaux pour un port à sec",
+   "nomacheteur": "BRETAGNE PLAISANCE",
+   "code_departement": [
+    "35"
+   ],
+   "descripteur_libelle": [
+    "Installation portuaire",
+    "Outillage",
+    "Rayonnage"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-99976"
+  },
+  {
+   "idweb": "26-100097",
+   "objet": "FOURNITURES SCOLAIRES ET PÉDAGOGIQUES, DE LIVRES SCOLAIRES ET FICHIERS ET DE JEUX ET JOUETS",
+   "nomacheteur": "Commune d'Achères",
+   "code_departement": [
+    "78"
+   ],
+   "descripteur_libelle": [
+    "Articles de bureau et articles scolaires",
+    "Livres",
+    "Jeux, jouets"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-100097"
+  },
+  {
+   "idweb": "26-100092",
+   "objet": "Fourniture, installation, animation et désinstallation de simulateurs de sports d'hiver, piste de ski de fond et patinoire pour le département des Bouches du Rhône",
+   "nomacheteur": "Conseil Départemental des Bouches du Rhône",
+   "code_departement": [
+    "13"
+   ],
+   "descripteur_libelle": [
+    "Equipement sportif",
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-100092"
+  },
+  {
+   "idweb": "26-100494",
+   "objet": "Mission D'Assistance A Maitrise D'Ouvrage Relative A La Restructuration Lourde, La Renovation Energetique Et Le Traitement Des Abords Du Collège Wilbur Wright à Champagné (72470)",
+   "nomacheteur": "Département de la Sarthe",
+   "code_departement": [
+    "72"
+   ],
+   "descripteur_libelle": [
+    "Assistance à maîtrise d'ouvrage",
+    "Etude"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-100494"
+  },
+  {
+   "idweb": "26-100581",
+   "objet": "Réfection de l'étanchéité de la toiture du bâtiment Accueil",
+   "nomacheteur": "UNIVERSITE BORDEAUX MONTAIGNE",
+   "code_departement": [
+    "33"
+   ],
+   "descripteur_libelle": [
+    "Panneaux",
+    "Etanchéité",
+    "Isolation"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-100581"
+  },
+  {
+   "idweb": "26-99921",
+   "objet": "Fourniture d'enrochements",
+   "nomacheteur": "Communauté d'Agglomération Béthune-Bruay, Artois Lys Romane",
+   "code_departement": [
+    "62"
+   ],
+   "descripteur_libelle": [
+    "Enrochements"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-99921"
+  },
+  {
+   "idweb": "26-99860",
+   "objet": "Location de matériels et équipements audiovisuels",
+   "nomacheteur": "CITIA",
+   "code_departement": [
+    "74"
+   ],
+   "descripteur_libelle": [
+    "Audiovisuel",
+    "Vidéo, cinéma"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-99860"
+  },
+  {
+   "idweb": "26-99778",
+   "objet": "25021 CRECHE RELANCE LOT 12 VRD AMENAGEMENTS EXTERIEURS",
+   "nomacheteur": "MAIRIE DE CHAMBRAY LES TOURS",
+   "code_departement": [
+    "37"
+   ],
+   "descripteur_libelle": [
+    "Voirie",
+    "Travaux de viabilité"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-99778"
+  },
+  {
+   "idweb": "26-100043",
+   "objet": "ASNR-2026-061-Jouvance BANCO",
+   "nomacheteur": "ASNR FONTENAY",
+   "code_departement": [
+    "91"
+   ],
+   "descripteur_libelle": [
+    "Ingénierie",
+    "Prestations de services",
+    "Equipement industriel"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-100043"
+  }
+ ]
+}
