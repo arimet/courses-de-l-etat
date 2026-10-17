@@ -1,0 +1,19 @@
+{
+ "date": "2026-10-17",
+ "total": 1,
+ "model": null,
+ "top": [
+  {
+   "idweb": "26-101146",
+   "objet": "Marchés d’assurances pour les besoins de la Commune de Loix",
+   "nomacheteur": "Commune de Loix (17)",
+   "code_departement": [
+    "17"
+   ],
+   "descripteur_libelle": [
+    "Assurance"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-101146"
+  }
+ ]
+}
