@@ -1,0 +1,147 @@
+{
+ "date": "2026-10-18",
+ "total": 134,
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "top": [
+  {
+   "idweb": "26-100741",
+   "objet": "CONCEPTION ET ACHAT D’UNITES MOBILES 4 LITS DE PRELEVEMENT DE PRODUITS SANGUINS",
+   "nomacheteur": "Etablissement français du sang",
+   "code_departement": [
+    "93"
+   ],
+   "descripteur_libelle": [
+    "Matériel médical"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-100741",
+   "pourquoi": "Des bus qui piquent votre sang."
+  },
+  {
+   "idweb": "26-100573",
+   "objet": "CONCESSION DE TRAVAUX POUR LA RENOVATION ET L'EXPLOITATION DU CENTRE HIPPIQUE BOIS DE BOULOGNE",
+   "nomacheteur": "Ville de Paris - SHNC",
+   "code_departement": [
+    "75"
+   ],
+   "descripteur_libelle": [
+    "Equipement sportif"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-100573",
+   "pourquoi": "Le Bois de Boulogne loue ses poneys."
+  },
+  {
+   "idweb": "26-100744",
+   "objet": "Reproduction et livraison d'insignes métalliques de tradition et de promotion ainsi que leurs supports au profit des organismes relevant du MINARM.",
+   "nomacheteur": "PFC Paris",
+   "code_departement": [
+    "78"
+   ],
+   "descripteur_libelle": [
+    "Insignes"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-100744",
+   "pourquoi": "L'Armée commande ses médailles en série."
+  },
+  {
+   "idweb": "26-100527",
+   "objet": "Prestations de streetmarketing pour le recrutement de donneurs de sang et de plasma pour l'EFS NVAQ",
+   "nomacheteur": "EFS NOUVELLE-AQUITAINE",
+   "code_departement": [
+    "33",
+    "86",
+    "87"
+   ],
+   "descripteur_libelle": [
+    "Publicité, Communication"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-100527",
+   "pourquoi": "Le sang se recrute au coin de la rue."
+  },
+  {
+   "idweb": "26-100473",
+   "objet": "Maintenance des stands de tir",
+   "nomacheteur": "SGAMI NORD",
+   "code_departement": [
+    "59",
+    "62",
+    "60",
+    "80"
+   ],
+   "descripteur_libelle": [
+    "Maintenance"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-100473",
+   "pourquoi": "Les gendarmes entretiennent leurs trous de balles."
+  },
+  {
+   "idweb": "26-100624",
+   "objet": "Renouvellement de la tribune téléscopique du centre culture de l'Orangerie",
+   "nomacheteur": "Mairie de Roissy-en-France",
+   "code_departement": [
+    "95"
+   ],
+   "descripteur_libelle": [
+    "Equipements spécialisés"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-100624",
+   "pourquoi": "Une tribune qui rentre dans son lit."
+  },
+  {
+   "idweb": "26-100539",
+   "objet": "Conservation - Restauration des collections du Musée Bernadotte",
+   "nomacheteur": "VILLE DE PAU",
+   "code_departement": [
+    "64"
+   ],
+   "descripteur_libelle": [
+    "Restauration collective",
+    "Oeuvre d'art",
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-100539",
+   "pourquoi": "Le musée Bernadotte fait peau neuve."
+  },
+  {
+   "idweb": "26-100798",
+   "objet": "2632 - Fourniture de potelets à mémoire de forme pour la commune de Bezons (95870)",
+   "nomacheteur": "Commune de Bezons",
+   "code_departement": [
+    "95"
+   ],
+   "descripteur_libelle": [
+    "Mobilier urbain"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-100798",
+   "pourquoi": "Des potelets qui encaissent sans broncher."
+  },
+  {
+   "idweb": "26-100644",
+   "objet": "DEFINITION DE LA STRATEGIE, DU PLAN D'ACTIONS ET MISE EN ŒUVRE DE LA COMMUNICATION SUR LE DON, LE PRELEVEMENT ET LA GREFFE D'ORGANES ET DE TISSUS AUPRES DU GRAND PUBLIC ET DES PROFESSIONNELS DE SANTE",
+   "nomacheteur": "Agence de la biomedecine",
+   "code_departement": [
+    "93",
+    "75",
+    "92",
+    "78"
+   ],
+   "descripteur_libelle": [
+    "Publicité, Communication"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-100644",
+   "pourquoi": "L'État vous demande vos organes."
+  },
+  {
+   "idweb": "26-100656",
+   "objet": "Fourniture d'équipements de protection des œuvres d'art contre l'incendie au titre du Plan de Sauvegarde des Biens Culturels (PSBC) de la Ville de Lille",
+   "nomacheteur": "Ville de Lille",
+   "code_departement": [
+    "59"
+   ],
+   "descripteur_libelle": [
+    "Extincteur"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-100656",
+   "pourquoi": "L'art sous protection anti-feu maximale."
+  }
+ ]
+}
