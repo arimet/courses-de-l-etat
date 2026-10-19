@@ -1,0 +1,139 @@
+{
+ "date": "2026-10-19",
+ "total": 143,
+ "model": null,
+ "top": [
+  {
+   "idweb": "26-101459",
+   "objet": "Organisation et gestion d'une patinoire mobile à Amboise",
+   "nomacheteur": "Mairie D'Amboise",
+   "code_departement": [
+    "37",
+    "41"
+   ],
+   "descripteur_libelle": [
+    "Equipement sportif",
+    "Prestations de services",
+    "Evénementiel"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-101459"
+  },
+  {
+   "idweb": "26-101410",
+   "objet": "DAF_2025_001303 ESID 25261-262-263-264 AIX-EN-PROVENCE (13) - Quartier MIOLLIS - LYCEE MILITAIRE - Bâtiment 026 – Mise à niveau partielle du cinéma",
+   "nomacheteur": "SID Sud-Est",
+   "code_departement": [
+    "13"
+   ],
+   "descripteur_libelle": [
+    "Tous corps d'état"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-101410"
+  },
+  {
+   "idweb": "26-101247",
+   "objet": "Travaux de rénovation du kiosque de la plage et installation des sanitaires",
+   "nomacheteur": "Commune De Sciez",
+   "code_departement": [
+    "74"
+   ],
+   "descripteur_libelle": [
+    "Bâtiments modulaires",
+    "Plomberie (travaux)"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-101247"
+  },
+  {
+   "idweb": "26-101222",
+   "objet": "Prestation de travaux de rénovation extérieure du bâtiment de la salle de spectacle « L’Artea » de la ville de Carnoux-en-Provence.",
+   "nomacheteur": "Commune de Carnoux en Provence (13)",
+   "code_departement": [
+    "13"
+   ],
+   "descripteur_libelle": [
+    "Gros oeuvre"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-101222"
+  },
+  {
+   "idweb": "26-101144",
+   "objet": "Travaux de construction et restructuration du groupe scolaire ABEILLES/CAMUS à LE MEE-SUR-SEINE (77).",
+   "nomacheteur": "SPL Melun Val de Seine Aménagement",
+   "code_departement": [
+    "77",
+    "75",
+    "91",
+    "92"
+   ],
+   "descripteur_libelle": [
+    "Bâtiment"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-101144"
+  },
+  {
+   "idweb": "26-101594",
+   "objet": "Mise en place d'une brigade à cheval pour la surveillance et le nettoyage des dunes flamandes et décalcifiées, sites Enn du Département du Nord",
+   "nomacheteur": "Conseil Départemental du Nord",
+   "code_departement": [
+    "59"
+   ],
+   "descripteur_libelle": [
+    "Déchets non ménagers (prestations)"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-101594"
+  },
+  {
+   "idweb": "26-101585",
+   "objet": "Fourniture de produits de traitement des eaux techniques",
+   "nomacheteur": "Hôpitaux Civils de Colmar (68)",
+   "code_departement": [
+    "68"
+   ],
+   "descripteur_libelle": [
+    "Produits chimiques",
+    "Produits d'entretien"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-101585"
+  },
+  {
+   "idweb": "26-101196",
+   "objet": "Repérage amiante et HAP",
+   "nomacheteur": "SIAEPA DU CUBZADAIS FRONSADAIS",
+   "code_departement": [
+    "33"
+   ],
+   "descripteur_libelle": [
+    "Amiante (diagnostic)",
+    "Voirie",
+    "Alimentation en eau potable",
+    "Assainissement"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-101196"
+  },
+  {
+   "idweb": "26-101412",
+   "objet": "Construction du centre d'incendie et de secours des Sources du Lac - Lot géothermie",
+   "nomacheteur": "SDIS 74",
+   "code_departement": [
+    "74"
+   ],
+   "descripteur_libelle": [
+    "Forage",
+    "Géothermie"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-101412"
+  },
+  {
+   "idweb": "26-101239",
+   "objet": "Prestations de traiteur",
+   "nomacheteur": "COMMUNE CREGY LES MEAUX",
+   "code_departement": [
+    "77"
+   ],
+   "descripteur_libelle": [
+    "Repas, traiteur"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-101239"
+  }
+ ]
+}
