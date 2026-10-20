@@ -1,0 +1,148 @@
+{
+ "date": "2026-10-20",
+ "total": 215,
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "top": [
+  {
+   "idweb": "26-101309",
+   "objet": "Conception, la fabrication et la livraison d’un chariot cavalier réduit (échelle 1/5ème) robotisé et instrumenté pour le laboratoire CRIStAL dans le cadre du CPER RITMEA.",
+   "nomacheteur": "Université de Lille",
+   "code_departement": [
+    "59"
+   ],
+   "descripteur_libelle": [
+    "Laboratoire (matériel)"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-101309",
+   "pourquoi": "Un chariot cavalier robotisé, version Playmobil."
+  },
+  {
+   "idweb": "26-101940",
+   "objet": "Réhabilitation de la coque du sous-marin Flore et de sa structure porteuse",
+   "nomacheteur": "Lorient Agglomération",
+   "code_departement": [
+    "56"
+   ],
+   "descripteur_libelle": [
+    "Peinture (travaux)",
+    "Métallerie",
+    "Ouvrage métallique",
+    "Construction navale"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-101940",
+   "pourquoi": "Le sous-marin Flore change de peau."
+  },
+  {
+   "idweb": "26-101793",
+   "objet": "Marché de maîtrise d’œuvre pour la construction d'un bâtiment avicole expérimental - Unité PEAT - Site de Nouzilly INRAE CENTRE VAL DE LOIRE",
+   "nomacheteur": "INRAE Centre Val de Loire",
+   "code_departement": [
+    "37"
+   ],
+   "descripteur_libelle": [
+    "Bâtiment",
+    "Maîtrise d'oeuvre"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-101793",
+   "pourquoi": "Des poules cobayes dans un palace."
+  },
+  {
+   "idweb": "26-101980",
+   "objet": "Construction d'un labyrinthe scénographié dans le cadre de l'exposition Sophie Ristelhueber présentée au Musée d'art contemporain de Lyon du 26 février 2027 au 18 juillet 2027",
+   "nomacheteur": "Ville de Lyon",
+   "code_departement": [
+    "69"
+   ],
+   "descripteur_libelle": [
+    "Oeuvre d'art"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-101980",
+   "pourquoi": "Un labyrinthe d'expo, sans Minotaure."
+  },
+  {
+   "idweb": "26-101849",
+   "objet": "Fourniture de jouets pour le Noël des enfants du personnel du Conseil départemental des Alpes de Haute-Provence",
+   "nomacheteur": "Fourniture de jouets pour le Noël des enfants du personnel du Conseil départemental des Alpes de Haute-Provence",
+   "code_departement": [
+    "4",
+    "63",
+    "67"
+   ],
+   "descripteur_libelle": [
+    "Jeux, jouets"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-101849",
+   "pourquoi": "Le département joue au Père Noël."
+  },
+  {
+   "idweb": "26-101885",
+   "objet": "ORGANISATION DE SPECTACLES PYROTECHNIQUES POUR LES ANNEES 2026, 2027, 2028 ET 2029",
+   "nomacheteur": "Ville de Trith Saint Léger",
+   "code_departement": [
+    "59"
+   ],
+   "descripteur_libelle": [
+    "Feu d'artifice"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-101885",
+   "pourquoi": "Quatre ans de boums lumineuses."
+  },
+  {
+   "idweb": "26-101948",
+   "objet": "Accord-cadre à bons de commande passé selon une procédure \nadaptée - Fournitures de porte-verres pour l'édition 2027 de Bordeaux \nFête le Vin",
+   "nomacheteur": "OFFICE TOURISME BORDEAUX METROPOLE",
+   "code_departement": [
+    "33",
+    "40"
+   ],
+   "descripteur_libelle": [
+    "Verre",
+    "Sacs"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-101948",
+   "pourquoi": "Bordeaux 2027 : verres au cou, mains libres."
+  },
+  {
+   "idweb": "26-101955",
+   "objet": "Réalisation, en laboratoire, d'analyses biologiques sur des prélèvements d'huîtres :\n-\tDénombrement des FRNAPH infectieux totaux\n-\tDétection et quantification des génomes de norovirus GI et GII",
+   "nomacheteur": "autre organisme public",
+   "code_departement": [
+    "56"
+   ],
+   "descripteur_libelle": [
+    "Analyses médicales, biologiques"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-101955",
+   "pourquoi": "Autopsie d'huîtres : recherche norovirus active."
+  },
+  {
+   "idweb": "26-101894",
+   "objet": "Surveillance sanitaire et soins des animaux placés en fourrière municipale - années 2027 à 2029",
+   "nomacheteur": "Mairie de Brive",
+   "code_departement": [
+    "19"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services",
+    "Animaux"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-101894",
+   "pourquoi": "La fourrière s'offre un vétérinaire dédié."
+  },
+  {
+   "idweb": "26-101395",
+   "objet": "Fourniture, pose, surveillance, entretien, enlèvement, stockage des corps-morts et balisage réglementaire afférent",
+   "nomacheteur": "Mairie de Lège-Cap Ferret",
+   "code_departement": [
+    "33"
+   ],
+   "descripteur_libelle": [
+    "Travaux dans l'eau",
+    "Signalisation",
+    "Installation portuaire"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-101395",
+   "pourquoi": "Des corps-morts bien vivants pour le balisage."
+  }
+ ]
+}
