@@ -1,0 +1,156 @@
+{
+ "date": "2026-10-21",
+ "total": 282,
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "top": [
+  {
+   "idweb": "26-101905",
+   "objet": "MARCHE DE FOURNITURE DE SEMENCE BOVINES, CAPRINES ET OVINES POUR L'INSEMINATION ARTIFICIELLE ACCOMPAGNEE DE MISSIONS TECHNIQUES",
+   "nomacheteur": "Chambre Agriculture de la Réunion",
+   "code_departement": [
+    "974"
+   ],
+   "descripteur_libelle": [
+    "Animaux"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-101905",
+   "pourquoi": "L'État achète de la semence pour vaches."
+  },
+  {
+   "idweb": "26-101725",
+   "objet": "Prestation de régie générale et technique du Festival Rio Loco",
+   "nomacheteur": "Societe Publique Locale du Metronum",
+   "code_departement": [
+    "31"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-101725",
+   "pourquoi": "La puissance publique assure le show Rio Loco."
+  },
+  {
+   "idweb": "26-101865",
+   "objet": "Exploitation du gîte d'étape du Pont Canal de Briare (45250)",
+   "nomacheteur": "Ville de Briare-le-Canal",
+   "code_departement": [
+    "45"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-101865",
+   "pourquoi": "La mairie tient un gîte sur pont-canal."
+  },
+  {
+   "idweb": "26-101912",
+   "objet": "PRESTATION D’AGENT DE LICENCE POUR LA DEFINITION ET LA MISE EN ŒUVRE D’UNE STRATEGIE DE PRODUITS DERIVES POUR LA MARQUE DE L’ARMEE DE TERRE",
+   "nomacheteur": "SGA / SDPAMG",
+   "code_departement": [
+    "75",
+    "93",
+    "94",
+    "77",
+    "78",
+    "92"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-101912",
+   "pourquoi": "L'Armée de Terre développe sa ligne de goodies."
+  },
+  {
+   "idweb": "26-101689",
+   "objet": "Missions de diagnostic des barrages anti sargasses publics existants",
+   "nomacheteur": "GIP Sargasses - Prévention et Gestion des Sargasses en Martinique",
+   "code_departement": [
+    "972"
+   ],
+   "descripteur_libelle": [
+    "Etude"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-101689",
+   "pourquoi": "Diagnostiquer des barrages anti-algues géantes."
+  },
+  {
+   "idweb": "26-101747",
+   "objet": "Acquisition d'une nacelle négative pour les besoins du port de BOULOGNE SUR MER - CALAIS",
+   "nomacheteur": "Région Hauts-de-France",
+   "code_departement": [
+    "59",
+    "62"
+   ],
+   "descripteur_libelle": [
+    "Matériel de travaux publics",
+    "Véhicules (acquisition)"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-101747",
+   "pourquoi": "Le port commande une nacelle... négative."
+  },
+  {
+   "idweb": "26-102486",
+   "objet": "Services de réparation et d'entretien du navire Granville pendant son arrêt technique début 2027",
+   "nomacheteur": "Département de la Manche",
+   "code_departement": [
+    "50"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services",
+    "Construction navale",
+    "Maintenance"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-102486",
+   "pourquoi": "Le Département répare son navire, le Granville."
+  },
+  {
+   "idweb": "26-102295",
+   "objet": "Creation Et Valorisation D'Itineraires De Randonnees En Vallee Du Sichon Et Sur L'Ancienne Voie Du Tacot De La Montagne Bourbonnaise",
+   "nomacheteur": "Communauté d'Agglomération Vichy Communauté",
+   "code_departement": [
+    "3",
+    "63"
+   ],
+   "descripteur_libelle": [
+    "Eclairage public",
+    "Mobilier urbain",
+    "Ouvrage d'art",
+    "Signalétique",
+    "Terrassement"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-102295",
+   "pourquoi": "Randonner sur les rails de l'ancien Tacot."
+  },
+  {
+   "idweb": "26-101735",
+   "objet": "Acquisition d’un système de thérapie par ultrasons focalisés guidées par IRM pour le laboratoire ICube de l’Université de Strasbourg",
+   "nomacheteur": "Université de Strasbourg",
+   "code_departement": [
+    "67",
+    "68",
+    "91",
+    "92",
+    "93",
+    "75"
+   ],
+   "descripteur_libelle": [
+    "Laboratoire (matériel)"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-101735",
+   "pourquoi": "Soigner par ultrasons sous contrôle IRM."
+  },
+  {
+   "idweb": "26-101671",
+   "objet": "Concession de service public relative à l'exploitation du Camping communautaire",
+   "nomacheteur": "Communauté d'Agglomération du Grand Villeneuvois",
+   "code_departement": [
+    "47"
+   ],
+   "descripteur_libelle": [
+    "Délégation de service public"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-101671",
+   "pourquoi": "L'agglo devient gestionnaire de camping municipal."
+  }
+ ]
+}
