@@ -1,0 +1,162 @@
+{
+ "date": "2026-10-22",
+ "total": 261,
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "top": [
+  {
+   "idweb": "26-102255",
+   "objet": "Achat de munitions pour l’unité de tir de l’école nationale d’administration pénitentiaire (ÉNAP).",
+   "nomacheteur": "E.N.A.P",
+   "code_departement": [
+    "47",
+    "33",
+    "31",
+    "64",
+    "46",
+    "40",
+    "32",
+    "24"
+   ],
+   "descripteur_libelle": [
+    "Armement"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-102255",
+   "pourquoi": "L'ÉNAP s'arme pour former ses gardiens."
+  },
+  {
+   "idweb": "26-102288",
+   "objet": "LIVRAISON ET APPROVISIONNEMENT EN PAIN (baguettes de 250 grs SANS sachet) POUR 12 ETABLISSEMENTS DE LA DIRECTION INTERREGIONALE DES SERVICES PENITENTIAIRES DE DIJON",
+   "nomacheteur": "DIRECTION INTERREGIONALE DES SERVICES PENITENTIAIRES DE Dijon",
+   "code_departement": [
+    "89",
+    "90",
+    "25",
+    "41",
+    "18",
+    "21",
+    "39",
+    "58",
+    "37"
+   ],
+   "descripteur_libelle": [
+    "Denrées alimentaires"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-102288",
+   "pourquoi": "La baguette fait sa peine sans sachet."
+  },
+  {
+   "idweb": "26-102727",
+   "objet": "storytelling",
+   "nomacheteur": "Conseil départemental du Cantal",
+   "code_departement": [
+    "15"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-102727",
+   "pourquoi": "Le Cantal achète du storytelling."
+  },
+  {
+   "idweb": "26-102679",
+   "objet": "Contrôle annuel des détendeurs de plongée (Aqualung, Scuba Pro) du SDIS de l'Indre",
+   "nomacheteur": "Service Départemental d'Incendie et de Secours de l'Indre",
+   "code_departement": [
+    "36"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-102679",
+   "pourquoi": "Les pompiers de l'Indre plongent en révision."
+  },
+  {
+   "idweb": "26-102812",
+   "objet": "Rénovation de la cabane du Gaou",
+   "nomacheteur": "AFPA D'AUZET",
+   "code_departement": [
+    "4"
+   ],
+   "descripteur_libelle": [
+    "Bâtiment"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-102812",
+   "pourquoi": "La cabane du Gaou refait sa beauté."
+  },
+  {
+   "idweb": "26-102088",
+   "objet": "Désignation d’une maîtrise d’œuvre pour la construction d’un bateau de travail pour le ST Nivernais Yonne",
+   "nomacheteur": "Voies Navigables de France - DTCB",
+   "code_departement": [
+    "89",
+    "45",
+    "77",
+    "10",
+    "21",
+    "58"
+   ],
+   "descripteur_libelle": [
+    "Maîtrise d'oeuvre"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-102088",
+   "pourquoi": "VNF commande un bateau pour la Yonne."
+  },
+  {
+   "idweb": "26-102324",
+   "objet": "Vulcania - Programmiste Construction d'un Restaurant",
+   "nomacheteur": "Conseil régional Auvergne-Rhône-Alpes",
+   "code_departement": [
+    "63",
+    "15",
+    "3",
+    "43"
+   ],
+   "descripteur_libelle": [
+    "Assistance à maîtrise d'ouvrage"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-102324",
+   "pourquoi": "Un resto au cœur du volcan Vulcania."
+  },
+  {
+   "idweb": "26-102655",
+   "objet": "Location d'un porte-outils équipé d'une fraise à neige",
+   "nomacheteur": "Commune de La Plagne Tarentaise",
+   "code_departement": [
+    "73"
+   ],
+   "descripteur_libelle": [
+    "Location (matériels)",
+    "Véhicules (location)"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-102655",
+   "pourquoi": "La Plagne loue une fraise à neige."
+  },
+  {
+   "idweb": "26-102816",
+   "objet": "Prestations de services pour le transport routier non  régulier de personnes âgées en autocar avec  chauffeur : excursions à la journée et distances  longues",
+   "nomacheteur": "Centre Communal d'Action Sociale de Saint Etienne",
+   "code_departement": [
+    "42"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services",
+    "Transport"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-102816",
+   "pourquoi": "Autocars et chauffeurs pour virées seniors."
+  },
+  {
+   "idweb": "26-102025",
+   "objet": "Fourniture d'une balayeuse de piste remorquée",
+   "nomacheteur": "SAC-SPM",
+   "code_departement": [
+    "975"
+   ],
+   "descripteur_libelle": [
+    "Equipements spécialisés"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-102025",
+   "pourquoi": "Une balayeuse pour lisser les pistes."
+  }
+ ]
+}
