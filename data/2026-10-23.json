@@ -1,0 +1,160 @@
+{
+ "date": "2026-10-23",
+ "total": 274,
+ "model": null,
+ "top": [
+  {
+   "idweb": "26-103167",
+   "objet": "Extension et rénovation énergétique de la salle des fêtes de Ste Dode",
+   "nomacheteur": "Sivom de Miélan Marciac",
+   "code_departement": [
+    "32"
+   ],
+   "descripteur_libelle": [
+    "Gros oeuvre",
+    "Menuiserie",
+    "Electricité (travaux)",
+    "Peinture (travaux)",
+    "Plâtrerie"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-103167"
+  },
+  {
+   "idweb": "26-103428",
+   "objet": "Acquisition et la livraison d’un bateau neuf destiné aux missions de surveillance du littoral, de suivi des pollutions marines et de prélèvements environnementaux",
+   "nomacheteur": "Secrétariat Général Commun GUADELOUPE",
+   "code_departement": [
+    "75",
+    "971",
+    "972",
+    "973",
+    "974",
+    "975",
+    "976",
+    "977",
+    "978"
+   ],
+   "descripteur_libelle": [
+    "Construction navale"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-103428"
+  },
+  {
+   "idweb": "26-103210",
+   "objet": "Achat de drones professionnels, pièces détachées et accessoires",
+   "nomacheteur": "Département de la Charente-Maritime DJCP SCP",
+   "code_departement": [
+    "17"
+   ],
+   "descripteur_libelle": [
+    "Aéronautique"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-103210"
+  },
+  {
+   "idweb": "26-102762",
+   "objet": "Fourniture de l’énergie électrique active garantie à l’alimentation en continu de la totalité des besoins pour les sites du syndicat Mixte Inter-Aménagement Ballon d'Alsace.",
+   "nomacheteur": "SMIBA",
+   "code_departement": [
+    "33",
+    "68",
+    "75",
+    "90",
+    "91",
+    "93",
+    "94",
+    "95"
+   ],
+   "descripteur_libelle": [
+    "Electricité, gaz (fourniture)"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-102762"
+  },
+  {
+   "idweb": "26-102620",
+   "objet": "Fouilles archéologiques rue Victor Hugo à Belleville-en-Beaujolais",
+   "nomacheteur": "COMMUNE DE BELLEVILLE-EN-BEAUJOLAIS",
+   "code_departement": [
+    "69"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services",
+    "Terrassement",
+    "Fouille archéologique"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-102620"
+  },
+  {
+   "idweb": "26-102536",
+   "objet": "REALISATION DE FOUILLES ARCHEOLOGIQUES PREVENTIVES PREALABLES A LA CONSTRUCTION D'UNE CHAUFFERIE BIOMASSE au Centre Hospitalier de Rouffach",
+   "nomacheteur": "Groupe Hospitalier de la Région de Mulhouse et Sud Alsace",
+   "code_departement": [
+    "68",
+    "67"
+   ],
+   "descripteur_libelle": [
+    "Fouille archéologique"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-102536"
+  },
+  {
+   "idweb": "26-103255",
+   "objet": "Délégation de service public sous forme de concession de services ayant pour objet la conception, la réalisation / réhabilitation, l'entretien-maintenance et l’exploitation de la patinoire en lieu  cu",
+   "nomacheteur": "Commune de Saint-Ouen-sur-Seine",
+   "code_departement": [
+    "93"
+   ],
+   "descripteur_libelle": [
+    "Bâtiment"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-103255"
+  },
+  {
+   "idweb": "26-103436",
+   "objet": "Requalification des espaces publics du centre ancien",
+   "nomacheteur": "MAIRIE DE NEFFIES",
+   "code_departement": [
+    "34"
+   ],
+   "descripteur_libelle": [
+    "Démolition",
+    "Terrassement",
+    "Maçonnerie",
+    "Mur de soutènement",
+    "Ferronnerie"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-103436"
+  },
+  {
+   "idweb": "26-103244",
+   "objet": "Fabrication et pose de la scénographie et de la signalétique pour le Centre culturel Bernard Pivot Cavea",
+   "nomacheteur": "Communaute De Communes Saône Beaujolais",
+   "code_departement": [
+    "69"
+   ],
+   "descripteur_libelle": [
+    "Décoration (travaux)",
+    "Matériel scénique",
+    "Peinture (travaux)",
+    "Signalétique"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-103244"
+  },
+  {
+   "idweb": "26-102701",
+   "objet": "Restructuration du groupe scolaire \"Jean Jaurès\"",
+   "nomacheteur": "Mairie de Rilhac-Rancon",
+   "code_departement": [
+    "87"
+   ],
+   "descripteur_libelle": [
+    "Démolition",
+    "Couverture",
+    "Etanchéité",
+    "Serrurerie",
+    "Carrelage"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-102701"
+  }
+ ]
+}
