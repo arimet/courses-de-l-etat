@@ -1,0 +1,31 @@
+{
+ "date": "2026-10-24",
+ "total": 2,
+ "model": null,
+ "top": [
+  {
+   "idweb": "26-103738",
+   "objet": "Remplacement complet de l'aire de jeux intérieure de la plaine de jeux du Lac de Caniel à Vittefleur",
+   "nomacheteur": "COMMUNAUTE DE COMMUNES DE LA COTE D'ALBATRE",
+   "code_departement": [
+    "76"
+   ],
+   "descripteur_libelle": [
+    "Aire de jeux"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-103738"
+  },
+  {
+   "idweb": "26-103741",
+   "objet": "Fourniture, installation et maintenance système sonorisation façade salle Gérard Philipe de Bonneuil sur Marne",
+   "nomacheteur": "Mairie de Bonneuil sur Marne",
+   "code_departement": [
+    "94"
+   ],
+   "descripteur_libelle": [
+    "Sonorisation"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-103741"
+  }
+ ]
+}
