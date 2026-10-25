@@ -1,0 +1,141 @@
+{
+ "date": "2026-10-25",
+ "total": 139,
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "top": [
+  {
+   "idweb": "26-103197",
+   "objet": "Accord-cadre à bon de commande de fourniture et livraison de plateaux repas pour les scrutins électoraux en 2 lots séparés",
+   "nomacheteur": "VILLE de PARIS - DFA - SDA",
+   "code_departement": [
+    "75"
+   ],
+   "descripteur_libelle": [
+    "Repas, traiteur"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-103197",
+   "pourquoi": "Le plateau-repas du citoyen électeur"
+  },
+  {
+   "idweb": "26-103328",
+   "objet": "REALISATIONS D'INSPECTIONS DETAILLEES D'OUVRAGES D'ART\nLot n°1 \"inspections détaillées périodiques d'ouvrages d'art\"\nLot n°2 \"inspections détaillées subaquatiques d'ouvrages d'art\"",
+   "nomacheteur": "Département du Doubs",
+   "code_departement": [
+    "25"
+   ],
+   "descripteur_libelle": [
+    "Ouvrage d'art"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-103328",
+   "pourquoi": "Inspecteurs de ponts en scaphandre"
+  },
+  {
+   "idweb": "26-103373",
+   "objet": "Fourniture et installation d’automates d’extraction d’acides nucléiques et prestations associées",
+   "nomacheteur": "EFS CPDL",
+   "code_departement": [
+    "37"
+   ],
+   "descripteur_libelle": [
+    "Automate"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-103373",
+   "pourquoi": "Robots vampires pour donneurs volontaires"
+  },
+  {
+   "idweb": "26-103146",
+   "objet": "Prestations de restauration collective sur le site de l'ensemble immobilier \"Pascal\"",
+   "nomacheteur": "Ministère de l'éducation nationale",
+   "code_departement": [
+    "75"
+   ],
+   "descripteur_libelle": [
+    "Restauration collective"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-103146",
+   "pourquoi": "Le Ministère déjeune chez Pascal"
+  },
+  {
+   "idweb": "26-103246",
+   "objet": "Mission de caractérisation des bennes non recyclables (anciennement tout-venant) des recycleries du SYVADEC",
+   "nomacheteur": "SYVADEC",
+   "code_departement": [
+    "20B",
+    "20A"
+   ],
+   "descripteur_libelle": [
+    "Etude",
+    "Ordures ménagères (prestations)"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-103246",
+   "pourquoi": "Autopsie officielle de la poubelle grise"
+  },
+  {
+   "idweb": "26-103319",
+   "objet": "Prestation d'accueil, de réception et d'orientation des usagers des déchetteries",
+   "nomacheteur": "GRAND CHAMBERY",
+   "code_departement": [
+    "73"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-103319",
+   "pourquoi": "Accueil VIP à la déchetterie"
+  },
+  {
+   "idweb": "26-103075",
+   "objet": "Fourniture d'aliments pour animaux pour les sites d'Osmoy (18) et de Nouzilly (37) du Centre INRAE Val de Loire",
+   "nomacheteur": "INRAE Centre Val de Loire",
+   "code_departement": [
+    "18",
+    "37"
+   ],
+   "descripteur_libelle": [
+    "Aliments pour animaux"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-103075",
+   "pourquoi": "Menu gastronomique pour rats de labo"
+  },
+  {
+   "idweb": "26-103281",
+   "objet": "Marche de telesurveillance et de surveillance des sites en travaux",
+   "nomacheteur": "Ets public Musées Orsay et Orangerie",
+   "code_departement": [
+    "75"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-103281",
+   "pourquoi": "Gardiens de nuit pour les Monets"
+  },
+  {
+   "idweb": "26-103362",
+   "objet": "Fourniture de toutes les denrées alimentaires (à l’exception des boissons et du pain) nécessaires à la préparation des repas élaborés sur le site de Créon",
+   "nomacheteur": "mairie de créon",
+   "code_departement": [
+    "33"
+   ],
+   "descripteur_libelle": [
+    "Denrées alimentaires",
+    "Restauration collective"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-103362",
+   "pourquoi": "Tout pour le festin, sauf le pain"
+  },
+  {
+   "idweb": "26-103067",
+   "objet": "Travaux de réhabilitation du Centre National des Arts de la Rue et de l'Espace Public (CNAREP)",
+   "nomacheteur": "COMMUNAUTE D'AGGLOMERATION VALENCIENNES METROPOLE",
+   "code_departement": [
+    "59"
+   ],
+   "descripteur_libelle": [
+    "Bâtiment"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-103067",
+   "pourquoi": "Rénovation du QG des arts de rue"
+  }
+ ]
+}
