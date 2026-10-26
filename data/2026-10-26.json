@@ -1,0 +1,153 @@
+{
+ "date": "2026-10-26",
+ "total": 119,
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "top": [
+  {
+   "idweb": "26-103767",
+   "objet": "Réalisation d'une étude de biodistribution des nanoparticules NPA1, enrichies ou non en cannabidiol (CBD), administrées par voie intradermique chez la souris",
+   "nomacheteur": "Université de la Réunion",
+   "code_departement": [
+    "974"
+   ],
+   "descripteur_libelle": [
+    "Etude"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-103767",
+   "pourquoi": "Souris au CBD : la science plane."
+  },
+  {
+   "idweb": "26-104097",
+   "objet": "FOURNITURE ET LIVRAISON DE PLANTS FORESTIERS POUR LA PLANTATION D’UNE MANGROVE DANS LE CADRE DU PROJET D’EXTENSION DU CENTRE PENITENTIAIRE DE BAIE-MAHAULT (GUADELOUPE)",
+   "nomacheteur": "AGENCE PUBLIQUE POUR L'IMMOBILIER DE LA JUSTICE",
+   "code_departement": [
+    "75",
+    "94",
+    "971",
+    "972",
+    "973"
+   ],
+   "descripteur_libelle": [
+    "Travaux agricoles",
+    "Travaux forestiers"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-104097",
+   "pourquoi": "Mangrove en prison : l'évasion verte."
+  },
+  {
+   "idweb": "26-103782",
+   "objet": "Fourniture et livraison de colis gourmands à destination des personnels de l'EPSM Lille Métropole, de l'EPSM de l'Agglomération Lilloise et de l'EPSM Val de Lys Artois",
+   "nomacheteur": "EPSM Lille Métropole",
+   "code_departement": [
+    "59"
+   ],
+   "descripteur_libelle": [
+    "Colis",
+    "Denrées alimentaires",
+    "Boisson"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-103782",
+   "pourquoi": "Paniers gourmands : réconfort en HP."
+  },
+  {
+   "idweb": "26-104036",
+   "objet": "Mise en scène d'une énigme dans le cadre de l'évènement RE LYON NOUS 2027 2028 et 2029",
+   "nomacheteur": "Ville de Lyon",
+   "code_departement": [
+    "69"
+   ],
+   "descripteur_libelle": [
+    "Evénementiel"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-104036",
+   "pourquoi": "Énigme géante : Lyon s'évade."
+  },
+  {
+   "idweb": "26-103969",
+   "objet": "Autorisation d’Occupation Temporaire (AOT) pour l’exploitation du golf du Colorado sur la commune de Saint-Denis",
+   "nomacheteur": "COMMUNAUTE INTERCOMMUNALE NORD REUNION",
+   "code_departement": [
+    "974"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-103969",
+   "pourquoi": "Golf du Colorado : le Far-West réunionnais."
+  },
+  {
+   "idweb": "26-103976",
+   "objet": "PRESTATION D’ACCUEIL PAR DES HÔTES/HÔTESSES AU PROFIT DE LA COMMUNE DE SANARY-SUR-MER",
+   "nomacheteur": "Ville de Sanary sur Mer (83)",
+   "code_departement": [
+    "83"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-103976",
+   "pourquoi": "Accueil VIP : la mairie comme un palace."
+  },
+  {
+   "idweb": "26-103854",
+   "objet": "CONCEPTION, FOURNITURES, ASSEMBLAGE, PROGRAMMATION, INSTALLATION, MISE EN SERVICE ET FORMATION POUR UN PILOTE HYDROGENE (H2",
+   "nomacheteur": "LYCEE POLYVALENT LOUIS RASCOL",
+   "code_departement": [
+    "11",
+    "12",
+    "31",
+    "32",
+    "46",
+    "81",
+    "82"
+   ],
+   "descripteur_libelle": [
+    "Ingénierie",
+    "Laboratoire (matériel)"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-103854",
+   "pourquoi": "Lycée hydrogène : l'énergie en TP."
+  },
+  {
+   "idweb": "26-104110",
+   "objet": "Transport d'élèves pour la visite du centre de tri des déchets ménagers recyclables de Parçay-Meslay au Cassantin et de la station d'épuration de La Grange David à La Riche",
+   "nomacheteur": "Tours métropole Val de Loire",
+   "code_departement": [
+    "37"
+   ],
+   "descripteur_libelle": [
+    "Transport"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-104110",
+   "pourquoi": "École : visite égouts et tri sélectif."
+  },
+  {
+   "idweb": "26-103951",
+   "objet": "Acquisition, marquage et livraison d'objets publicitaires pour la ville de Bussy-Saint-Georges",
+   "nomacheteur": "VILLE DE BUSSY-SAINT-GEORGES",
+   "code_departement": [
+    "77"
+   ],
+   "descripteur_libelle": [
+    "Objet publicitaire"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-103951",
+   "pourquoi": "Objets pub : la ville lance sa marque."
+  },
+  {
+   "idweb": "26-104015",
+   "objet": "Prestation de désinfection par bio-décontamination du laboratoire",
+   "nomacheteur": "Agence nationale de santé et du médicament",
+   "code_departement": [
+    "93",
+    "75",
+    "34"
+   ],
+   "descripteur_libelle": [
+    "Nettoyage de locaux"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-104015",
+   "pourquoi": "Labo ANSM : grand nettoyage moléculaire."
+  }
+ ]
+}
