@@ -1,0 +1,152 @@
+{
+ "date": "2026-10-27",
+ "total": 178,
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "top": [
+  {
+   "idweb": "26-103900",
+   "objet": "Production de la gamme cosmétique Dax et Terra : fournitures des contenants et fabrication de produits",
+   "nomacheteur": "COMMUNE DE DAX",
+   "code_departement": [
+    "40"
+   ],
+   "descripteur_libelle": [
+    "Produits des industries diverses"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-103900",
+   "pourquoi": "La ville lance sa gamme cosmétique."
+  },
+  {
+   "idweb": "26-104483",
+   "objet": "Conception de la scénographie de l'exposition temporaire \"France/Angleterre\", juin 2028, salle d'exposition temporaire du musée national de la Marine, site de Chaillot",
+   "nomacheteur": "MUSEE NATIONAL DE LA MARINE",
+   "code_departement": [
+    "17",
+    "59",
+    "66",
+    "75",
+    "79"
+   ],
+   "descripteur_libelle": [
+    "Equipement muséographique",
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-104483",
+   "pourquoi": "Le musée imagine France vs Angleterre 2028."
+  },
+  {
+   "idweb": "26-103940",
+   "objet": "Prestations de formation des agents du Département de la Savoie aux outils d'intelligence artificielle générative (IAG)",
+   "nomacheteur": "Département de la Savoie",
+   "code_departement": [
+    "73"
+   ],
+   "descripteur_libelle": [
+    "Formation"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-103940",
+   "pourquoi": "Le Département forme ses agents à l'IA."
+  },
+  {
+   "idweb": "26-104391",
+   "objet": "Dispositif qualité Naolib, réseau de transports collectifs et coordination des services de mobilités - Réalisation de prestations d’enquêtes « Clients Mystère »",
+   "nomacheteur": "Nantes Métropole",
+   "code_departement": [
+    "44"
+   ],
+   "descripteur_libelle": [
+    "Transport",
+    "Sondage, enquête",
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-104391",
+   "pourquoi": "Nantes recrute des clients mystères dans le bus."
+  },
+  {
+   "idweb": "26-104514",
+   "objet": "Ght_LAB_2026-258_MAPA_Fournit Glace Carbonique Et Bouteilles De Gaz D’Analyses Usage Exclusif En Labo",
+   "nomacheteur": "CHU SAINT ETIENNE",
+   "code_departement": [
+    "42",
+    "7"
+   ],
+   "descripteur_libelle": [
+    "Gaz divers"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-104514",
+   "pourquoi": "L'hôpital commande glace carbonique et gaz."
+  },
+  {
+   "idweb": "26-104491",
+   "objet": "Montage Et Maintenance Des Installations Electriques Pour La Foire Des Rameaux 2027",
+   "nomacheteur": "Ville De Grenoble",
+   "code_departement": [
+    "38"
+   ],
+   "descripteur_libelle": [
+    "Electricité (travaux)",
+    "Maintenance"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-104491",
+   "pourquoi": "Grenoble câble l'électricité pour la Foire des Rameaux."
+  },
+  {
+   "idweb": "26-103795",
+   "objet": "MARCHE DE FOURNITURES & INSTALLATIONS DE DISPOSITIFS DE RALINGUES, FLOTTEURS & KITS FILETS DANS LE CADRE DU PROJET ECHORAL",
+   "nomacheteur": "CNPMEM",
+   "code_departement": [
+    "75",
+    "64",
+    "17",
+    "33"
+   ],
+   "descripteur_libelle": [
+    "Equipements spécialisés"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-103795",
+   "pourquoi": "Des filets et ralingues pour le projet ECHORAL."
+  },
+  {
+   "idweb": "26-103898",
+   "objet": "Réalisation de pieux d’ancrage à commande  hydraulique et travaux d’aménagement divers sur le  ponton flottant « La Plate »",
+   "nomacheteur": "Voies Navigables de France",
+   "code_departement": [
+    "69",
+    "70",
+    "21"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-103898",
+   "pourquoi": "VNF ancre le ponton flottant « La Plate »."
+  },
+  {
+   "idweb": "26-103978",
+   "objet": "PRESTATIONS DE TRADUCTION ET D'INTERPRETARIAT EN MILIEU SOCIAL",
+   "nomacheteur": "Coallia",
+   "code_departement": [
+    "75"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-103978",
+   "pourquoi": "Coallia cherche traducteurs pour le social."
+  },
+  {
+   "idweb": "26-104334",
+   "objet": "prestations de vente aux enchères publiques de biens mobiliers appartenant au SDIS de la Gironde, principalement des véhicules réformés.",
+   "nomacheteur": "SDIS 33 Gironde",
+   "code_departement": [
+    "33"
+   ],
+   "descripteur_libelle": [
+    "Mobilier",
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-104334",
+   "pourquoi": "Les pompiers vendent leurs camions aux enchères."
+  }
+ ]
+}
