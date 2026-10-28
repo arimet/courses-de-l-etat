@@ -1,0 +1,156 @@
+{
+ "date": "2026-10-28",
+ "total": 274,
+ "model": null,
+ "top": [
+  {
+   "idweb": "26-104426",
+   "objet": "Fourniture d'équipements son et vidéo pour le Théâtre des Sablons à Neuilly-sur-Seine (lots 4 et 5)",
+   "nomacheteur": "Ville de Neuilly-sur-Seine",
+   "code_departement": [
+    "92"
+   ],
+   "descripteur_libelle": [
+    "Audiovisuel"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-104426"
+  },
+  {
+   "idweb": "26-104297",
+   "objet": "ENTRETIEN DES PLAGES ET DU LITTORAL",
+   "nomacheteur": "Mairie de Roquebrune sur Argens",
+   "code_departement": [
+    "83"
+   ],
+   "descripteur_libelle": [
+    "Plage",
+    "Nettoyage urbain"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-104297"
+  },
+  {
+   "idweb": "26-104423",
+   "objet": "Fourniture de figurines, jouets en matière plastique pour enfants destinés à la revente dans les librairies-boutiques du CMN",
+   "nomacheteur": "Centre des monuments nationaux",
+   "code_departement": [
+    "75"
+   ],
+   "descripteur_libelle": [
+    "Jeux, jouets"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-104423"
+  },
+  {
+   "idweb": "26-104494",
+   "objet": "Prestations de lutte et de traitement des nuisibles sur les bâtiments de la ville et du CCAS de Rouen - Groupement de commandes ville et CCAS de Rouen",
+   "nomacheteur": "Ville de Rouen",
+   "code_departement": [
+    "76"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-104494"
+  },
+  {
+   "idweb": "26-104314",
+   "objet": "Mission de maîtrise d'oeuvre pour la rénovation des installations techniques de la patinoire",
+   "nomacheteur": "Mairie de Courchevel",
+   "code_departement": [
+    "73"
+   ],
+   "descripteur_libelle": [
+    "Maîtrise d'oeuvre"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-104314"
+  },
+  {
+   "idweb": "26-104105",
+   "objet": "Accord-cadre à marchés subséquents pour la fourniture de carburant de la station-service communale de Saint-Etienne-les-Orgues",
+   "nomacheteur": "Mairie de St-Etienne-les-Orgues",
+   "code_departement": [
+    "4"
+   ],
+   "descripteur_libelle": [
+    "Carburant, hydrocarbure"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-104105"
+  },
+  {
+   "idweb": "26-104230",
+   "objet": "Travaux de construction et restructuration du groupe scolaire ABEILLES/CAMUS à LE MEE-SUR-SEINE (77).",
+   "nomacheteur": "SPL Melun Val de Seine Aménagement",
+   "code_departement": [
+    "77",
+    "75",
+    "91",
+    "92"
+   ],
+   "descripteur_libelle": [
+    "Bâtiment"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-104230"
+  },
+  {
+   "idweb": "26-104234",
+   "objet": "CONSTRUCTION D’UN BATIMENT EFS SUR L’ILE DE NANTES",
+   "nomacheteur": "EFS CPDL",
+   "code_departement": [
+    "44",
+    "37"
+   ],
+   "descripteur_libelle": [
+    "Chauffage (travaux)",
+    "Electricité (travaux)",
+    "Peinture (travaux)",
+    "Plomberie (travaux)",
+    "Sondage (travaux)",
+    "Terrassement",
+    "Gros oeuvre",
+    "Charpente",
+    "Cloison, faux plafond",
+    "Etanchéité",
+    "Serrurerie",
+    "Menuiserie",
+    "Chambre froide",
+    "Revêtements de sols",
+    "Signalétique",
+    "Laboratoire (matériel)",
+    "Mobilier",
+    "Nettoyage de locaux",
+    "Ascenseur",
+    "Espaces verts"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-104234"
+  },
+  {
+   "idweb": "26-104920",
+   "objet": "Fourniture de produits d'entretien et d'hygiène",
+   "nomacheteur": "Mairie D'Arcachon",
+   "code_departement": [
+    "33"
+   ],
+   "descripteur_libelle": [
+    "Droguerie",
+    "Hygiène (articles)",
+    "Produits d'entretien"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-104920"
+  },
+  {
+   "idweb": "26-104883",
+   "objet": "confortement en berge de l'exutoire de la station d'épuration de Massanès",
+   "nomacheteur": "smavlot47",
+   "code_departement": [
+    "47"
+   ],
+   "descripteur_libelle": [
+    "Station d'épuration (travaux)",
+    "Berge",
+    "Mur de soutènement",
+    "Ouvrage hydraulique"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-104883"
+  }
+ ]
+}
