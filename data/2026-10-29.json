@@ -1,0 +1,134 @@
+{
+ "date": "2026-10-29",
+ "total": 271,
+ "model": null,
+ "top": [
+  {
+   "idweb": "26-105507",
+   "objet": "M.A.P.A. 2026 - 053 FÊTES DE NOËL 2026 10 LOTS",
+   "nomacheteur": "Ville du Cannet (06)",
+   "code_departement": [
+    "6"
+   ],
+   "descripteur_libelle": [
+    "Evénementiel",
+    "Feu d'artifice",
+    "Illumination",
+    "Spectacle"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-105507"
+  },
+  {
+   "idweb": "26-104885",
+   "objet": "Nettoyage des locaux du complexe aquatique patinoire",
+   "nomacheteur": "La Roche-sur-Yon Agglomération",
+   "code_departement": [
+    "85"
+   ],
+   "descripteur_libelle": [
+    "Nettoyage de locaux"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-104885"
+  },
+  {
+   "idweb": "26-105474",
+   "objet": "Gestion externalisée de la paie pour les emplois occasionnels du régime général et les intermittents du spectacle recrutés pour les manifestations culturelles du Département des Hauts-de-Seine",
+   "nomacheteur": "Département des Hauts-de-Seine",
+   "code_departement": [
+    "92"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-105474"
+  },
+  {
+   "idweb": "26-105286",
+   "objet": "Mise en place de distributeurs de boissons fraiches, de boissons chaudes et de confiseries dans divers établissements de la Ville de Troyes et de Troyes Champagne Métropole-.",
+   "nomacheteur": "Commune de Troyes",
+   "code_departement": [
+    "10"
+   ],
+   "descripteur_libelle": [
+    "Repas, traiteur"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-105286"
+  },
+  {
+   "idweb": "26-105371",
+   "objet": "Organisation événementielle Clé En Main De L'Arbre De Noël Des Enfants Et Des Cérémonies De Voeux Du Personnel Communal\nédition 2026 : « Ensemble, Cultivons L'Avenir »",
+   "nomacheteur": "Commune de Saint-Denis",
+   "code_departement": [
+    "974"
+   ],
+   "descripteur_libelle": [
+    "Evénementiel"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-105371"
+  },
+  {
+   "idweb": "26-104959",
+   "objet": "26V0841 - Acquisition de bateaux de type Zodiac et accessoires associés (relance du 25V1574-02)",
+   "nomacheteur": "VILLE DE NICE",
+   "code_departement": [
+    "6"
+   ],
+   "descripteur_libelle": [
+    "Equipement sportif",
+    "Pneumatiques",
+    "Transport"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-104959"
+  },
+  {
+   "idweb": "26-104878",
+   "objet": "FOURNITURES, TRAVAUX D'INSTALLATION, DE RENOVATION ET DE MISE EN CONFORMITE, AINSI QUE LE GENIE CIVIL POUR LES RESEAUX D'ECLAIRAGE PUBLIC ET D'ILLUMINATION",
+   "nomacheteur": "Euro-Métropole de Metz",
+   "code_departement": [
+    "57"
+   ],
+   "descripteur_libelle": [
+    "Eclairage public"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-104878"
+  },
+  {
+   "idweb": "26-104976",
+   "objet": "FOURNITURE ET LIVRAISON DE BENNES A ORDURES MENAGERES",
+   "nomacheteur": "NEVERS AGGLOMERATION",
+   "code_departement": [
+    "58"
+   ],
+   "descripteur_libelle": [
+    "Benne",
+    "Ordures ménagères (prestations)"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-104976"
+  },
+  {
+   "idweb": "26-104832",
+   "objet": "Fournitures, livraison et gestion de titres restaurant",
+   "nomacheteur": "Commune de Borgo",
+   "code_departement": [
+    "20B"
+   ],
+   "descripteur_libelle": [
+    "Titres restaurant"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-104832"
+  },
+  {
+   "idweb": "26-105450",
+   "objet": "Fourniture d'objets connectés et installation - Parc bâtimentaire du SDIS de la Nièvre",
+   "nomacheteur": "Service départemental d'incendie et de secours de la nièvre",
+   "code_departement": [
+    "58"
+   ],
+   "descripteur_libelle": [
+    "Matériel électronique",
+    "Chauffage (matériel)"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-105450"
+  }
+ ]
+}
