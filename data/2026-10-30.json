@@ -1,0 +1,149 @@
+{
+ "date": "2026-10-30",
+ "total": 257,
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "top": [
+  {
+   "idweb": "26-105187",
+   "objet": "Transport et gestion des dons de corps à des fins d’enseignement médical et de recherche.",
+   "nomacheteur": "Université Marie et Louis Pasteur",
+   "code_departement": [
+    "25"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services",
+    "Articles funéraires, cercueil"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-105187",
+   "pourquoi": "Dernier voyage pour la science."
+  },
+  {
+   "idweb": "26-105387",
+   "objet": "Fourniture de denrées alimentaires pour les animaux du Zoodyssée 2027-2031",
+   "nomacheteur": "DEPARTEMENT DES DEUX-SEVRES",
+   "code_departement": [
+    "79"
+   ],
+   "descripteur_libelle": [
+    "Aliments pour animaux"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-105387",
+   "pourquoi": "Le menu des locataires à écailles."
+  },
+  {
+   "idweb": "26-105381",
+   "objet": "FOURNITURE DE SAPINS DE NOËL ET BRANCHAGES, DE BOUTURES, MICRO-MOTTES ET JEUNES PLANTS, DE BULBES ET TUBERCULES ET DE GRAINES POUR LA PRODUCTION, LOCATION DE SAPINS DE NOËL",
+   "nomacheteur": "Etablissement Public Territorial Plaine Commune",
+   "code_departement": [
+    "93"
+   ],
+   "descripteur_libelle": [
+    "Espaces verts"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-105381",
+   "pourquoi": "Sapins de Noël : location avec option d'aiguilles."
+  },
+  {
+   "idweb": "26-105667",
+   "objet": "Garde d'enfants de 4 à 11 ans pour les réunions publiques, concertations, animations portées par la Ville de Strasbourg",
+   "nomacheteur": "Ville de Strasbourg",
+   "code_departement": [
+    "67"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-105667",
+   "pourquoi": "La démocratie offre le baby-sitting."
+  },
+  {
+   "idweb": "26-105750",
+   "objet": "acquisition de sept mobil homes neufs 3 inférieurs ou égal à 8.60 m de longueur 2 compris entre 8.60 m et 9.60 m de longueur 2 supérieurs à 9.60 m de longueur maxi 10.00 m",
+   "nomacheteur": "camping municipal sol i neu",
+   "code_departement": [
+    "9",
+    "11",
+    "30",
+    "34",
+    "66"
+   ],
+   "descripteur_libelle": [
+    "Mobilier"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-105750",
+   "pourquoi": "La mairie devient proprio de mobil-homes."
+  },
+  {
+   "idweb": "26-105794",
+   "objet": "PHARE DE CORDOUAN Réfection salle des groupes & chaufferie, élévation Est du fût Henri I (deuxième galerie), vitraux de la chapelle",
+   "nomacheteur": "DIRM Sud-Atlantique",
+   "code_departement": [
+    "33",
+    "17",
+    "16"
+   ],
+   "descripteur_libelle": [
+    "Bâtiment",
+    "Maçonnerie",
+    "Menuiserie"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-105794",
+   "pourquoi": "Le phare de Cordouan refait sa beauté."
+  },
+  {
+   "idweb": "26-105629",
+   "objet": "Prestation de livraison de paniers-sandwiches et de rafraîchissements pour les bureaux de vote gérés par la Ville de Strasbourg",
+   "nomacheteur": "Ville de Strasbourg",
+   "code_departement": [
+    "67"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-105629",
+   "pourquoi": "Sandwichs et démocratie, même combat."
+  },
+  {
+   "idweb": "26-105666",
+   "objet": "Organisation de l'arbre de Noël 2026 pour les enfants du personnel de la Collectivité de Corse - relance Lot 3",
+   "nomacheteur": "Collectivité de Corse",
+   "code_departement": [
+    "20A",
+    "20B"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-105666",
+   "pourquoi": "L'arbre de Noël, version marché public."
+  },
+  {
+   "idweb": "26-105076",
+   "objet": "Le présent accord-cadre a pour objet la fourniture et la livraison de pellets pour le centre de détention du Comtat Venaissin.",
+   "nomacheteur": "DISP Marseille",
+   "code_departement": [
+    "84",
+    "13"
+   ],
+   "descripteur_libelle": [
+    "Bois"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-105076",
+   "pourquoi": "La prison chauffe aux granulés."
+  },
+  {
+   "idweb": "26-105814",
+   "objet": "Création et Regarnissage de haies en Normandie",
+   "nomacheteur": "Fédération Des Chasseurs de Normandie",
+   "code_departement": [
+    "61",
+    "14"
+   ],
+   "descripteur_libelle": [
+    "Travaux agricoles"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-105814",
+   "pourquoi": "Les chasseurs plantent des haies, pas que des balles."
+  }
+ ]
+}
