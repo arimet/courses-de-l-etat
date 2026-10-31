@@ -1,0 +1,152 @@
+{
+ "date": "2026-10-31",
+ "total": 15,
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "top": [
+  {
+   "idweb": "26-105411",
+   "objet": "Financement par crédit-bail de deux engins de damage standard",
+   "nomacheteur": "SOLEGETS",
+   "code_departement": [
+    "74"
+   ],
+   "descripteur_libelle": [
+    "Véhicules (acquisition)"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-105411",
+   "pourquoi": "Deux dameuses pour lisser l’hiver."
+  },
+  {
+   "idweb": "26-105441",
+   "objet": "Réalisation d’un inventaire des zones humides-.",
+   "nomacheteur": "SYNDICAT DU BASSIN VERSANT DE L'AISNE NAVIGABLE",
+   "code_departement": [
+    "2"
+   ],
+   "descripteur_libelle": [
+    "Etude"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-105441",
+   "pourquoi": "Recenser les flaques, c’est officiel."
+  },
+  {
+   "idweb": "26-105422",
+   "objet": "REALISATION D'UNE SURVEILLANCE DES VERSANTS INSTABLES DES TALUS DU CANAL DE MARIGNANE",
+   "nomacheteur": "GRAND PORT MARITIME DE MARSEILLE",
+   "code_departement": [
+    "13"
+   ],
+   "descripteur_libelle": [
+    "Surveillance",
+    "Etude"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-105422",
+   "pourquoi": "Gardiennage de falaises nerveuses."
+  },
+  {
+   "idweb": "26-105433",
+   "objet": "Travaux de modernisation du Planétarium de Bretagne",
+   "nomacheteur": "SYNDICAT MIXTE DU PLANETARIUM",
+   "code_departement": [
+    "22",
+    "29",
+    "35",
+    "56"
+   ],
+   "descripteur_libelle": [
+    "Ascenseur",
+    "Bâtiment",
+    "Charpente",
+    "Chauffage (travaux)",
+    "Climatisation",
+    "Cloison, faux plafond",
+    "Couverture",
+    "Démolition",
+    "Electricité (travaux)",
+    "Etanchéité",
+    "Gros oeuvre",
+    "Isolation",
+    "Menuiserie",
+    "Peinture (travaux)",
+    "Plomberie (travaux)",
+    "Revêtements de sols",
+    "Ventilation"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-105433"
+  },
+  {
+   "idweb": "26-105421",
+   "objet": "Acquisition de titres restaurant dématérialisés",
+   "nomacheteur": "EPNAK",
+   "code_departement": [
+    "91"
+   ],
+   "descripteur_libelle": [
+    "Titres restaurant"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-105421"
+  },
+  {
+   "idweb": "26-105424",
+   "objet": "Fourniture de granulats pour les besoins de Réseau31",
+   "nomacheteur": "RESEAU 31",
+   "code_departement": [
+    "31"
+   ],
+   "descripteur_libelle": [
+    "Voirie et réseaux divers"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-105424"
+  },
+  {
+   "idweb": "26-105407",
+   "objet": "Concours restreint de maîtrise d’œuvre sur esquisse + pour la réalisation d’un Centre Médico-Social et d’une antenne du\nCentre Hospitalier de Mayotte à Kawéni - Phase candidature.",
+   "nomacheteur": "Département-Région de Mayotte",
+   "code_departement": [
+    "976"
+   ],
+   "descripteur_libelle": [
+    "Ingénierie"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-105407"
+  },
+  {
+   "idweb": "26-105404",
+   "objet": "Marché de construction d'un Ouvrage d'Art pour le franchissement de l'Orge à Juvisy-sur-Orge.",
+   "nomacheteur": "Setec Organisation au nom et pour le compte dIle de France Mobilités",
+   "code_departement": [
+    "91"
+   ],
+   "descripteur_libelle": [
+    "Ouvrage d'art"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-105404"
+  },
+  {
+   "idweb": "26-105415",
+   "objet": "Marché de maîtrise d'oeuvre relative au projet de réhabilitation de l'église Saint-Etienne à Cernay",
+   "nomacheteur": "Ville de Cernay",
+   "code_departement": [
+    "68"
+   ],
+   "descripteur_libelle": [
+    "Maîtrise d'oeuvre",
+    "Monuments historiques",
+    "Bâtiment"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-105415"
+  },
+  {
+   "idweb": "26-105405",
+   "objet": "Fourniture de réactifs et consommables pour la réalisation de divers dosages d’Immunologie avec mise à disposition d’automate pour certains lots",
+   "nomacheteur": "42 CHU",
+   "code_departement": [
+    "42"
+   ],
+   "descripteur_libelle": [
+    "Réactifs"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-105405"
+  }
+ ]
+}
