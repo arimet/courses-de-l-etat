@@ -1,0 +1,151 @@
+{
+ "date": "2026-11-01",
+ "total": 118,
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "top": [
+  {
+   "idweb": "26-105616",
+   "objet": "Assistance à Maîtrise d'ouvrage en économie de la construction pour le projet d'évolution de la station Dumont d'Urville en Antarctique",
+   "nomacheteur": "Institut polaire français",
+   "code_departement": [
+    "29"
+   ],
+   "descripteur_libelle": [
+    "Assistance à maîtrise d'ouvrage"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-105616",
+   "pourquoi": "L'Institut polaire rénove sa base... en Antarctique."
+  },
+  {
+   "idweb": "26-105789",
+   "objet": "Location d'un hélicoptère bombardier d'eau (HBE) avec équipage pour le SDIS de l'Allier",
+   "nomacheteur": "Service Départemental d'Incendie et de Secours de l'Allier",
+   "code_departement": [
+    "3"
+   ],
+   "descripteur_libelle": [
+    "Véhicules (location)"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-105789",
+   "pourquoi": "L'Allier loue un hélico-citerne avec pilote inclus."
+  },
+  {
+   "idweb": "26-105835",
+   "objet": "Prestations de gestion des animaleries de l’Institut Mondor de recherche Biomédicale",
+   "nomacheteur": "INSERM DR PARIS-IDF CENTRE-EST",
+   "code_departement": [
+    "75"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-105835",
+   "pourquoi": "L'Inserm confie ses souris à un facility manager."
+  },
+  {
+   "idweb": "26-105864",
+   "objet": "Conception et fabrication d'une flotte de eNavibus",
+   "nomacheteur": "SEMITAN, mandataire de Nantes Métropole",
+   "code_departement": [
+    "44"
+   ],
+   "descripteur_libelle": [
+    "Construction navale"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-105864",
+   "pourquoi": "Nantes Métropole commande des bus sans chauffeur."
+  },
+  {
+   "idweb": "26-105879",
+   "objet": "Fourniture de générateurs de lumière polychromatique fixes et portatifs, et de tablettes portables multispectrales",
+   "nomacheteur": "MINISTERE DE L'INTERIEUR",
+   "code_departement": [
+    "75"
+   ],
+   "descripteur_libelle": [
+    "Equipements spécialisés"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-105879",
+   "pourquoi": "Le ministère de l'Intérieur achète des lampes \"CSI\"."
+  },
+  {
+   "idweb": "26-105699",
+   "objet": "Préclinical PET-CT",
+   "nomacheteur": "UCBL1",
+   "code_departement": [
+    "69"
+   ],
+   "descripteur_libelle": [
+    "Equipements spécialisés",
+    "Laboratoire (matériel)",
+    "Automate",
+    "Matériel de précision",
+    "Radiologie (matériel)",
+    "Matériel électrique",
+    "Matériel électronique médical",
+    "Matériel médical"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-105699",
+   "pourquoi": "Lyon 1 s'offre un scanner pour rongeurs."
+  },
+  {
+   "idweb": "26-105655",
+   "objet": "Prestation de contrôle des agriculteurs engagés dans le dispositif de paiement pour services environnementaux de l'Eurométropole de Strasbourg",
+   "nomacheteur": "Eurométropole de Strasbourg",
+   "code_departement": [
+    "67"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-105655",
+   "pourquoi": "Strasbourg contrôle ses agriculteurs payés pour l'écolo."
+  },
+  {
+   "idweb": "26-105899",
+   "objet": "ACCORD-CADRE RELATIF A UN SERVICE DE TRANSPORT ET DE STOCKAGE DE FONDS ET DE VALEURS DESTINE AUX SERVICES DE LA DIRECTION GÉNÉRALE DES DOUANES ET DROITS INDIRECTS (DGDDI)",
+   "nomacheteur": "DGDDI Bureau des achats et approvisionnements FIN2",
+   "code_departement": [
+    "93",
+    "75",
+    "92",
+    "91",
+    "95",
+    "77",
+    "78",
+    "94"
+   ],
+   "descripteur_libelle": [
+    "Transport"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-105899",
+   "pourquoi": "Les douanes externalisent le transport de leur trésor."
+  },
+  {
+   "idweb": "26-105765",
+   "objet": "TRANSPORT DE CAISSES ENTRE LES MEDIATHÈQUES DU RÉSEAU DE LECTURE PUBLIQUE DE VAL PARISIS",
+   "nomacheteur": "Communauté d'agglomération Val Parisis",
+   "code_departement": [
+    "95"
+   ],
+   "descripteur_libelle": [
+    "Transport"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-105765",
+   "pourquoi": "Val Parisis fait circuler les livres en caisses."
+  },
+  {
+   "idweb": "26-105903",
+   "objet": "MISE A DISPOSITION D’UNE PLATEFORME D’APPRENTISSAGE DU FRANÇAIS A DISTANCE A DESTINATION DES DEMANDEURS D’ASILE",
+   "nomacheteur": "OFII.",
+   "code_departement": [
+    "75"
+   ],
+   "descripteur_libelle": [
+    "Formation"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-105903",
+   "pourquoi": "L'Ofii déploie le français en ligne pour asile."
+  }
+ ]
+}
