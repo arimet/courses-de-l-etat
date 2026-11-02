@@ -1,0 +1,149 @@
+{
+ "date": "2026-11-02",
+ "total": 117,
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "top": [
+  {
+   "idweb": "26-106363",
+   "objet": "Prises de vue des 24 toiles monumentales du cycle de Marie de Médicis de Pierre Paul Rubens",
+   "nomacheteur": "MUSEE DU LOUVRE",
+   "code_departement": [
+    "75"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-106363",
+   "pourquoi": "Le Louvre shooting ses Rubens monumentaux."
+  },
+  {
+   "idweb": "26-106254",
+   "objet": "Fourniture de céréales et d'aliments composés pour les animaux du parc des Cytises",
+   "nomacheteur": "Communauté d'Agglomération de Lens-Liévin",
+   "code_departement": [
+    "62",
+    "59"
+   ],
+   "descripteur_libelle": [
+    "Aliments pour animaux"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-106254",
+   "pourquoi": "Des céréales pour les pensionnaires du parc."
+  },
+  {
+   "idweb": "26-106462",
+   "objet": "Réalisation d'une plateforme en milieu aquatique destinée à accueillir une œuvre d'art",
+   "nomacheteur": "CENTRE POMPIDOU",
+   "code_departement": [
+    "75"
+   ],
+   "descripteur_libelle": [
+    "Maçonnerie"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-106462",
+   "pourquoi": "Une plateforme flottante pour une œuvre d'art."
+  },
+  {
+   "idweb": "26-106150",
+   "objet": "Marché de location, acquisition, transport, entretien et maintenance de pianos pour l'école départementale de musique de la Charente",
+   "nomacheteur": "Conseil Départemental de la Charente",
+   "code_departement": [
+    "16"
+   ],
+   "descripteur_libelle": [
+    "Instruments de musique",
+    "Location (matériels)",
+    "Maintenance",
+    "Transport"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-106150",
+   "pourquoi": "Location pianos : l'école de musique déménage."
+  },
+  {
+   "idweb": "26-106080",
+   "objet": "Prestations vétérinaires pour la fourrière animale de Communauté Urbaine de Caen la mer et les besoins des communes adhérentes au groupement de commande",
+   "nomacheteur": "Communauté Urbaine Caen La Mer",
+   "code_departement": [
+    "14",
+    "27",
+    "50",
+    "61",
+    "76"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-106080",
+   "pourquoi": "Vétérinaire pour la fourrière de Caen-la-mer."
+  },
+  {
+   "idweb": "26-106130",
+   "objet": "Fourniture d'objets publicitaires – 2 Lots",
+   "nomacheteur": "DEPARTEMENT DE L'AVEYRON",
+   "code_departement": [
+    "12"
+   ],
+   "descripteur_libelle": [
+    "Objet publicitaire"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-106130",
+   "pourquoi": "Goodies Aveyron : stylos et casquettes officiels."
+  },
+  {
+   "idweb": "26-106224",
+   "objet": "COLLECTE ET TRAITEMENT DES DECHETS D’ACTIVITES ECONOMIQUES (DAE) POUR LE CORUM & LE ZENITH SUD",
+   "nomacheteur": "MONTPELLIER EVENTS",
+   "code_departement": [
+    "34"
+   ],
+   "descripteur_libelle": [
+    "Déchets non ménagers (prestations)"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-106224",
+   "pourquoi": "Déchets du Zénith et du Corum triés."
+  },
+  {
+   "idweb": "26-106149",
+   "objet": "Réaffectation d'un bâtiment en Centre de Longévité",
+   "nomacheteur": "Mairie D'Arcachon",
+   "code_departement": [
+    "33"
+   ],
+   "descripteur_libelle": [
+    "Tous corps d'état"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-106149",
+   "pourquoi": "Un bâtiment devient Centre de Longévité."
+  },
+  {
+   "idweb": "26-106022",
+   "objet": "PRESTATION DE SERVICES TECHNICIEN RIVIERE",
+   "nomacheteur": "Syndicat Mixte du Bassin Versant des Deux Séoune",
+   "code_departement": [
+    "47",
+    "46",
+    "82"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services",
+    "Travaux dans l'eau",
+    "Rivières/ruisseaux"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-106022",
+   "pourquoi": "Technicien rivière : le job qui a du courant."
+  },
+  {
+   "idweb": "26-106355",
+   "objet": "Changement de câbles de précontrainte additionnelle du Pont de Brotonne",
+   "nomacheteur": "Département de la Seine-Maritime",
+   "code_departement": [
+    "76"
+   ],
+   "descripteur_libelle": [
+    "Ouvrage d'art"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-106355",
+   "pourquoi": "Changer les câbles du pont de Brotonne."
+  }
+ ]
+}
