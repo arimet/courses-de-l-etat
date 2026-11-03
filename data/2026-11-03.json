@@ -1,0 +1,150 @@
+{
+ "date": "2026-11-03",
+ "total": 204,
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "top": [
+  {
+   "idweb": "26-106234",
+   "objet": "GN26PF01 SERVICE DE SOINS DE THANATOPRAXIE, TOILETTES MORTUAIRES, RETRAITS DE STIMULATEUR CARDIAQUE",
+   "nomacheteur": "Communauté d'agglomération du Grand Narbonne",
+   "code_departement": [
+    "11"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services",
+    "Sanitaire"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-106234",
+   "pourquoi": "Soins mortuaires et stimulateurs : l'addition, svp."
+  },
+  {
+   "idweb": "26-106293",
+   "objet": "Location d'un Hélicoptère Bombardier d'Eau (HBE) avec équipage et Bambi bucket (ou équivalent).",
+   "nomacheteur": "SDIS 43 Haute Loire",
+   "code_departement": [
+    "43",
+    "20A",
+    "75",
+    "69"
+   ],
+   "descripteur_libelle": [
+    "Location (matériels)",
+    "Véhicules (location)"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-106293",
+   "pourquoi": "Hélicoptère bombardier d'eau : seau Bambi fourni."
+  },
+  {
+   "idweb": "26-106491",
+   "objet": "Acquisition d'une nacelle araignée de 43m minimum",
+   "nomacheteur": "Grand Port Maritime De La Reunion",
+   "code_departement": [
+    "974"
+   ],
+   "descripteur_libelle": [
+    "Matériel de manutention"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-106491",
+   "pourquoi": "Une nacelle-araignée de 43m pour le port."
+  },
+  {
+   "idweb": "26-106532",
+   "objet": "Location avec option d'achat, installation, formation et maintenance de détecteurs de traces d'explosifs (ETD)",
+   "nomacheteur": "Aéroports de Bretagne Ouest",
+   "code_departement": [
+    "29",
+    "22"
+   ],
+   "descripteur_libelle": [
+    "Location (matériels)"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-106532",
+   "pourquoi": "L'aéroport renifle les traces d'explosifs."
+  },
+  {
+   "idweb": "26-106543",
+   "objet": "CHANTIER DES COLLECTIONS PAPIERS PEINTS OBJET D’ART RECUPERATION (OAR) CONSERVÉS AU CENTRE DE CONSERVATION DU LOUVRE à LIÉVIN (62)",
+   "nomacheteur": "MUSEE DU LOUVRE",
+   "code_departement": [
+    "62",
+    "75"
+   ],
+   "descripteur_libelle": [
+    "Oeuvre d'art",
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-106543",
+   "pourquoi": "Le Louvre évacue ses papiers peints."
+  },
+  {
+   "idweb": "26-106646",
+   "objet": "Fourniture de sources radioactives non scellées d'iode 131 et prestations associées de transport et de traçabilité",
+   "nomacheteur": "ASNR FONTENAY",
+   "code_departement": [
+    "13"
+   ],
+   "descripteur_libelle": [
+    "Réactifs"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-106646",
+   "pourquoi": "Iode 131 radioactif : livraison tracée, non scellée."
+  },
+  {
+   "idweb": "26-106774",
+   "objet": "Acquisition d’un tracteur routier pédagogique",
+   "nomacheteur": "LYCEE JEANNETTE GUYOT",
+   "code_departement": [
+    "1",
+    "21",
+    "69",
+    "71"
+   ],
+   "descripteur_libelle": [
+    "Véhicules (acquisition)"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-106774",
+   "pourquoi": "Le lycée s'équipe d'un camion-école."
+  },
+  {
+   "idweb": "26-106785",
+   "objet": "Travaux liés aux cavités souterraines : confortement, comblement, création de puits d'accès",
+   "nomacheteur": "Ville de Saint-Quentin",
+   "code_departement": [
+    "2"
+   ],
+   "descripteur_libelle": [
+    "Forage"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-106785",
+   "pourquoi": "Ville creuse : on bouche les cavités."
+  },
+  {
+   "idweb": "26-106912",
+   "objet": "Acquisition d'un tunnel de lavage pour le dépôt de tramway - Ligne A",
+   "nomacheteur": "Orléans Métropole",
+   "code_departement": [
+    "45"
+   ],
+   "descripteur_libelle": [
+    "Equipements spécialisés",
+    "Matériel ferroviaire",
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-106912",
+   "pourquoi": "Un tunnel de lavage pour le tram."
+  },
+  {
+   "idweb": "26-106941",
+   "objet": "Matériel et personnel pour la production d’un signal TV (production broadcast) et prestations de réalisation dans le cadre de l’Enduropale",
+   "nomacheteur": "Le Touquet & Co",
+   "code_departement": [
+    "62"
+   ],
+   "descripteur_libelle": [
+    "Audiovisuel"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-106941",
+   "pourquoi": "Enduropale : production TV dans les dunes."
+  }
+ ]
+}
