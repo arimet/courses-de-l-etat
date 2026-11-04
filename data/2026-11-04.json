@@ -1,0 +1,137 @@
+{
+ "date": "2026-11-04",
+ "total": 258,
+ "model": null,
+ "top": [
+  {
+   "idweb": "26-106604",
+   "objet": "26V0152PA - ORGANISATION DES FESTIVITÉS DE LA FÊTE NATIONALE - Plateau artistique / Coordination technique-artistique et Spectacle pyrotechnique hybride",
+   "nomacheteur": "Ville de Toulouse",
+   "code_departement": [
+    "31"
+   ],
+   "descripteur_libelle": [
+    "Spectacle"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-106604"
+  },
+  {
+   "idweb": "26-106337",
+   "objet": "FOUILLES ARCHEOLOGIQUES - GEUDERTHEIM",
+   "nomacheteur": "AFUA Die BINN GEUDERTHEIM",
+   "code_departement": [
+    "67"
+   ],
+   "descripteur_libelle": [
+    "Fouille archéologique"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-106337"
+  },
+  {
+   "idweb": "26-107132",
+   "objet": "Spectacles pyromusicaux des 13 juillet 2027-2030",
+   "nomacheteur": "Ville d'Angers (49)",
+   "code_departement": [
+    "49"
+   ],
+   "descripteur_libelle": [
+    "Spectacle"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-107132"
+  },
+  {
+   "idweb": "26-106572",
+   "objet": "Travaux neufs et d'entretien de l'éclairage public, de l'éclairage sportif, de la signalisation lumineuse tricolore, et pour l'installation des illuminations de fin d'année et des manifestations ex...",
+   "nomacheteur": "Mairie de Maisons-Alfort",
+   "code_departement": [
+    "94"
+   ],
+   "descripteur_libelle": [
+    "Eclairage public",
+    "Signalisation",
+    "Illumination"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-106572"
+  },
+  {
+   "idweb": "26-107179",
+   "objet": "Prestations de réalisation, de fourniture et de livraison de cartes restaurant pour les agents de la Communauté de Communes",
+   "nomacheteur": "Communauté de Communes du Pays de Montereau",
+   "code_departement": [
+    "77"
+   ],
+   "descripteur_libelle": [
+    "Titres restaurant",
+    "Carte magnétique, carte à puce"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-107179"
+  },
+  {
+   "idweb": "26-106735",
+   "objet": "Fournitures de matériel électrique 2027/2028/2029",
+   "nomacheteur": "Ville Castelnaudary",
+   "code_departement": [
+    "11",
+    "9",
+    "31"
+   ],
+   "descripteur_libelle": [
+    "Matériel électrique"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-106735"
+  },
+  {
+   "idweb": "26-106501",
+   "objet": "Collecte, transport et traitement des déchets chimiques",
+   "nomacheteur": "Université de Toulouse",
+   "code_departement": [
+    "31"
+   ],
+   "descripteur_libelle": [
+    "Déchets non ménagers (prestations)"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-106501"
+  },
+  {
+   "idweb": "26-106512",
+   "objet": "Fourniture de vêtements de travail et d'équipements de protection individuelle",
+   "nomacheteur": "MAIRIE OYONNAX",
+   "code_departement": [
+    "1"
+   ],
+   "descripteur_libelle": [
+    "Chaussures ou articles chaussants",
+    "Habillement",
+    "Matériel de sécurité"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-106512"
+  },
+  {
+   "idweb": "26-106731",
+   "objet": "RÉALISATION D’OUVRAGES SCÉNOGRAPHIQUES POUR DES ESPACES D EXPOSITION TEMPORAIRE DU CHÂTEAU DE FOIX.",
+   "nomacheteur": "Conseil Départemental de l'Ariège (09)",
+   "code_departement": [
+    "9"
+   ],
+   "descripteur_libelle": [
+    "Décoration (travaux)",
+    "Audiovisuel",
+    "Evénementiel",
+    "Equipement muséographique"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-106731"
+  },
+  {
+   "idweb": "26-107406",
+   "objet": "Rénovation Du Terrain Synthétique Du Stade Marcel Le Mignot",
+   "nomacheteur": "Commune de Gonfreville-L-Orcher",
+   "code_departement": [
+    "76"
+   ],
+   "descripteur_libelle": [
+    "Terrain de sport"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-107406"
+  }
+ ]
+}
