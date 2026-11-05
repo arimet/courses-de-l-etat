@@ -1,0 +1,145 @@
+{
+ "date": "2026-11-05",
+ "total": 321,
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "top": [
+  {
+   "idweb": "26-107578",
+   "objet": "Travaux d'électricité pour l'exposition temporaire et itinérante « Caca, une histoire sérieuse »",
+   "nomacheteur": "Eppdcsi - Universcience Etablissement public à caractère industriel et commercial créé par décret interministériel du 3 décembre 2009",
+   "code_departement": [
+    "75"
+   ],
+   "descripteur_libelle": [
+    "Electricité (travaux)"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-107578",
+   "pourquoi": "L'expo \"Caca\" a besoin de jus."
+  },
+  {
+   "idweb": "26-107282",
+   "objet": "Approvisionnement du SEO en « carburéacteur pour turbomachines d’aviation, type kérosène, F-35 », par introduction dans le central europe pipeline system (CEPS) de l’OTAN",
+   "nomacheteur": "Centre de soutien technique et administratif (CSTA)",
+   "code_departement": [
+    "54"
+   ],
+   "descripteur_libelle": [
+    "Carburant, hydrocarbure"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-107282",
+   "pourquoi": "Kérosène F-35 livré via pipeline OTAN."
+  },
+  {
+   "idweb": "26-107689",
+   "objet": "Pêches de sauvegarde de la faune piscicole sur le site pilote de la Bassée (77)",
+   "nomacheteur": "Etablissement Public Territorial de Bassin Seine Grands Lacs",
+   "code_departement": [
+    "77",
+    "10",
+    "52"
+   ],
+   "descripteur_libelle": [
+    "Bassin, étang"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-107689",
+   "pourquoi": "Pêcher pour sauver les poissons, paradoxe."
+  },
+  {
+   "idweb": "26-107813",
+   "objet": "26-080 - Fourniture et livraison de jeux-vidéo et jeux de société pour le réseau des médiathèques de la Communauté d'Agglomération Paris - Vallée de la Marne - Relance du lot 1 : Acquisition de jeux-v",
+   "nomacheteur": "Communauté d'Agglomération Paris-Vallée de la Marne",
+   "code_departement": [
+    "77"
+   ],
+   "descripteur_libelle": [
+    "Jeux, jouets"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-107813",
+   "pourquoi": "Mario et Catan entrent en médiathèque."
+  },
+  {
+   "idweb": "26-107781",
+   "objet": "La présente consultation concerne les travaux de « Reconstruction d’une Fumière sur le site INRAE de Theix, Les Intrabois – Route de Theix, 63122 Saint-Genès-Champanelle »",
+   "nomacheteur": "INRAE Centre Clermont Auvergne Rhône Alpes",
+   "code_departement": [
+    "63"
+   ],
+   "descripteur_libelle": [
+    "Bardage",
+    "Charpente",
+    "Couverture",
+    "Démolition",
+    "Gros oeuvre",
+    "Terrassement"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-107781",
+   "pourquoi": "Reconstruire une fumière pour la science."
+  },
+  {
+   "idweb": "26-107849",
+   "objet": "Implantation De Moyen De Detection  De Drones Dans L'Enceinte Portuaire",
+   "nomacheteur": "Grand Port Maritime De Marseille",
+   "code_departement": [
+    "13"
+   ],
+   "descripteur_libelle": [
+    "Equipements spécialisés",
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-107849",
+   "pourquoi": "Marseille installe un radar anti-drones."
+  },
+  {
+   "idweb": "26-106803",
+   "objet": "Exploitation du service saisonnier de petits trains routiers touristiques de la Commune de Saint-Cyprien",
+   "nomacheteur": "Ville de Saint Cyprien (66)",
+   "code_departement": [
+    "66"
+   ],
+   "descripteur_libelle": [
+    "Transport"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-106803",
+   "pourquoi": "Le petit train touristique, service public."
+  },
+  {
+   "idweb": "26-107108",
+   "objet": "2026-0088-MES-SOL | FOURNITURE, INSTALLATION ET MISE EN SERVICE D'UN SYSTEME AUTOMATISE DE DILUTION DE PRODUITS ORGANIQUES SOLIDES OU LIQUIDES A TEMPERATURE AMBIANTE DANS DU CS2",
+   "nomacheteur": "IFPEN",
+   "code_departement": [
+    "69"
+   ],
+   "descripteur_libelle": [
+    "Laboratoire (fourniture)"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-107108",
+   "pourquoi": "Un robot pour diluer du CS2."
+  },
+  {
+   "idweb": "26-107255",
+   "objet": "CONCESSION DE TRAVAUX POUR LA RENOVATION ET L'EXPLOITATION DU CENTRE HIPPIQUE BOIS DE BOULOGNE",
+   "nomacheteur": "Ville de Paris - SHNC",
+   "code_departement": [
+    "75"
+   ],
+   "descripteur_libelle": [
+    "Equipement sportif"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-107255",
+   "pourquoi": "Paris concessionne son hippodrome du Bois."
+  },
+  {
+   "idweb": "26-107574",
+   "objet": "Animation du Document d’Objectifs du site Natura 2000 n° FR 2600972 \"Pelouses calcicoles du Mâconnais\"",
+   "nomacheteur": "DEPARTEMENT DE SAONE-ET-LOIRE",
+   "code_departement": [
+    "71"
+   ],
+   "descripteur_libelle": [
+    "Etude"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-107574",
+   "pourquoi": "Animer les pelouses calcicoles du Mâconnais."
+  }
+ ]
+}
