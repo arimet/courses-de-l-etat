@@ -1,0 +1,140 @@
+{
+ "date": "2026-11-06",
+ "total": 338,
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "top": [
+  {
+   "idweb": "26-107699",
+   "objet": "Organisation d'un circuit itinérant en Thaïlande destiné à des jeunes de 14 à 17 ans pendant les vacances scolaires d'été au mois de juillet 2027",
+   "nomacheteur": "Ville de Puteaux",
+   "code_departement": [
+    "92"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-107699",
+   "pourquoi": "Puteaux offre la Thaïlande à ses ados"
+  },
+  {
+   "idweb": "26-108106",
+   "objet": "Conception, production et réalisation de spectacles de drones lumineux et musicaux - Hiver 2027",
+   "nomacheteur": "Epic Courchevel Tourisme",
+   "code_departement": [
+    "73"
+   ],
+   "descripteur_libelle": [
+    "Spectacle"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-108106",
+   "pourquoi": "Le feu d'artifice version drones à Courchevel"
+  },
+  {
+   "idweb": "26-108364",
+   "objet": "Location Et Installation D'Une Patinoire Mobile Couverte",
+   "nomacheteur": "Mairie Tremblay En France",
+   "code_departement": [
+    "93"
+   ],
+   "descripteur_libelle": [
+    "Equipement sportif",
+    "Location (matériels)"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-108364",
+   "pourquoi": "Une patinoire mobile livrée clé en main"
+  },
+  {
+   "idweb": "26-107719",
+   "objet": "MISE A DISPOSITION DE REFRIGERATEURS CONNECTES ET LIVRAISON DE REPAS POUR LES PERSONNELSDE LA DGAC – Centre en Route de la Navigation Aérienne Sud-Est",
+   "nomacheteur": "Direction générale de l'aviation civile - Centre en Route de la Navigation Aérienne Sud-Est",
+   "code_departement": [
+    "13"
+   ],
+   "descripteur_libelle": [
+    "Denrées alimentaires",
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-107719",
+   "pourquoi": "Frigo connecté et repas livrés aux contrôleurs aériens"
+  },
+  {
+   "idweb": "26-108260",
+   "objet": "Organisation de la soirée du personnel de la Région Réunion le vendredi 18 décembre 2026",
+   "nomacheteur": "Région Réunion",
+   "code_departement": [
+    "974"
+   ],
+   "descripteur_libelle": [
+    "Matériel photographique et cinématographique"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-108260",
+   "pourquoi": "La Région Réunion paye la soirée du personnel"
+  },
+  {
+   "idweb": "26-107337",
+   "objet": "FOURNITURE D’UNE FRAISE DE DÉNEIGEMENT AÉROPORTUAIRE",
+   "nomacheteur": "Aéroport de Bâle Mulhouse (68)",
+   "code_departement": [
+    "68"
+   ],
+   "descripteur_libelle": [
+    "Déneigement"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-107337",
+   "pourquoi": "Une fraise géante pour déneiger l'aéroport"
+  },
+  {
+   "idweb": "26-108072",
+   "objet": "Prestation de transport aérien par hélicoptère de personnes, de biens et de matériaux",
+   "nomacheteur": "Parc national de la Vanoise",
+   "code_departement": [
+    "73"
+   ],
+   "descripteur_libelle": [
+    "Transport"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-108072",
+   "pourquoi": "L'hélicoptère fait taxi dans le parc naturel"
+  },
+  {
+   "idweb": "26-108473",
+   "objet": "Fourniture de peintures et produits de finition pour les ateliers de décors de la Comédie-Française",
+   "nomacheteur": "COMEDIE FRANCAISE",
+   "code_departement": [
+    "75"
+   ],
+   "descripteur_libelle": [
+    "Peinture (fourniture)"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-108473",
+   "pourquoi": "Peintures et laques pour les décors de Molière"
+  },
+  {
+   "idweb": "26-107477",
+   "objet": "Fourniture de bois résineux sous forme d'avivés, planches et chevrons, traités ou non autoclave à livrer aux ateliers menuiserie ATIGIP RIEP, réparties en 2 lots distincts.",
+   "nomacheteur": "ATIGIP SEP RIEP",
+   "code_departement": [
+    "19"
+   ],
+   "descripteur_libelle": [
+    "Bois"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-107477",
+   "pourquoi": "Du bois pour les ateliers menuiserie en prison"
+  },
+  {
+   "idweb": "26-107702",
+   "objet": "2026AVN0053 - Acquisition de caméras piétons et de pistolets à impulsion électrique (PIE) pour les besoins de la Police Municipale de la Ville d'Avignon",
+   "nomacheteur": "Ville d'Avignon",
+   "code_departement": [
+    "84"
+   ],
+   "descripteur_libelle": [
+    "Armement",
+    "Equipements spécialisés"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-107702",
+   "pourquoi": "Avignon dote sa police municipale de tasers"
+  }
+ ]
+}
