@@ -1,0 +1,143 @@
+{
+ "date": "2026-11-07",
+ "total": 21,
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "top": [
+  {
+   "idweb": "26-107780",
+   "objet": "Convention de délégation de service public pour la gestion et l'exploitation du centre Equestre Marseille-Pastré",
+   "nomacheteur": "Commune de Marseille",
+   "code_departement": [
+    "13"
+   ],
+   "descripteur_libelle": [
+    "Equipement sportif"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-107780",
+   "pourquoi": "Marseille délègue son club hippique."
+  },
+  {
+   "idweb": "26-107785",
+   "objet": "Fournitures de prothèses dentaires et orthèses dentaires pour les Centres de santé dentaire de la CPAM du Rhône",
+   "nomacheteur": "CPAM DU RHÔNE",
+   "code_departement": [
+    "69"
+   ],
+   "descripteur_libelle": [
+    "Prothèses"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-107785",
+   "pourquoi": "La Sécu joue les prothésistes dentaires."
+  },
+  {
+   "idweb": "26-107786",
+   "objet": "Fourniture d’une solution robotisée de contrôle non destructif (CND) multi-physique pour la plateforme ICNDE de l’université de Bordeaux, ainsi que des fournitures et prestations associées",
+   "nomacheteur": "UNIVERSITE DE BORDEAUX",
+   "code_departement": [
+    "33"
+   ],
+   "descripteur_libelle": [
+    "Laboratoire (matériel)",
+    "Logiciel"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-107786",
+   "pourquoi": "Un robot multi-physique ausculte l'invisible."
+  },
+  {
+   "idweb": "26-107799",
+   "objet": "Reconditionnement de fourgons pompe tonne",
+   "nomacheteur": "Service Départemental d’Incendie et de Secours du Nord",
+   "code_departement": [
+    "59"
+   ],
+   "descripteur_libelle": [
+    "Matériel de secours et d'incendie"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-107799",
+   "pourquoi": "Les camions de pompiers refont surface."
+  },
+  {
+   "idweb": "26-107801",
+   "objet": "Réalisation de contrôles - Assainissement non collectif",
+   "nomacheteur": "CC DE L OUST A BROCELIANDE COMMUNAUTE",
+   "code_departement": [
+    "56"
+   ],
+   "descripteur_libelle": [
+    "Assainissement",
+    "Contrôle technique"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-107801",
+   "pourquoi": "Contrôle des fosses en terre de légende."
+  },
+  {
+   "idweb": "26-107791",
+   "objet": "Site de Grand-Pont à Chasseneuil-du-Poitou (86)  Création de l'école régionale de la restauration collective -Concours  restreint de maitrise d'oeuvre- Phase 1: appel à candidatures",
+   "nomacheteur": "Région Nouvelle-Aquitaine",
+   "code_departement": [
+    "86"
+   ],
+   "descripteur_libelle": [
+    "Maîtrise d'oeuvre",
+    "Restauration collective"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-107791",
+   "pourquoi": "Une école pour bien manger à la cantine."
+  },
+  {
+   "idweb": "26-107794",
+   "objet": "Appareils élévateurs Cde19",
+   "nomacheteur": "Caisse des 2coles du 19e",
+   "code_departement": [
+    "75"
+   ],
+   "descripteur_libelle": [
+    "Maintenance",
+    "Ascenseur"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-107794",
+   "pourquoi": "La caisse des écoles installe des ascenseurs."
+  },
+  {
+   "idweb": "26-107755",
+   "objet": "PLACE JEAN JAURES - CREATION D'UN JARDIN DES MILLENAIRES",
+   "nomacheteur": "Mairie de BEZIERS",
+   "code_departement": [
+    "34"
+   ],
+   "descripteur_libelle": [
+    "Eclairage public",
+    "Espaces verts"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-107755",
+   "pourquoi": "Béziers plante un jardin pour l'éternité."
+  },
+  {
+   "idweb": "26-107779",
+   "objet": "Fourniture, intégration, exploitation, administration, supervision, MCO, MCS et évolution du socle d'infrastructures des SIC du SMA",
+   "nomacheteur": "CSMA.",
+   "code_departement": [
+    "75"
+   ],
+   "descripteur_libelle": [
+    "Informatique (prestations de services)"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-107779",
+   "pourquoi": "L'armée de l'air refait son cloud."
+  },
+  {
+   "idweb": "26-107808",
+   "objet": "Fourniture et livraison de carburants et d'AdBlue sur le site de la SEMMGED et du SMICOTOM",
+   "nomacheteur": "SMICOTOM",
+   "code_departement": [
+    "33"
+   ],
+   "descripteur_libelle": [
+    "Déchetterie (exploitation)",
+    "Carburant, hydrocarbure"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-107808",
+   "pourquoi": "Les camions-poubelles font le plein d'AdBlue."
+  }
+ ]
+}
