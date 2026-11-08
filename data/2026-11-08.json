@@ -1,0 +1,151 @@
+{
+ "date": "2026-11-08",
+ "total": 145,
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "top": [
+  {
+   "idweb": "26-108254",
+   "objet": "MAINTENANCE DES MACHINES A SIGNER - SIGNASCRIPT",
+   "nomacheteur": "METROPOLE NICE COTE D'AZUR",
+   "code_departement": [
+    "6"
+   ],
+   "descripteur_libelle": [
+    "Maintenance"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-108254",
+   "pourquoi": "Les stylos automatiques ont leur garagiste."
+  },
+  {
+   "idweb": "26-108363",
+   "objet": "Plage du Havre - Promenade André Duroméa - Fourniture, transport aller et installation de conteneurs maritimes aménagés WC PMR",
+   "nomacheteur": "Ville du Havre",
+   "code_departement": [
+    "76"
+   ],
+   "descripteur_libelle": [
+    "Conteneur, poubelles",
+    "Sanitaire"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-108363",
+   "pourquoi": "Des toilettes de plage en container."
+  },
+  {
+   "idweb": "26-108124",
+   "objet": "Production et rayonnement du Salon des Nouveaux Ensembliers 2027",
+   "nomacheteur": "MN-S&MN",
+   "code_departement": [
+    "75",
+    "77",
+    "78",
+    "91",
+    "92",
+    "93",
+    "94"
+   ],
+   "descripteur_libelle": [
+    "Décoration (travaux)",
+    "Impression",
+    "Edition",
+    "Audiovisuel",
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-108124",
+   "pourquoi": "Le congrès des nouveaux ensembliers."
+  },
+  {
+   "idweb": "26-108296",
+   "objet": "Organisation de séjours pour enfants et adolescents de 6 à 17 ans confiés à l'aide sociale à l'enfance du Loir-et-Cher",
+   "nomacheteur": "Département du Loir-et-Cher",
+   "code_departement": [
+    "41"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services",
+    "Voyage"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-108296",
+   "pourquoi": "L'État offre des colos à l'ASE."
+  },
+  {
+   "idweb": "26-108385",
+   "objet": "Mission de maîtrise d’œuvre pour l’opération : Création d’un institut de recherche clinique en santé et bien-être animal (Réhabilitation et création de bâtiments)",
+   "nomacheteur": "Comue de Toulouse",
+   "code_departement": [
+    "31"
+   ],
+   "descripteur_libelle": [
+    "Maîtrise d'oeuvre"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-108385",
+   "pourquoi": "Un institut pour le bonheur animal."
+  },
+  {
+   "idweb": "26-108140",
+   "objet": "Fourniture de bois résineux sous forme d'avivés, planches et chevrons, traités ou non autoclave à livrer aux ateliers menuiserie ATIGIP RIEP, réparties en 2 lots distincts.",
+   "nomacheteur": "ATIGIP SEP RIEP",
+   "code_departement": [
+    "19"
+   ],
+   "descripteur_libelle": [
+    "Bois"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-108140",
+   "pourquoi": "Du bois pour l'atelier menuiserie en prison."
+  },
+  {
+   "idweb": "26-108310",
+   "objet": "Accord cadre pour le transport d'œuvres d'art",
+   "nomacheteur": "EPCC Musée Soulages",
+   "code_departement": [
+    "12"
+   ],
+   "descripteur_libelle": [
+    "Oeuvre d'art",
+    "Transport"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-108310",
+   "pourquoi": "Les tableaux de Soulages voyagent en VIP."
+  },
+  {
+   "idweb": "26-108205",
+   "objet": "Réfection des sièges du Théâtre",
+   "nomacheteur": "Ville de Puteaux",
+   "code_departement": [
+    "92"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-108205",
+   "pourquoi": "Le théâtre de Puteaux change de fauteuils."
+  },
+  {
+   "idweb": "26-108280",
+   "objet": "MISE A DISPOSITION, LOCATION ET ENTRETIEN DE SANITAIRES AUTONOMES",
+   "nomacheteur": "Mairie de Cannes",
+   "code_departement": [
+    "6"
+   ],
+   "descripteur_libelle": [
+    "Location (matériels)",
+    "Sanitaire"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-108280",
+   "pourquoi": "Cannes loue des toilettes pour la Croisette."
+  },
+  {
+   "idweb": "26-108394",
+   "objet": "Dijon_cathédrale_fleche_restauration_suite",
+   "nomacheteur": "DRAC Bourgogne-Franche-Comté",
+   "code_departement": [
+    "21"
+   ],
+   "descripteur_libelle": [
+    "Monuments historiques"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-108394",
+   "pourquoi": "La flèche de la cathédrale repart à la verticale."
+  }
+ ]
+}
