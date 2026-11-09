@@ -1,0 +1,143 @@
+{
+ "date": "2026-11-09",
+ "total": 152,
+ "model": null,
+ "top": [
+  {
+   "idweb": "26-109064",
+   "objet": "Création d'un cinéma dans la Chapelle Saint-Anne à Cassis",
+   "nomacheteur": "VILLE DE CASSIS",
+   "code_departement": [
+    "13"
+   ],
+   "descripteur_libelle": [
+    "Vidéo, cinéma",
+    "Peinture (travaux)",
+    "Electricité (travaux)",
+    "Gros oeuvre"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-109064"
+  },
+  {
+   "idweb": "26-108790",
+   "objet": "Fourniture et livraison de fourrage pour les animaux du parc animalier",
+   "nomacheteur": "Ca du Saint-Quentinois",
+   "code_departement": [
+    "2"
+   ],
+   "descripteur_libelle": [
+    "Aliments pour animaux"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-108790"
+  },
+  {
+   "idweb": "26-108731",
+   "objet": "Entretien et réparations de l'éclairage public, de la signalisation tricolore, des bornes de contrôle d'accès et des illuminations",
+   "nomacheteur": "Mairie de Marguerittes",
+   "code_departement": [
+    "30"
+   ],
+   "descripteur_libelle": [
+    "Eclairage public"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-108731"
+  },
+  {
+   "idweb": "26-108895",
+   "objet": "Marché public de fournitures de matériaux du bâtiment pour les services techniques de la commune de Domont - 6 lots",
+   "nomacheteur": "VILLE DE DOMONT",
+   "code_departement": [
+    "95"
+   ],
+   "descripteur_libelle": [
+    "Matériel de travaux publics",
+    "Matériaux de construction"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-108895"
+  },
+  {
+   "idweb": "26-109061",
+   "objet": "Aménagement d'un espace maraicher",
+   "nomacheteur": "Communauté d'agglomération du bassin de Brive",
+   "code_departement": [
+    "19"
+   ],
+   "descripteur_libelle": [
+    "Serre",
+    "Espaces verts"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-109061"
+  },
+  {
+   "idweb": "26-109056",
+   "objet": "INFOGERANCE DU SYSTÈME D’INFORMATION",
+   "nomacheteur": "Paris Audiovisuel - Maison Européenne de la Photographie (MEP)",
+   "code_departement": [
+    "75"
+   ],
+   "descripteur_libelle": [
+    "Informatique (prestations de services)",
+    "Informatique (assistance)"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-109056"
+  },
+  {
+   "idweb": "26-108915",
+   "objet": "Impression et façonnage du guide Saumur Val de Loire 2027",
+   "nomacheteur": "SAUMUR VAL DE LOIRE TOURISME",
+   "code_departement": [
+    "49"
+   ],
+   "descripteur_libelle": [
+    "Impression"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-108915"
+  },
+  {
+   "idweb": "26-108983",
+   "objet": "Assistances juridiques du Sipperec et du Sifurep",
+   "nomacheteur": "SYNDICAT INTERCOMMUNAL DE LA PERIPHERIE DE PARIS POUR LES ENERGIES ET LES RESEAUX DE COMMUNICATION (Sipperec). N° SIRET : 25750004100047.",
+   "code_departement": [
+    "75",
+    "91",
+    "92",
+    "93"
+   ],
+   "descripteur_libelle": [
+    "Assistance juridique"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-108983"
+  },
+  {
+   "idweb": "26-108902",
+   "objet": "Établissement des stratégies foncières pour la protection des ressources en eau (CC Terroir de Caux, CC Inter Caux Vexin et l'ensemble des ressources du SMAEPA de Grigneuseville et Bellencombre)",
+   "nomacheteur": "SMAEPA GRIGNEUSEVILLE ET BELLENCOMBRE",
+   "code_departement": [
+    "27",
+    "76"
+   ],
+   "descripteur_libelle": [
+    "Alimentation en eau potable",
+    "Captage",
+    "Etude",
+    "Ingénierie",
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-108902"
+  },
+  {
+   "idweb": "26-108930",
+   "objet": "TRAVAUX DE MISE EN PLACE DE STATIONS DE MESURE DE HAUTEUR D’EAU SUR LE BASSIN  DU LOING",
+   "nomacheteur": "EPAGE LOING",
+   "code_departement": [
+    "45"
+   ],
+   "descripteur_libelle": [
+    "Ouvrage hydraulique",
+    "Génie civil",
+    "Travaux dans l'eau"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-108930"
+  }
+ ]
+}
