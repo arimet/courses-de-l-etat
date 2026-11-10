@@ -1,0 +1,142 @@
+{
+ "date": "2026-11-10",
+ "total": 226,
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "top": [
+  {
+   "idweb": "26-108697",
+   "objet": "Marché de gestion des services de la Fourrière Animale Intercommunale  (Y compris la capture des chiens et chats errants et ramassage des chiens et chats morts)",
+   "nomacheteur": "Communauté d'Agglomération Territoire de la Côte Ouest (974)",
+   "code_departement": [
+    "974"
+   ],
+   "descripteur_libelle": [
+    "Fourrière"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-108697",
+   "pourquoi": "Une fourrière qui capture... et ramasse les défunts."
+  },
+  {
+   "idweb": "26-109500",
+   "objet": "Mise en place d'échafaudages pour la réalisation technique de la Fête du Citron 2027",
+   "nomacheteur": "Office de Tourisme de la ville de Menton",
+   "code_departement": [
+    "6"
+   ],
+   "descripteur_libelle": [
+    "Ouvrage métallique",
+    "Ouvrage d'infrastructure"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-109500",
+   "pourquoi": "Des échafaudages pour que le Citron fête sa gloire."
+  },
+  {
+   "idweb": "26-109175",
+   "objet": "Travaux d'aménagement pour l'exposition \n« André Derain, l'art est un jeu » présentée au Musée Bourdelle du 01 avril 2027 (ouverture au public) au 01 août 2027.",
+   "nomacheteur": "Paris Musées",
+   "code_departement": [
+    "75"
+   ],
+   "descripteur_libelle": [
+    "Décoration (travaux)"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-109175",
+   "pourquoi": "André Derain joue, le musée rénove pour l'accueillir."
+  },
+  {
+   "idweb": "26-109385",
+   "objet": "Fourniture de distributeurs de produits menstruels et fourniture de protections périodiques",
+   "nomacheteur": "UNIVERSITE GUSTAVE EIFFEL",
+   "code_departement": [
+    "77"
+   ],
+   "descripteur_libelle": [
+    "Hygiène (articles)"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-109385",
+   "pourquoi": "L'université installe des distributeurs... de protections périodiques."
+  },
+  {
+   "idweb": "26-109263",
+   "objet": "PRESTATIONS DE VOYAGES EN SUEDE ET EN ITALIE DANS LE CADRE DU PROGRAMME ERASMUS+ 2026/2027",
+   "nomacheteur": "Mairie de St-Philippe",
+   "code_departement": [
+    "974"
+   ],
+   "descripteur_libelle": [
+    "Voyage"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-109263",
+   "pourquoi": "La mairie offre des voyages Erasmus en Suède et Italie."
+  },
+  {
+   "idweb": "26-108820",
+   "objet": "Prestations de réparation et révision des moteurs du bateau pompe du groupement local de coopération transfrontalière",
+   "nomacheteur": "SIS du Bas-Rhin",
+   "code_departement": [
+    "67"
+   ],
+   "descripteur_libelle": [
+    "Maintenance",
+    "Mécanique"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-108820",
+   "pourquoi": "Réparer les moteurs du bateau-pompe transfrontalier."
+  },
+  {
+   "idweb": "26-108646",
+   "objet": "FOUILLES D’ARCHEOLOGIE PREVENTIVE - PROJET CAMPUS ARTISTIQUE PHASE 1 - CNSMD - RELANCE",
+   "nomacheteur": "COMUE LYON SAINT-ETIENNE",
+   "code_departement": [
+    "69"
+   ],
+   "descripteur_libelle": [
+    "Fouille archéologique"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-108646",
+   "pourquoi": "Fouilles archéologiques avant le campus artistique du CNSMD."
+  },
+  {
+   "idweb": "26-108701",
+   "objet": "Fourniture de vêtements de travail et de protection pour le personnel forestier de l’Institut national de l’information géographique et forestière",
+   "nomacheteur": "Institut national de l'information géographique et forestière (IGN)",
+   "code_departement": [
+    "94",
+    "45"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-108701",
+   "pourquoi": "Vêtements de protection pour forestiers de l'IGN."
+  },
+  {
+   "idweb": "26-109364",
+   "objet": "Traitement des eaux usées et eaux vannes du Fort Boyard",
+   "nomacheteur": "Département de la Charente Maritime",
+   "code_departement": [
+    "17"
+   ],
+   "descripteur_libelle": [
+    "Assainissement"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-109364",
+   "pourquoi": "Traiter les eaux usées... du Fort Boyard."
+  },
+  {
+   "idweb": "26-108806",
+   "objet": "Opération Pompidou 2030",
+   "nomacheteur": "OPPIC",
+   "code_departement": [
+    "75"
+   ],
+   "descripteur_libelle": [
+    "Bois",
+    "Menuiserie",
+    "Revêtements de sols"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-108806",
+   "pourquoi": "Opération Pompidou 2030 : le centre d'art se refait une beauté."
+  }
+ ]
+}
