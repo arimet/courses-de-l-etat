@@ -1,0 +1,158 @@
+{
+ "date": "2026-11-11",
+ "total": 175,
+ "model": null,
+ "top": [
+  {
+   "idweb": "26-108909",
+   "objet": "LOCATION DE CHALET DE NOEL EN BOIS",
+   "nomacheteur": "Ville de Cagnes sur Mer (06)",
+   "code_departement": [
+    "6"
+   ],
+   "descripteur_libelle": [
+    "Bâtiments modulaires"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-108909"
+  },
+  {
+   "idweb": "26-109010",
+   "objet": "Fouilles archéologique Bâtie d'Azieu",
+   "nomacheteur": "Mairie de Genas",
+   "code_departement": [
+    "69",
+    "1",
+    "38",
+    "71",
+    "42",
+    "73",
+    "74"
+   ],
+   "descripteur_libelle": [
+    "Fouille archéologique"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-109010"
+  },
+  {
+   "idweb": "26-109279",
+   "objet": "PRESTATIONS DE FOUILLES ARCHÉOLOGIQUES PRÉVENTIVES RELATIVES AU PROJET DE PARC URBAIN DES CARMES",
+   "nomacheteur": "COMMUNE D'ISTRES",
+   "code_departement": [
+    "13"
+   ],
+   "descripteur_libelle": [
+    "Fouille archéologique"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-109279"
+  },
+  {
+   "idweb": "26-109102",
+   "objet": "Fourniture et mise en place du mobilier du Pôle Culturel Haute Plage",
+   "nomacheteur": "Mairie de La Grande Motte",
+   "code_departement": [
+    "34"
+   ],
+   "descripteur_libelle": [
+    "Mobilier",
+    "Equipements spécialisés"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-109102"
+  },
+  {
+   "idweb": "26-109111",
+   "objet": "CONSTRUCTION DU BATIMENT O POUR L'OBSERVATOIRE MIDI-PYRENEES (OMP) - UNIVERSITE DE TOULOUSE",
+   "nomacheteur": "Université de Toulouse",
+   "code_departement": [
+    "31"
+   ],
+   "descripteur_libelle": [
+    "Bâtiment",
+    "Voirie et réseaux divers",
+    "Espaces verts",
+    "Couverture",
+    "Menuiserie",
+    "Bardage",
+    "Serrurerie",
+    "Cloison, faux plafond",
+    "Peinture (travaux)",
+    "Revêtements de sols",
+    "Gros oeuvre",
+    "Electricité (travaux)",
+    "Ascenseur",
+    "Photovoltaïque",
+    "Matériel électrique",
+    "Mobilier"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-109111"
+  },
+  {
+   "idweb": "26-109207",
+   "objet": "Fourniture et transport de matériels de signalisation verticale",
+   "nomacheteur": "Département de Vaucluse",
+   "code_departement": [
+    "84"
+   ],
+   "descripteur_libelle": [
+    "Signalétique",
+    "Signalisation",
+    "Panneaux"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-109207"
+  },
+  {
+   "idweb": "26-109040",
+   "objet": "Impression et distribution du magazine communautaire bimestriel et du supplément d’été de la Communauté de l’Auxerrois - Années 2027 à 2030",
+   "nomacheteur": "Communauté de l'Auxerrois",
+   "code_departement": [
+    "89"
+   ],
+   "descripteur_libelle": [
+    "Impression",
+    "Edition",
+    "Imprimés"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-109040"
+  },
+  {
+   "idweb": "26-109285",
+   "objet": "Prestations vétérinaires ou animalières",
+   "nomacheteur": "GRAND POITIERS CENTRALE D'ACHATS",
+   "code_departement": [
+    "86"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services",
+    "Animaux"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-109285"
+  },
+  {
+   "idweb": "26-109283",
+   "objet": "LUTTE CONTRE LES NUISIBLESET MISSIONS DE SALUBRITÉ",
+   "nomacheteur": "Ville de Courbevoie",
+   "code_departement": [
+    "92"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services",
+    "Dératisation, désinsectisation"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-109283"
+  },
+  {
+   "idweb": "26-108917",
+   "objet": "PRESTATIONS DE PROPRETE DES PARCS, JARDINS, BERGES ET RIVIERE.",
+   "nomacheteur": "Ville de Bourg-en-Bresse",
+   "code_departement": [
+    "1"
+   ],
+   "descripteur_libelle": [
+    "Nettoyage urbain",
+    "Espaces verts",
+    "Rivières/ruisseaux",
+    "Berge"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-108917"
+  }
+ ]
+}
