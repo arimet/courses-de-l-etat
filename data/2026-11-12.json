@@ -1,0 +1,146 @@
+{
+ "date": "2026-11-12",
+ "total": 226,
+ "model": null,
+ "top": [
+  {
+   "idweb": "26-109708",
+   "objet": "Capture, ramassage et transport d'animaux errants et d'animaux morts, et accueil en fourrière d'animaux errants",
+   "nomacheteur": "Ville d’Aubervilliers",
+   "code_departement": [
+    "93"
+   ],
+   "descripteur_libelle": [
+    "Animaux"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-109708"
+  },
+  {
+   "idweb": "26-109719",
+   "objet": "Mise en place et gestion d’une patinoire et d’une piste de luge à l’occasion de « Noël à Marseille », du 12 décembre 2026 au 3 janvier 2027 sur l'Esplanade Gisèle Halimi (J4)",
+   "nomacheteur": "Ville de Marseille",
+   "code_departement": [
+    "13"
+   ],
+   "descripteur_libelle": [
+    "Equipement sportif",
+    "Evénementiel"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-109719"
+  },
+  {
+   "idweb": "26-109770",
+   "objet": "PREVENTION, DETECTION ET ELIMINATION DES RONGEURS, INSECTES RAMPANTS  ET AUTRES NUISIBLES POUR LE CENTRE HOSPITALIER DE CALAIS",
+   "nomacheteur": "Centre hospitalier de Boulogne sur mer Direction Territoriale des Achats",
+   "code_departement": [
+    "62"
+   ],
+   "descripteur_libelle": [
+    "Dératisation, désinsectisation"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-109770"
+  },
+  {
+   "idweb": "26-110104",
+   "objet": "Organisation du spectacle de Noël pour des établissements du GHT SOMME LITTORAL SUD",
+   "nomacheteur": "CHU Amiens-Picardie (Etablissement support du GHT SLS)",
+   "code_departement": [
+    "80"
+   ],
+   "descripteur_libelle": [
+    "Spectacle"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-110104"
+  },
+  {
+   "idweb": "26-109711",
+   "objet": "Rénovation de la salle des fêtes de CALIGNAC",
+   "nomacheteur": "Mairie de CALIGNAC",
+   "code_departement": [
+    "47"
+   ],
+   "descripteur_libelle": [
+    "Bâtiment"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-109711"
+  },
+  {
+   "idweb": "26-109503",
+   "objet": "Concession de service public pour l’exploitation de la grande plage de Saint-Jean-de-Luz",
+   "nomacheteur": "MAIRIE DE SAINT JEAN DE LUZ",
+   "code_departement": [
+    "64"
+   ],
+   "descripteur_libelle": [
+    "Digue"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-109503"
+  },
+  {
+   "idweb": "26-110084",
+   "objet": "GROUPEMENT DE COMMANDE POUR L'ENTRETIEN ET MAINTENANCE DES INSTALLATIONS D'ECLAIRAGE PUBLIC, SPORTIF, ILLUMINATIONS FESTIVES ET SIGNALISATION LUMINEUSE TRICOLORE 2027 - 2029",
+   "nomacheteur": "SIERNEM",
+   "code_departement": [
+    "34"
+   ],
+   "descripteur_libelle": [
+    "Eclairage public",
+    "Illumination",
+    "Signalisation",
+    "Maintenance",
+    "Matériel électrique"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-110084"
+  },
+  {
+   "idweb": "26-109603",
+   "objet": "Mise en propreté des locaux et espaces du Théâtre national de la Colline",
+   "nomacheteur": "Theatre national de la Colline",
+   "code_departement": [
+    "75",
+    "77",
+    "78",
+    "91",
+    "92",
+    "93",
+    "94",
+    "95"
+   ],
+   "descripteur_libelle": [
+    "Nettoyage de locaux"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-109603"
+  },
+  {
+   "idweb": "26-109460",
+   "objet": "Réalisation du magazine touristique \"Effervescence\" pour la communauté d'agglomération Troyes Champagne Métropole-.",
+   "nomacheteur": "Troyes Champagne Metropole",
+   "code_departement": [
+    "10"
+   ],
+   "descripteur_libelle": [
+    "Publicité, Communication"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-109460"
+  },
+  {
+   "idweb": "26-110262",
+   "objet": "Renouvellement de l’identité graphique et visuelle du Théâtre national de la Colline",
+   "nomacheteur": "Theatre national de la Colline",
+   "code_departement": [
+    "75",
+    "77",
+    "78",
+    "91",
+    "92",
+    "93",
+    "94",
+    "95"
+   ],
+   "descripteur_libelle": [
+    "Publicité, Communication"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-110262"
+  }
+ ]
+}
