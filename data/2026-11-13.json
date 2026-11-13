@@ -1,0 +1,152 @@
+{
+ "date": "2026-11-13",
+ "total": 223,
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "top": [
+  {
+   "idweb": "26-109669",
+   "objet": "FOURNITURES ET PRESTATIONS DE SERVICES POUR L'ORGANISATION DE MIEL VERT 2027",
+   "nomacheteur": "COMMUNE DU TAMPON",
+   "code_departement": [
+    "974"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-109669",
+   "pourquoi": "Miel Vert 2027 : l'apiculture voit loin."
+  },
+  {
+   "idweb": "26-109781",
+   "objet": "RÉNOVATION D’UN BÂTIMENT À USAGE COMMERCIAL EN FOND DE COUR SIS 35 RUE JACOB, PARIS 6ÈME",
+   "nomacheteur": "MEN / RECT- 75 - Rectorat de PARIS - Chancellerie",
+   "code_departement": [
+    "75"
+   ],
+   "descripteur_libelle": [
+    "Maîtrise d'oeuvre"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-109781",
+   "pourquoi": "Rénover une péniche nommée Toutou."
+  },
+  {
+   "idweb": "26-110107",
+   "objet": "ACQUISITION D’UNE DESILEUSE PESEUSE MELANGEUSE DISTRIBUTRICE AUTOMOTRICE A VIS VERTICALE D’UNE CAPACITE DE 18M3 MINIMUM",
+   "nomacheteur": "INRAE BRETAGNE NORMANDIE",
+   "code_departement": [
+    "14",
+    "35",
+    "53",
+    "61"
+   ],
+   "descripteur_libelle": [
+    "Matériel agricole, horticole"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-110107",
+   "pourquoi": "Une desileuse-peseuse-mélangeuse de 18m³ pour vaches."
+  },
+  {
+   "idweb": "26-110581",
+   "objet": "Etude du modèle économique des manifestations sportives organisées sur le territoire du Parc national de La Réunion et en domaine départemento-domanial",
+   "nomacheteur": "PNR 974",
+   "code_departement": [
+    "974"
+   ],
+   "descripteur_libelle": [
+    "Etude"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-110581",
+   "pourquoi": "Étude économique des courses dans un volcan."
+  },
+  {
+   "idweb": "26-110612",
+   "objet": "Etude de caractérisation des attributs de la VUE et conception d'un référentiel d'évaluation et de suivi de leur état de conservation pour le Bien \"Pitons, cirques et remparts\"",
+   "nomacheteur": "PNR 974",
+   "code_departement": [
+    "974"
+   ],
+   "descripteur_libelle": [
+    "Etude"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-110612",
+   "pourquoi": "Évaluer l'état de conservation des Pitons."
+  },
+  {
+   "idweb": "26-110682",
+   "objet": "ORGANISATION DU VOYAGE D'ETUDES 2027 DE L'AMIF",
+   "nomacheteur": "ASSOCIATION DES MAIRES D'ILE-DE-FRANCE",
+   "code_departement": [
+    "75"
+   ],
+   "descripteur_libelle": [
+    "Voyage",
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-110682",
+   "pourquoi": "L'AMIF organise son voyage d'études 2027."
+  },
+  {
+   "idweb": "26-110690",
+   "objet": "Gestion d'une base de vie estivale pour travailleurs saisonniers sur le site du spot des sables au Cap Ferret",
+   "nomacheteur": "Mairie de Lège-Cap Ferret",
+   "code_departement": [
+    "33"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services",
+    "Surveillance"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-110690",
+   "pourquoi": "Base de vie pour saisonniers au Cap Ferret."
+  },
+  {
+   "idweb": "26-110725",
+   "objet": "Réalisation de prestations de traiteur pour des réceptions et évènements organisés tout au long de l'année sur l'ensemble du territoire départemental",
+   "nomacheteur": "Département de la Dordogne",
+   "code_departement": [
+    "24",
+    "33",
+    "40",
+    "16",
+    "87",
+    "19"
+   ],
+   "descripteur_libelle": [
+    "Repas, traiteur"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-110725",
+   "pourquoi": "Traiteur pour tous les événements de la Dordogne."
+  },
+  {
+   "idweb": "26-110770",
+   "objet": "EQUIPEMENT ET INSTALLATION DE SON, LUMIERE ET VIDEO - ESPACE D'EXPOSITION ET ESPACE POLYVALENT DE LA MEDIATHEQUE DE LOON PLAGE",
+   "nomacheteur": "Commune de Loon-Plage (59)",
+   "code_departement": [
+    "59"
+   ],
+   "descripteur_libelle": [
+    "Sonorisation",
+    "Audiovisuel"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-110770",
+   "pourquoi": "Son, lumière, vidéo pour la médiathèque de Loon-Plage."
+  },
+  {
+   "idweb": "26-110785",
+   "objet": "assurance \"Embarcations courses et risque annexes\"",
+   "nomacheteur": "REGION NORMANDIE",
+   "code_departement": [
+    "14",
+    "27",
+    "50",
+    "61",
+    "76"
+   ],
+   "descripteur_libelle": [
+    "Assurance"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-110785",
+   "pourquoi": "La Normandie assure ses embarcations de course."
+  }
+ ]
+}
