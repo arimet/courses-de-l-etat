@@ -1,0 +1,150 @@
+{
+ "date": "2026-11-14",
+ "total": 14,
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "top": [
+  {
+   "idweb": "26-110144",
+   "objet": "Marché d'exploitation des quais de transfert de déchets",
+   "nomacheteur": "SIDEVAM (976)",
+   "code_departement": [
+    "976"
+   ],
+   "descripteur_libelle": [
+    "Ordures ménagères (prestations)"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-110144",
+   "pourquoi": "Les ordures changent de quai."
+  },
+  {
+   "idweb": "26-110164",
+   "objet": "LA FOURNITURE DE FIL DE LIGATURAGE POUR PRESSES A BALLES SUR LES 3 SITE DE TRISELEC",
+   "nomacheteur": "SPL Triselec",
+   "code_departement": [
+    "59"
+   ],
+   "descripteur_libelle": [
+    "Acier"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-110164",
+   "pourquoi": "Du fil pour ficeler les déchets."
+  },
+  {
+   "idweb": "26-110171",
+   "objet": "20260133 AOO PRESTATIONS DE PRELEVEMENTS ET ANALYSES DE CONTROLES MICROBIOLOGIQUES DE L’ENVIRONNEMENT",
+   "nomacheteur": "Centre Hospitalier de Valenciennes",
+   "code_departement": [
+    "59"
+   ],
+   "descripteur_libelle": [
+    "Analyses médicales, biologiques"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-110171",
+   "pourquoi": "Chasser le microbe dans les murs."
+  },
+  {
+   "idweb": "26-110161",
+   "objet": "Marché de conception, construction ou aménagement, entretien et maintenance du Centre de Vie de l’ESTAC",
+   "nomacheteur": "TROYES FACILITIES",
+   "code_departement": [
+    "10"
+   ],
+   "descripteur_libelle": [
+    "Equipement sportif",
+    "Terrain de sport",
+    "Bâtiment"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-110161",
+   "pourquoi": "Le QG des pros du ballon rond."
+  },
+  {
+   "idweb": "26-110843",
+   "objet": "Réaménagement du parking P2 et de ses abords au Domaine national de Chambord",
+   "nomacheteur": "Domaine national de Chambord",
+   "code_departement": [
+    "41"
+   ],
+   "descripteur_libelle": [
+    "Voirie et réseaux divers"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-110843",
+   "pourquoi": "Se garer comme un roi à Chambord."
+  },
+  {
+   "idweb": "26-110128",
+   "objet": "Travaux sur immeubles ou édifices dangereux pour la sécurité publique, fermeture et mise en sécurité d'immeubles vacants",
+   "nomacheteur": "Ville de Toulon",
+   "code_departement": [
+    "83"
+   ],
+   "descripteur_libelle": [
+    "Gros oeuvre",
+    "Charpente",
+    "Maçonnerie"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-110128",
+   "pourquoi": "Quand la mairie fait le ménage radical."
+  },
+  {
+   "idweb": "26-110126",
+   "objet": "Accord cadre pour l'approvisionnement de denrées alimentaires et assistance technique pour la restaurant scolaire et la crèche de la Commune de Montrabé",
+   "nomacheteur": "MAIRIE DE MONTRABE",
+   "code_departement": [
+    "31"
+   ],
+   "descripteur_libelle": [
+    "Restauration collective"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-110126",
+   "pourquoi": "Des petits pots pour les petits."
+  },
+  {
+   "idweb": "26-110151",
+   "objet": "26/23 ACQUISITION ET LOCATION DE VEHICULES AVEC PRESTATION DE MAINTENANCE ASSOCIEE",
+   "nomacheteur": "GHU Paris Psychiatrie et Neurosciences",
+   "code_departement": [
+    "75",
+    "77",
+    "78",
+    "91",
+    "92",
+    "93",
+    "94",
+    "95"
+   ],
+   "descripteur_libelle": [
+    "Véhicules (acquisition)",
+    "Véhicules (location)"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-110151",
+   "pourquoi": "La flotte qui soigne les esprits."
+  },
+  {
+   "idweb": "26-110127",
+   "objet": "Mission d'assistance technique à maîtrise d'ouvrage en matière de structure pour les bâtiments de la Métropole et du Syndicat Mixte de gestion de l'Aéroport Rouen Vallée de Seine",
+   "nomacheteur": "Metropole Rouen Normandie",
+   "code_departement": [
+    "76"
+   ],
+   "descripteur_libelle": [
+    "Assistance technique",
+    "Assistance à maîtrise d'ouvrage"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-110127",
+   "pourquoi": "L'aéroport surveille sa charpente."
+  },
+  {
+   "idweb": "26-110147",
+   "objet": "MARCHE GLOBAL DE PERFORMANCE - CONTRAT D'EXPLOITATION DES INSTALLATIONS DE CHAUFFAGE, EAU CHAUDE SANITAIRE, VENTILATION ET CLIMATISATION + TRAVAUX P5",
+   "nomacheteur": "COMMUNE D'AUBERGENVILLE",
+   "code_departement": [
+    "78"
+   ],
+   "descripteur_libelle": [
+    "Chauffage (exploitation, entretien)"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-110147",
+   "pourquoi": "Le chauffage en mode performance."
+  }
+ ]
+}
