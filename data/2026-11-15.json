@@ -1,0 +1,145 @@
+{
+ "date": "2026-11-15",
+ "total": 158,
+ "model": null,
+ "top": [
+  {
+   "idweb": "26-110577",
+   "objet": "REALISATION D’OPERATION DE FOUILLES ARCHEOLOGIQUES SUR LE PATRIMOINE DE L’EPA EUROMEDITERRANEE - ILOT MONTOLIEU",
+   "nomacheteur": "ETAB PUBLIC AMENAGEMENT EUROMEDITERRA",
+   "code_departement": [
+    "13"
+   ],
+   "descripteur_libelle": [
+    "Fouille archéologique"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-110577"
+  },
+  {
+   "idweb": "26-110649",
+   "objet": "Travaux divers dans les bâtiments communaux",
+   "nomacheteur": "Mairie d'Orly",
+   "code_departement": [
+    "94"
+   ],
+   "descripteur_libelle": [
+    "Bâtiment",
+    "Peinture (travaux)",
+    "Maçonnerie",
+    "Cloison, faux plafond",
+    "Revêtements de sols"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-110649"
+  },
+  {
+   "idweb": "26-110449",
+   "objet": "Restructuration de l'école élémentaire 8 rue des vertus (Paris 3ème)",
+   "nomacheteur": "Ville de Paris",
+   "code_departement": [
+    "75"
+   ],
+   "descripteur_libelle": [
+    "Ascenseur",
+    "Ventilation",
+    "Climatisation",
+    "Monuments historiques",
+    "Menuiserie"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-110449"
+  },
+  {
+   "idweb": "26-110324",
+   "objet": "Fourniture et pose de signalisation verticale de police",
+   "nomacheteur": "Métropole européenne de Lille",
+   "code_departement": [
+    "59"
+   ],
+   "descripteur_libelle": [
+    "Signalisation"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-110324"
+  },
+  {
+   "idweb": "26-110678",
+   "objet": "Fournitures administratives, scolaires et pédagogiques",
+   "nomacheteur": "Commune du Plessis-Trévise",
+   "code_departement": [
+    "94"
+   ],
+   "descripteur_libelle": [
+    "Articles de bureau et articles scolaires"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-110678"
+  },
+  {
+   "idweb": "26-110721",
+   "objet": "Fourniture de vêtements de travail, chaussures et d'équipements de protection individuelle pour l'ensemble des services communaux",
+   "nomacheteur": "Ville Liévin",
+   "code_departement": [
+    "62"
+   ],
+   "descripteur_libelle": [
+    "Chaussures ou articles chaussants",
+    "Habillement"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-110721"
+  },
+  {
+   "idweb": "26-110341",
+   "objet": "Prestations de déménagement",
+   "nomacheteur": "Ville de Clamart",
+   "code_departement": [
+    "92"
+   ],
+   "descripteur_libelle": [
+    "Déménagement"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-110341"
+  },
+  {
+   "idweb": "26-110505",
+   "objet": "La MAINTENANCE PREVENTIVE, CORRECTIVE ET FOURNITURES DES MOYENS DE SECOURS HORS SSI pour le GHT Cévennes Gard Camargue",
+   "nomacheteur": "GHT Cévennes-Gard-Camargue",
+   "code_departement": [
+    "30"
+   ],
+   "descripteur_libelle": [
+    "Extincteur",
+    "Matériel de sécurité",
+    "Maintenance",
+    "Sécurité incendie",
+    "Matériel de secours et d'incendie"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-110505"
+  },
+  {
+   "idweb": "26-110624",
+   "objet": "Acquisition de documents imprimés et audiovisuels pour les collections du réseau des médiathèques de la Communauté d'Agglomération Sophia Antipolis",
+   "nomacheteur": "Communauté d'Agglomération Sophia Antipolis",
+   "code_departement": [
+    "6",
+    "13",
+    "75",
+    "83"
+   ],
+   "descripteur_libelle": [
+    "Livres",
+    "Cd, DVD"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-110624"
+  },
+  {
+   "idweb": "26-110707",
+   "objet": "Marché public de prestations en vue de la réalisation de diagnostics amiante, hydrocarbures aromatiques polycycliques et plomb",
+   "nomacheteur": "SIAH (Syndicat Mixte d’Aménagement Hydraulique du Croult et du Petit Rosne)",
+   "code_departement": [
+    "95"
+   ],
+   "descripteur_libelle": [
+    "Amiante (désamiantage)",
+    "Amiante (diagnostic)"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-110707"
+  }
+ ]
+}
