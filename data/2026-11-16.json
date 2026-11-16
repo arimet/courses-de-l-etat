@@ -1,0 +1,149 @@
+{
+ "date": "2026-11-16",
+ "total": 144,
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "top": [
+  {
+   "idweb": "26-110903",
+   "objet": "Prestation de mise en bouteilles de vin",
+   "nomacheteur": "EPLEFPA Bordeaux-Gironde",
+   "code_departement": [
+    "33"
+   ],
+   "descripteur_libelle": [
+    "Conditionnement",
+    "Boisson"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-110903",
+   "pourquoi": "L'école met son vin en bouteille"
+  },
+  {
+   "idweb": "26-111269",
+   "objet": "Gestion d'un hébergement touristique à Veauchette : le domaine de Veauchette en Forez",
+   "nomacheteur": "Commune de Veauchette",
+   "code_departement": [
+    "42"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-111269",
+   "pourquoi": "La mairie joue les hôteliers"
+  },
+  {
+   "idweb": "26-111081",
+   "objet": "Achats de Dvd, Blu-Ray, Pnc, Cd, Textes-lus et disques Vinyles pour les bibliothèques municipales des Communes de Champagne-au-Mont d'Or, Collonges-au-Mont d'Or, Dardillécully, La",
+   "nomacheteur": "Ville d'Ecully",
+   "code_departement": [
+    "69"
+   ],
+   "descripteur_libelle": [
+    "Cd, DVD"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-111081",
+   "pourquoi": "La médiathèque ressort les vinyles"
+  },
+  {
+   "idweb": "26-111119",
+   "objet": "LOCATION QUADRIENNALE DES ILLUMINATIONS DE NOËL POUR LA VILLE DE BOUGUENAIS (NOËL 2027, 2028, 2029 et 2030)",
+   "nomacheteur": "VILLE DE BOUGUENAIS",
+   "code_departement": [
+    "44"
+   ],
+   "descripteur_libelle": [
+    "Illumination"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-111119",
+   "pourquoi": "Les illuminations 2030 sont déjà louées"
+  },
+  {
+   "idweb": "26-110958",
+   "objet": "prestation de tissage respectant le savoir-faire de la tapisserie d'Aubusson reconnu par l'UNESCO - \"Le secret de la Fukai\" Accord-cadre à bons de commande : fourniture de laines et matériaux teints",
+   "nomacheteur": "Syndicat Mixte Cité de la Tapisserie",
+   "code_departement": [
+    "23"
+   ],
+   "descripteur_libelle": [
+    "Textile"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-110958",
+   "pourquoi": "Aubusson tisse le secret de Fukai"
+  },
+  {
+   "idweb": "26-110902",
+   "objet": "Décoration et animations dans le cadre du Nouvel an chinois",
+   "nomacheteur": "Mairie d'Asnières sur Seine",
+   "code_departement": [
+    "92",
+    "75"
+   ],
+   "descripteur_libelle": [
+    "Spectacle"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-110902",
+   "pourquoi": "Le Nouvel An chinois s'invite à Asnières"
+  },
+  {
+   "idweb": "26-111183",
+   "objet": "Mise à disposition d'un distributeur de boissons chaudes sans monnayeur, de son réapprovisionnement et entretien de deux fontaines à eau",
+   "nomacheteur": "S.E.H.V",
+   "code_departement": [
+    "87"
+   ],
+   "descripteur_libelle": [
+    "Boisson",
+    "Maintenance"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-111183",
+   "pourquoi": "Café gratuit, fontaines comprises"
+  },
+  {
+   "idweb": "26-110853",
+   "objet": "Mobilité Erasmus à Dublin en Irlande du 26 février au 28 mars 2027",
+   "nomacheteur": "Lycée professionnel Jeanne Catayee",
+   "code_departement": [
+    "75",
+    "91",
+    "92",
+    "93",
+    "94",
+    "95",
+    "971",
+    "972"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services",
+    "Voyage"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-110853",
+   "pourquoi": "Cap sur Dublin pour 2027"
+  },
+  {
+   "idweb": "26-110916",
+   "objet": "DELEGATION DE SERVICE PUBLIC - KIOSQUE N°1 \"LA PALMERAIE\" - PLAGES DE LA SIAGNE",
+   "nomacheteur": "Ville de Mandelieu-La Napoule (06)",
+   "code_departement": [
+    "6"
+   ],
+   "descripteur_libelle": [
+    "Délégation de service public"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-110916",
+   "pourquoi": "Le kiosque 'La Palmeraie' change de main"
+  },
+  {
+   "idweb": "26-111223",
+   "objet": "Mise à disposition d'un Distributeur Automatique de Billets (Dab)",
+   "nomacheteur": "Ville Des Pennes Mirabeau",
+   "code_departement": [
+    "13"
+   ],
+   "descripteur_libelle": [
+    "Equipements spécialisés",
+    "Automate"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-111223",
+   "pourquoi": "La ville s'offre un DAB"
+  }
+ ]
+}
