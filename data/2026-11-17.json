@@ -1,0 +1,144 @@
+{
+ "date": "2026-11-17",
+ "total": 225,
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "top": [
+  {
+   "idweb": "26-110867",
+   "objet": "CONCESSION PORTANT SUR L'EXPLOITATION DES BOUTIQUES DE LA TOUR EIFFEL",
+   "nomacheteur": "Société d'Exploitation de la Tour Eiffel",
+   "code_departement": [
+    "75",
+    "77",
+    "78",
+    "91"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-110867",
+   "pourquoi": "La Tour Eiffel ouvre son centre commercial."
+  },
+  {
+   "idweb": "26-111448",
+   "objet": "Conception Et Fabrication Materielle De L'Exposition « Immortalite » (titre Provisoire)",
+   "nomacheteur": "Musée des Confluences",
+   "code_departement": [
+    "69"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-111448",
+   "pourquoi": "L'immortalité fabriquée sur mesure pour le musée."
+  },
+  {
+   "idweb": "26-111559",
+   "objet": "Renaturation de la pelouse festive du Parc Guenon à Lons le Saunier",
+   "nomacheteur": "Commune de Lons-le-Saunier",
+   "code_departement": [
+    "39"
+   ],
+   "descripteur_libelle": [
+    "Espaces verts",
+    "Terrassement",
+    "Végétaux"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-111559",
+   "pourquoi": "La pelouse festive rendue à la nature."
+  },
+  {
+   "idweb": "26-111604",
+   "objet": "ACQUISITION D'UN MINIBUS ÉLECTRIQUE NEUF OU RECONDITIONNÉ À NEUF",
+   "nomacheteur": "Domaine national de Chambord",
+   "code_departement": [
+    "41"
+   ],
+   "descripteur_libelle": [
+    "Véhicules (acquisition)"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-111604",
+   "pourquoi": "Chambord s'offre un minibus 100 % électrique."
+  },
+  {
+   "idweb": "26-111822",
+   "objet": "Marché global sectoriel de Conception-construction-aménagement pour les travaux préparatoires à l'installation d'un système Dnci Maison d'arrêt du centre pénitentiaire de Moulins-Y",
+   "nomacheteur": "Direction Interrégionale Services Pénitentiaire de Lyon",
+   "code_departement": [
+    "69"
+   ],
+   "descripteur_libelle": [
+    "Electricité (travaux)",
+    "Voirie et réseaux divers"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-111822",
+   "pourquoi": "La prison installe un brouilleur anti-portables."
+  },
+  {
+   "idweb": "26-111012",
+   "objet": "ANIMATION DU SITE\nZone de Protection Spéciale\nFR2410010\n« PETITE BEAUCE »\nPROCEDURE NATURA 2000 - Directive \"Oiseaux\"",
+   "nomacheteur": "COMMUNAUTE DE COMMUNES  BEAUCE VAL DE LOIRE",
+   "code_departement": [
+    "41"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-111012",
+   "pourquoi": "Animer la nature pour la Petite Beauce."
+  },
+  {
+   "idweb": "26-110905",
+   "objet": "Reprise et développement de la plateforme « Widget Factory », maintenance applicative, évolutions et hébergement associés",
+   "nomacheteur": "Meteo-France",
+   "code_departement": [
+    "94",
+    "31"
+   ],
+   "descripteur_libelle": [
+    "Informatique (prestations de services)"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-110905",
+   "pourquoi": "Météo-France modernise sa Widget Factory."
+  },
+  {
+   "idweb": "26-111577",
+   "objet": "Surveillance sanitaire et soins des animaux placés en fourrière municipale - années 2027 à 2029",
+   "nomacheteur": "Mairie de Brive",
+   "code_departement": [
+    "19"
+   ],
+   "descripteur_libelle": [
+    "Animaux"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-111577",
+   "pourquoi": "Trois ans de véto pour la fourrière."
+  },
+  {
+   "idweb": "26-111426",
+   "objet": "PRESTATIONS DE SERVICES POUR LA GARDE D'ENFANTS EN HORAIRES ATYPIQUES",
+   "nomacheteur": "VILLE DE LORIENT",
+   "code_departement": [
+    "56"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-111426",
+   "pourquoi": "Une crèche pour les horaires impossibles."
+  },
+  {
+   "idweb": "26-111663",
+   "objet": "Fourniture d'articles scientifiques au format papier édités par tous éditeurs de revues scientifiques",
+   "nomacheteur": "HAUTE AUTORITE DE SANTE",
+   "code_departement": [
+    "93"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-111663",
+   "pourquoi": "La HAS commande encore des revues papier."
+  }
+ ]
+}
