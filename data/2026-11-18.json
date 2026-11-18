@@ -1,0 +1,164 @@
+{
+ "date": "2026-11-18",
+ "total": 212,
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "top": [
+  {
+   "idweb": "26-111137",
+   "objet": "Acquisition, installation et gestion de pigeonniers contraceptifs",
+   "nomacheteur": "Communauté d'Agglomération Grand Belfort",
+   "code_departement": [
+    "90"
+   ],
+   "descripteur_libelle": [
+    "Equipements spécialisés"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-111137",
+   "pourquoi": "Des pigeonniers qui font la pilule."
+  },
+  {
+   "idweb": "26-111261",
+   "objet": "Acquisition de drones navals et de leurs capteurs aériens et sous-marins",
+   "nomacheteur": "EPA / ENSTA Campus Brest",
+   "code_departement": [
+    "29"
+   ],
+   "descripteur_libelle": [
+    "Matériel de transmission",
+    "Construction navale"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-111261",
+   "pourquoi": "La guerre navale version radiocommandée."
+  },
+  {
+   "idweb": "26-111959",
+   "objet": "Création et installation de structures et sculptures en polystyrène pour la Fête du Citron® 2027",
+   "nomacheteur": "Office de Tourisme de la ville de Menton",
+   "code_departement": [
+    "6"
+   ],
+   "descripteur_libelle": [
+    "Ouvrage d'infrastructure"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-111959",
+   "pourquoi": "Polystyrène : le citron ne pourrit plus."
+  },
+  {
+   "idweb": "26-111970",
+   "objet": "Prestation d'animation, d'accompagnement et de valorisation des conseils municipaux des enfants de la Ville de Marseille",
+   "nomacheteur": "Ville de Marseille",
+   "code_departement": [
+    "13"
+   ],
+   "descripteur_libelle": [
+    "Formation",
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-111970",
+   "pourquoi": "Des élus qui n'ont pas l'âge de voter."
+  },
+  {
+   "idweb": "26-111991",
+   "objet": "Organisation des transports et de l’hébergement pour le voyage pédagogique « Résidence pro - Villa Médicis » à Rome du lundi 03 au vendredi 07 mai 2027",
+   "nomacheteur": "GIP-FCIP de l'Académie de Versailles",
+   "code_departement": [
+    "33",
+    "69",
+    "75",
+    "77",
+    "78",
+    "91",
+    "92",
+    "94",
+    "95"
+   ],
+   "descripteur_libelle": [
+    "Transport",
+    "Voyage"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-111991",
+   "pourquoi": "L'école buissonnière version Villa Médicis."
+  },
+  {
+   "idweb": "26-111189",
+   "objet": "Organisation de tournées au profit du Bagad de Lann Bihoué",
+   "nomacheteur": "SGA / SDPAMG",
+   "code_departement": [
+    "56",
+    "22",
+    "29",
+    "35"
+   ],
+   "descripteur_libelle": [
+    "Spectacle",
+    "Instruments de musique"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-111189",
+   "pourquoi": "La Marine envoie son bagad sur les routes."
+  },
+  {
+   "idweb": "26-111248",
+   "objet": "Achat d’une imprimante 3D de type PBF-LB (Fusion de lit de poudre-par faisceau laser) pour poudres métalliques et céramiques sous atmosphère contrôlée",
+   "nomacheteur": "TOULOUSE INP",
+   "code_departement": [
+    "31"
+   ],
+   "descripteur_libelle": [
+    "Impression",
+    "Matériel d'imprimerie"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-111248",
+   "pourquoi": "Toulouse imprime le métal au laser."
+  },
+  {
+   "idweb": "26-111334",
+   "objet": "Fabrication et livraison des imprimés de valeur, des contributions indirectes et des cartes de retraite de la Direction générale des douanes et droits indirects (DGDDI)",
+   "nomacheteur": "DGDDI - Bureau des achats et approvisionnements (FIN2)",
+   "code_departement": [
+    "93",
+    "75",
+    "77",
+    "78",
+    "91",
+    "92",
+    "94",
+    "95"
+   ],
+   "descripteur_libelle": [
+    "Imprimés"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-111334",
+   "pourquoi": "La Douane imprime ses propres billets."
+  },
+  {
+   "idweb": "26-111374",
+   "objet": "2026MC261DCP - Assistance à maitrise d'ouvrage visant à la conception d'un site de baignade au Quai du Wault à Lille",
+   "nomacheteur": "Mairie de Lille",
+   "code_departement": [
+    "59",
+    "62",
+    "80",
+    "60"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services",
+    "Ingénierie"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-111374",
+   "pourquoi": "Lille-les-Bains : baignade au Quai du Wault."
+  },
+  {
+   "idweb": "26-111536",
+   "objet": "Marché de missions d'études acoustiques pour les bâtiments de l'EPMO-VGE",
+   "nomacheteur": "Ets public Musées Orsay et Orangerie",
+   "code_departement": [
+    "75"
+   ],
+   "descripteur_libelle": [
+    "Equipement muséographique"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-111536",
+   "pourquoi": "Le silence d'Orsay sous haute surveillance."
+  }
+ ]
+}
