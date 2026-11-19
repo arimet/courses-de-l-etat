@@ -1,0 +1,146 @@
+{
+ "date": "2026-11-19",
+ "total": 229,
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "top": [
+  {
+   "idweb": "26-111807",
+   "objet": "Accord-cadre à bons de commande de fourniture d'aliments pour primates non-humains (PNH) - croquettes sèches extrudées destinées aux macaques cynomolgus et rhésus",
+   "nomacheteur": "SATT CONECTUS ALSACE",
+   "code_departement": [
+    "67"
+   ],
+   "descripteur_libelle": [
+    "Aliments pour animaux"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-111807",
+   "pourquoi": "Croquettes premium pour macaques de laboratoire"
+  },
+  {
+   "idweb": "26-112623",
+   "objet": "COUCHES",
+   "nomacheteur": "CCAS DE LA VILLE DE MONTBELIARD",
+   "code_departement": [
+    "25"
+   ],
+   "descripteur_libelle": [
+    "Couches"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-112623",
+   "pourquoi": "Couches-culottes : le CCAS assure le change"
+  },
+  {
+   "idweb": "26-111685",
+   "objet": "Fourniture de dessert bio en vrac et location de distributeurs associés au profit des selfs du CHU de Bordeaux",
+   "nomacheteur": "CHU DE BORDEAUX",
+   "code_departement": [
+    "33"
+   ],
+   "descripteur_libelle": [
+    "Prestation hotelière",
+    "Restauration collective"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-111685",
+   "pourquoi": "Mousse au chocolat bio en libre-service"
+  },
+  {
+   "idweb": "26-112601",
+   "objet": "Création de la scénographie et de la décoration de la journée « L'Irlande en famille » dans le cadre du Festival « Le Cotentin fête l'Irlande » 2027",
+   "nomacheteur": "Communauté d'agglomération du Cotentin",
+   "code_departement": [
+    "50"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services",
+    "Matériel scénique",
+    "Evénementiel"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-112601",
+   "pourquoi": "Cotentin 2027 : déco irlandaise sans pluie"
+  },
+  {
+   "idweb": "26-112302",
+   "objet": "RESTAURATION DES VASIERES INTERTIDALES DU GOLFE DU MORBIHAN PAR LE RETRAIT DE STRUCTURES OSTREICOLES DANS LE CADRE DU LIFE ESPÈCES MARINES MOBILES",
+   "nomacheteur": "Office français de la biodiversité",
+   "code_departement": [
+    "56",
+    "94",
+    "75"
+   ],
+   "descripteur_libelle": [
+    "Déchetterie (travaux)",
+    "Travaux dans l'eau"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-112302",
+   "pourquoi": "On retire les huîtres pour sauver la vase"
+  },
+  {
+   "idweb": "26-111752",
+   "objet": "Animation du PNA Scinques, Couleuvres et Géckos sur les territoires de Guadeloupe et de Saint-Martin.",
+   "nomacheteur": "DEAL 971",
+   "code_departement": [
+    "971"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-111752",
+   "pourquoi": "Spectacle vivant pour couleuvres et geckos"
+  },
+  {
+   "idweb": "26-112334",
+   "objet": "2651PA068 : Fourniture de 2 baudruches gonflables pour clapets métalliques et accessoires de maintien et d’étanchéité – barrage de Gray",
+   "nomacheteur": "Voies Navigables de France - Direction Territoriale Rhône Saône",
+   "code_departement": [
+    "69",
+    "70"
+   ],
+   "descripteur_libelle": [
+    "Barrage",
+    "Pièces détachées"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-112334",
+   "pourquoi": "Deux baudruches géantes pour colmater le barrage"
+  },
+  {
+   "idweb": "26-112516",
+   "objet": "MISE A DISPOSITION DE REFRIGERATEURS CONNECTES ET LIVRAISON DE REPAS POUR LES PERSONNELSDE LA DGAC – SNIA",
+   "nomacheteur": "Direction générale de l'aviation civile -SNIA",
+   "code_departement": [
+    "75"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services",
+    "Denrées alimentaires"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-112516",
+   "pourquoi": "Frigo connecté et plateau-repas pour l'aviation"
+  },
+  {
+   "idweb": "26-111805",
+   "objet": "CURAGE, POMPAGE ET RETRAITEMENT DES EFFLUENTS DES FOSSES DE RELEVAGE, BACS À GRAISSES ET SÉPARATEURS D’HYDROCARBURES",
+   "nomacheteur": "Assemblée nationale",
+   "code_departement": [
+    "75"
+   ],
+   "descripteur_libelle": [
+    "Curage"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-111805",
+   "pourquoi": "Vidange des fosses de l'Assemblée nationale"
+  },
+  {
+   "idweb": "26-112375",
+   "objet": "Prestation de service pour la production de plants de vigne fournis enracinés pour le vignoble du budget annexe Domaine départemental d'Ognoas à Arthez d'Armagnac.",
+   "nomacheteur": "Conseil Départemental des Landes",
+   "code_departement": [
+    "40"
+   ],
+   "descripteur_libelle": [
+    "Produits de l'agriculture"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-112375",
+   "pourquoi": "Vignes du Département : l'Armagnac version fonctionnaire"
+  }
+ ]
+}
