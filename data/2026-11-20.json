@@ -1,0 +1,144 @@
+{
+ "date": "2026-11-20",
+ "total": 349,
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "top": [
+  {
+   "idweb": "26-111852",
+   "objet": "Remise en ligne d'un voilier de l'École navale.",
+   "nomacheteur": "École navale",
+   "code_departement": [
+    "29"
+   ],
+   "descripteur_libelle": [
+    "Maintenance",
+    "Construction navale"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-111852",
+   "pourquoi": "Le voilier de l'École navale reprend la mer"
+  },
+  {
+   "idweb": "26-111948",
+   "objet": "Relance du lot n° 3 - Prestations cynotechniques de détection d'explosifs - du marché \"Prestations de sécurité privée et de sécurité incendie\".",
+   "nomacheteur": "Palais des Festivals et des Congrès de Cannes (06)",
+   "code_departement": [
+    "6"
+   ],
+   "descripteur_libelle": [
+    "Surveillance",
+    "Evénementiel"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-111948",
+   "pourquoi": "Au Palais des Festivals, les chiens font la sécurité"
+  },
+  {
+   "idweb": "26-112167",
+   "objet": "Achat de lentilles vertes issues de l'agriculture biologique",
+   "nomacheteur": "Fédération Française des Banques alimentaires FFBA",
+   "code_departement": [
+    "75"
+   ],
+   "descripteur_libelle": [
+    "Denrées alimentaires"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-112167",
+   "pourquoi": "Banques alimentaires : lentilles vertes, bio et solidaires"
+  },
+  {
+   "idweb": "26-112404",
+   "objet": "Animation du PNA Scinques, Couleuvres et Géckos sur les territoires de Guadeloupe et de Saint-Martin.",
+   "nomacheteur": "DEAL 971",
+   "code_departement": [
+    "971"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-112404",
+   "pourquoi": "En Guadeloupe, on anime des serpents et lézards"
+  },
+  {
+   "idweb": "26-112935",
+   "objet": "Fournitures et livraison de diverses boissons alcoolisées et non alcoolisées pour la Saline royale d’Arc-et-Senans",
+   "nomacheteur": "EPCC Saline royale",
+   "code_departement": [
+    "25",
+    "39"
+   ],
+   "descripteur_libelle": [
+    "Denrées alimentaires"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-112935",
+   "pourquoi": "La Saline royale s'offre une tournée générale"
+  },
+  {
+   "idweb": "26-113075",
+   "objet": "CONVENTION D'OCCUPATION TEMPORAIRE DU DOMAINE PUBLIC AUX FINS D'EXPLOITATION DU POINT DE RESTAURATION RAPIDE DU 2ND ETAGE DU MUSEE DE L'HOMME (CAFE LUCY)",
+   "nomacheteur": "Museum National d'Histoire Naturelle",
+   "code_departement": [
+    "75"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-113075",
+   "pourquoi": "Au Musée de l'Homme, Lucy fait du rapide"
+  },
+  {
+   "idweb": "26-113136",
+   "objet": "PRESTATIONS POUR LA RÉALISATION DES DECORS, MAQUETTES ET DES DISPOSITIFS MÉCANIQUES ET ÉLECTROMÉCANIQUES DE L'EXPOSITION \"INSECTES\"",
+   "nomacheteur": "Museum National d'Histoire Naturelle",
+   "code_departement": [
+    "75"
+   ],
+   "descripteur_libelle": [
+    "Electromécanique",
+    "Mécanique",
+    "Décoration (travaux)",
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-113136",
+   "pourquoi": "L'expo \"Insectes\" : de vrais faux bestioles mécaniques"
+  },
+  {
+   "idweb": "26-112139",
+   "objet": "26V0149PA - LOCATION, MONTAGE ET DEMONTAGE DE CHALETS EN BOIS POUR TOULOUSE PLAGES - ANNEES 2027 à 2030",
+   "nomacheteur": "Ville de Toulouse",
+   "code_departement": [
+    "31"
+   ],
+   "descripteur_libelle": [
+    "Bâtiments modulaires",
+    "Bois"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-112139",
+   "pourquoi": "Pour Toulouse Plages, des chalets sans montagne"
+  },
+  {
+   "idweb": "26-112443",
+   "objet": "Gestion du service public d'accueil et d'hôtellerie de plein air et de loisirs - Camping municipal \" Le Village \"",
+   "nomacheteur": "COMMUNE DE LA MOTTE CHALANCON",
+   "code_departement": [
+    "26"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-112443",
+   "pourquoi": "Un camping municipal nommé \"Le Village\", logique"
+  },
+  {
+   "idweb": "26-113115",
+   "objet": "Prestations de services pour les vœux du maire 2027",
+   "nomacheteur": "Ville de Fort-de-France",
+   "code_departement": [
+    "972"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-113115",
+   "pourquoi": "Vœux 2027 commandés : le maire prend de l'avance"
+  }
+ ]
+}
