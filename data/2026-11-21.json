@@ -1,0 +1,144 @@
+{
+ "date": "2026-11-21",
+ "total": 11,
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "top": [
+  {
+   "idweb": "26-112518",
+   "objet": "Conception et développement d'un Serious Game et de capsules e-learning portant sur le risque CO2 et autres risques chimiques en cave de vinification",
+   "nomacheteur": "CAISSE CENTRALE MSA",
+   "code_departement": [
+    "93"
+   ],
+   "descripteur_libelle": [
+    "Informatique (prestations de services)",
+    "Logiciel"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-112518",
+   "pourquoi": "Un serious game pour éviter l'asphyxie au chai."
+  },
+  {
+   "idweb": "26-112520",
+   "objet": "SERVICE - ORGANISATION D'EVENEMENT - NOUVEAU FESTIVAL 2027-2030 (9 LOTS)",
+   "nomacheteur": "Région Nouvelle-Aquitaine",
+   "code_departement": [
+    "33"
+   ],
+   "descripteur_libelle": [
+    "Evénementiel",
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-112520",
+   "pourquoi": "La Région commande un festival sur 4 ans."
+  },
+  {
+   "idweb": "26-112517",
+   "objet": "FOURNITURE DE MATERIEL DE BUREAUX ET ACCESSOIRES ERGONOMIQUES SUR PRESCRIPTION MEDICALE POUR LA CARSAT",
+   "nomacheteur": "Caisse d'Assurance Retraite et de Santé Au Travail Rhône Alpes (Carsat RA)",
+   "code_departement": [
+    "1",
+    "69"
+   ],
+   "descripteur_libelle": [
+    "Mobilier"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-112517",
+   "pourquoi": "Le fauteuil de bureau passe sur ordonnance."
+  },
+  {
+   "idweb": "26-112507",
+   "objet": "FOURNITURES DE REPAS POUR UN EHPAD DE 41 RESIDENTS ET UNE CRECHE DE 40 BERCEAUX",
+   "nomacheteur": "EHPAD LE MANOIR",
+   "code_departement": [
+    "67"
+   ],
+   "descripteur_libelle": [
+    "Repas, traiteur",
+    "Restauration collective"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-112507",
+   "pourquoi": "41 aînés, 40 bébés : un même marché."
+  },
+  {
+   "idweb": "26-112488",
+   "objet": "LUXEUIL (70) – BA 116 – Déplombage, désamiantage et démolition d’une zone existante",
+   "nomacheteur": "SID NE",
+   "code_departement": [
+    "70",
+    "67",
+    "90",
+    "88",
+    "57",
+    "54",
+    "10",
+    "52",
+    "71"
+   ],
+   "descripteur_libelle": [
+    "Démolition",
+    "Amiante (désamiantage)"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-112488"
+  },
+  {
+   "idweb": "26-112503",
+   "objet": "Fourniture et livraison d'outillages à main pour les espaces publics de la Ville de Neuilly-sur-Seine (lot n°3)",
+   "nomacheteur": "Ville de Neuilly-sur-Seine",
+   "code_departement": [
+    "92"
+   ],
+   "descripteur_libelle": [
+    "Outillage"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-112503"
+  },
+  {
+   "idweb": "26-112523",
+   "objet": "Produits de santé : fournitures de médicament pour les années 2027-2028 (13 mois), à compter du 01 04 2027 pour le GCS ASO",
+   "nomacheteur": "GCS Achats Santé en Occitanie",
+   "code_departement": [
+    "11"
+   ],
+   "descripteur_libelle": [
+    "Produits pharmaceutiques"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-112523"
+  },
+  {
+   "idweb": "26-112499",
+   "objet": "Fourniture de végétaux pour le service paysages de la Ville de Senlis",
+   "nomacheteur": "Commune de Senlis",
+   "code_departement": [
+    "60"
+   ],
+   "descripteur_libelle": [
+    "Végétaux"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-112499"
+  },
+  {
+   "idweb": "26-112525",
+   "objet": "RELANCE DU MARCHE DE FOURNITURE DE MATERIAUX DE  CONSTRUCTION ROUTIERE EN 3 LOTS",
+   "nomacheteur": "LIMOGES METROPOLE - Communauté urbaine",
+   "code_departement": [
+    "87"
+   ],
+   "descripteur_libelle": [
+    "Matériaux routiers"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-112525"
+  },
+  {
+   "idweb": "26-112521",
+   "objet": "ACCORD-CADRE MONO-ATTRIBUTAIRE A BONS DE COMMANDE DE FOURNITURES DE DENREES ALIMENTAIRES POUR LA COMMUNE DE BAGNOLS-EN-FORET",
+   "nomacheteur": "Commune de Bagnols en Forêt (83)",
+   "code_departement": [
+    "83"
+   ],
+   "descripteur_libelle": [
+    "Denrées alimentaires"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-112521"
+  }
+ ]
+}
