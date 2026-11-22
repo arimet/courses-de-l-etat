@@ -1,0 +1,154 @@
+{
+ "date": "2026-11-22",
+ "total": 146,
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "top": [
+  {
+   "idweb": "26-113108",
+   "objet": "Lot 1 : Fourniture et confection de velours scéniques",
+   "nomacheteur": "Opéra national de Paris",
+   "code_departement": [
+    "75"
+   ],
+   "descripteur_libelle": [
+    "Textile"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-113108",
+   "pourquoi": "L'Opéra commande du velours, rideau !"
+  },
+  {
+   "idweb": "26-112853",
+   "objet": "Prestations de prisées, renouvellements et ventes aux enchères publiques judiciaires du Crédit Municipal de Bordeaux en son agence de Bordeaux",
+   "nomacheteur": "CREDIT MUNICIPAL DE BORDEAUX",
+   "code_departement": [
+    "33",
+    "24",
+    "16"
+   ],
+   "descripteur_libelle": [
+    "Métaux précieux",
+    "Prestations de services",
+    "Oeuvre d'art"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-112853",
+   "pourquoi": "Le Mont-de-Piété vide les greniers."
+  },
+  {
+   "idweb": "26-113057",
+   "objet": "gestion et exploitation des baignades en canaux (Saint-Martin et La Villette)",
+   "nomacheteur": "VILLE de PARIS - DFA - SDA",
+   "code_departement": [
+    "75"
+   ],
+   "descripteur_libelle": [
+    "Bassin, étang",
+    "Equipement sportif",
+    "Mise à disposition de personnel"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-113057",
+   "pourquoi": "Paris ouvre la piscine du canal."
+  },
+  {
+   "idweb": "26-113169",
+   "objet": "Conclusion d'un contrat cadre permettant à la FFE et ses établissements équestres adhérents de bénéficier de réductions sur la location de matériel de chantier toute l'année",
+   "nomacheteur": "Federation Francaise d Equitation",
+   "code_departement": [
+    "41"
+   ],
+   "descripteur_libelle": [
+    "Matériel de travaux publics",
+    "Location (matériels)"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-113169",
+   "pourquoi": "La Fédé équestre loue des pelles."
+  },
+  {
+   "idweb": "26-112942",
+   "objet": "Fourniture d'armement pour la Police Municipale de la Ville de Grenoble",
+   "nomacheteur": "VILLE DE GRENOBLE",
+   "code_departement": [
+    "38"
+   ],
+   "descripteur_libelle": [
+    "Armement"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-112942",
+   "pourquoi": "La municipale de Grenoble s'arme."
+  },
+  {
+   "idweb": "26-113064",
+   "objet": "Prestations de prévention, de surveillance et de lutte contre les nuisibles sur le territoire de la communauté d’agglomération de l’Albigeois",
+   "nomacheteur": "communauté agglo albigeois",
+   "code_departement": [
+    "81"
+   ],
+   "descripteur_libelle": [
+    "Dératisation, désinsectisation"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-113064",
+   "pourquoi": "La chasse aux rats, marché public."
+  },
+  {
+   "idweb": "26-113146",
+   "objet": "Fourniture de matériels pédagogiques et d'équipements divers pour les piscines de la ville d'Angers",
+   "nomacheteur": "Ville d'Angers (49)",
+   "code_departement": [
+    "49"
+   ],
+   "descripteur_libelle": [
+    "Equipement de piscine",
+    "Piscine",
+    "Equipements spécialisés"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-113146",
+   "pourquoi": "Des frites et planches pour Angers."
+  },
+  {
+   "idweb": "26-113055",
+   "objet": "Acquisition de livres scolaires, non scolaires et livres de Noël",
+   "nomacheteur": "Mairie de Garges-lès-Gonesse",
+   "code_departement": [
+    "95",
+    "91",
+    "92",
+    "93"
+   ],
+   "descripteur_libelle": [
+    "Livres"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-113055",
+   "pourquoi": "La mairie commande les livres du Père Noël."
+  },
+  {
+   "idweb": "26-112884",
+   "objet": "Fourniture de livres et partitions, documents musicaux et audiovisuels, jeux vidéo et jeux de société pour médiathèques et services de la Métropole Aix-Marseille Provence",
+   "nomacheteur": "Métropole Aix-Marseille Provence",
+   "code_departement": [
+    "13",
+    "83",
+    "84"
+   ],
+   "descripteur_libelle": [
+    "Cd, DVD",
+    "Jeux, jouets",
+    "Livres"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-112884",
+   "pourquoi": "La médiathèque achète la Switch."
+  },
+  {
+   "idweb": "26-113100",
+   "objet": "Prestations d'organisation d'événements, d'animations de proximité et de fourniture d'objets de communication écoresponsables",
+   "nomacheteur": "La Régie Eau du Grand Lyon",
+   "code_departement": [
+    "69"
+   ],
+   "descripteur_libelle": [
+    "Evénementiel",
+    "Publicité, Communication"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-113100",
+   "pourquoi": "L'eau du robinet fait sa pub."
+  }
+ ]
+}
