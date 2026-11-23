@@ -1,0 +1,153 @@
+{
+ "date": "2026-11-23",
+ "total": 122,
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "top": [
+  {
+   "idweb": "26-113530",
+   "objet": "COORDINATION TECHNIQUE GÉNÉRALE POUR L'ORGANISATION DE L'ÉVÈNEMENT CERFS-VOLANTS SUR LA BASE 217",
+   "nomacheteur": "AIR 217 – Société Publique Locale Cœur d'Essonne",
+   "code_departement": [
+    "91"
+   ],
+   "descripteur_libelle": [
+    "Evénementiel"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-113530",
+   "pourquoi": "Cerfs-volants : l'armée de l'air fait du vent."
+  },
+  {
+   "idweb": "26-113485",
+   "objet": "Exploitation du Casino municipal de la Ville de Besançon",
+   "nomacheteur": "Ville de Besançon",
+   "code_departement": [
+    "25"
+   ],
+   "descripteur_libelle": [
+    "Délégation de service public"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-113485",
+   "pourquoi": "La ville de Besançon joue au casino."
+  },
+  {
+   "idweb": "26-113434",
+   "objet": "Fourniture de mobilier, d’équipements et d’accessoires pour environnement difficile au bénéfice de l’EPSM Morbihan – Relance du lot 5 : Vaisselle de sécurité",
+   "nomacheteur": "Centre hospitalier Bretagne Atlantique",
+   "code_departement": [
+    "56"
+   ],
+   "descripteur_libelle": [
+    "Vaisselle"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-113434",
+   "pourquoi": "Assiettes increvables pour l'unité psychiatrique."
+  },
+  {
+   "idweb": "26-113643",
+   "objet": "Transformation de 4 chambres en 2 chambres d'apaisement en Unité Intersectorielle d'Accueil et d'Orientation (Uiao)",
+   "nomacheteur": "Etablissement public de santé Barthélémy-Durand",
+   "code_departement": [
+    "91"
+   ],
+   "descripteur_libelle": [
+    "Démolition",
+    "Electricité (travaux)"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-113643",
+   "pourquoi": "Quatre chambres deviennent deux bulles d'apaisement."
+  },
+  {
+   "idweb": "26-113368",
+   "objet": "PROJET DE CONCEPTION, FOURNITURE ET INSTALLATION D’UNE CUISINE THERAPEUTIQUE DANS LE CADRE DU PROJET SMR DU GROUPE HOSPITALIER DU HAVRE",
+   "nomacheteur": "GROUPE HOSPITALIER DU HAVRE",
+   "code_departement": [
+    "76",
+    "80",
+    "27",
+    "60",
+    "14"
+   ],
+   "descripteur_libelle": [
+    "Cuisine (équipement)"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-113368",
+   "pourquoi": "Une cuisine thérapeutique pour soigner aux fourneaux."
+  },
+  {
+   "idweb": "26-113691",
+   "objet": "Travaux de rénovation de la rondavelle Cap Homard",
+   "nomacheteur": "Tamarun Spl",
+   "code_departement": [
+    "974"
+   ],
+   "descripteur_libelle": [
+    "Gros oeuvre",
+    "Plomberie (travaux)",
+    "Electricité (travaux)",
+    "Peinture (travaux)",
+    "Réseaux divers"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-113691",
+   "pourquoi": "Au Cap Homard, la rondavelle fait peau neuve."
+  },
+  {
+   "idweb": "26-113427",
+   "objet": "construction du 6ème Bunker de radiothérapie",
+   "nomacheteur": "CHU SAINT ETIENNE",
+   "code_departement": [
+    "42"
+   ],
+   "descripteur_libelle": [
+    "Electricité (travaux)",
+    "Chauffage (travaux)",
+    "Peinture (travaux)",
+    "Plomberie (travaux)"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-113427",
+   "pourquoi": "Sixième bunker de radiothérapie : ça bétonne."
+  },
+  {
+   "idweb": "26-113521",
+   "objet": "ENQUETES AUX FRONTIERES 2027",
+   "nomacheteur": "Comité Martiniquais du Tourisme",
+   "code_departement": [
+    "972"
+   ],
+   "descripteur_libelle": [
+    "Sondage, enquête"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-113521",
+   "pourquoi": "Enquêtes aux frontières 2027 : Martinique, île isolée."
+  },
+  {
+   "idweb": "26-113536",
+   "objet": "Prestations de nettoyage des oeuvres d'arts installées dans l'espace public",
+   "nomacheteur": "Ville de Nice",
+   "code_departement": [
+    "6"
+   ],
+   "descripteur_libelle": [
+    "Nettoyage urbain"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-113536",
+   "pourquoi": "À Nice, on passe l'éponge sur l'art public."
+  },
+  {
+   "idweb": "26-113249",
+   "objet": "Construction d'un bâtiment pour les loueurs côté Suisse - 15 lots",
+   "nomacheteur": "Aéroport de Bâle Mulhouse (68)",
+   "code_departement": [
+    "68"
+   ],
+   "descripteur_libelle": [
+    "Charpente",
+    "Etanchéité",
+    "Gros oeuvre",
+    "Menuiserie",
+    "Revêtements de sols"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-113249",
+   "pourquoi": "Bâle-Mulhouse : un bâtiment pour loueurs... en terre suisse."
+  }
+ ]
+}
