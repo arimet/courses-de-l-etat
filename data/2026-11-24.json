@@ -1,0 +1,180 @@
+{
+ "date": "2026-11-24",
+ "total": 223,
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "top": [
+  {
+   "idweb": "26-113241",
+   "objet": "Marché pour l’approvisionnement de civelles dans le cadre du programme de repeuplement de l’anguille en France",
+   "nomacheteur": "CTE REG PECHES MARITIMES ELEVAGES MARI",
+   "code_departement": [
+    "17",
+    "29",
+    "33",
+    "35",
+    "40",
+    "44",
+    "64",
+    "85"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-113241",
+   "pourquoi": "Des bébés anguilles pour repeupler la France."
+  },
+  {
+   "idweb": "26-113430",
+   "objet": "Marché d'observations à la mer CICTA 2026 Thon rouge",
+   "nomacheteur": "DGAMPA",
+   "code_departement": [
+    "75",
+    "92",
+    "83",
+    "29",
+    "14",
+    "56",
+    "17",
+    "13",
+    "20A"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-113430",
+   "pourquoi": "Mission océanographique : comptez les thons rouges."
+  },
+  {
+   "idweb": "26-113737",
+   "objet": "Réhabilitation d'un Bar- tabac",
+   "nomacheteur": "EPFLI FONCIER COEUR DE FRANCE",
+   "code_departement": [
+    "45"
+   ],
+   "descripteur_libelle": [
+    "Démolition",
+    "Dépollution",
+    "Gros oeuvre",
+    "Plomberie (travaux)",
+    "Electricité (travaux)",
+    "Menuiserie",
+    "Peinture (travaux)",
+    "Revêtements de sols",
+    "Charpente",
+    "Couverture",
+    "Isolation",
+    "Plâtrerie",
+    "Climatisation",
+    "Ventilation"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-113737",
+   "pourquoi": "L'État rénove le bar-tabac du coin."
+  },
+  {
+   "idweb": "26-113806",
+   "objet": "Organisation du festival Cinétoiles",
+   "nomacheteur": "Communauté de communes Le Gresivaudan",
+   "code_departement": [
+    "38"
+   ],
+   "descripteur_libelle": [
+    "Vidéo, cinéma"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-113806",
+   "pourquoi": "Un festival de cinéma aux frais de la princesse."
+  },
+  {
+   "idweb": "26-113839",
+   "objet": "Contrat de régie intéressée pour l'exploitation du camping municipal",
+   "nomacheteur": "Ville de Tonnerre",
+   "code_departement": [
+    "89"
+   ],
+   "descripteur_libelle": [
+    "Délégation de service public"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-113839",
+   "pourquoi": "La mairie joue les directeurs de camping."
+  },
+  {
+   "idweb": "26-113972",
+   "objet": "Restructuration lourde de l’animalerie rongeurs conventionnels et mini-porcs du site INRAE de Theix - ANIMRONG2",
+   "nomacheteur": "INRAE Centre Clermont Auvergne Rhône Alpes",
+   "code_departement": [
+    "63"
+   ],
+   "descripteur_libelle": [
+    "Chauffage (travaux)",
+    "Climatisation",
+    "Cloison, faux plafond",
+    "Electricité (travaux)",
+    "Gros oeuvre",
+    "Menuiserie",
+    "Mobilier",
+    "Peinture (travaux)",
+    "Plomberie (travaux)",
+    "Revêtements de sols",
+    "Ventilation"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-113972",
+   "pourquoi": "Chantier de standing pour rongeurs et mini-porcs."
+  },
+  {
+   "idweb": "26-114027",
+   "objet": "Conception, production et réalisation de spectacles nocturnes pour l'évènement « Voiles et Vignobles Bordeaux 2027 »",
+   "nomacheteur": "Bordeaux Métropole",
+   "code_departement": [
+    "33"
+   ],
+   "descripteur_libelle": [
+    "Evénementiel",
+    "Spectacle"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-114027",
+   "pourquoi": "Bordeaux illumine ses vignes pour 2027."
+  },
+  {
+   "idweb": "26-114151",
+   "objet": "Maintenance préventive et corrective des volets motorisés du bar de l’Hôtel du Département",
+   "nomacheteur": "Département de la Meuse",
+   "code_departement": [
+    "55"
+   ],
+   "descripteur_libelle": [
+    "Matériel électrique",
+    "Maintenance"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-114151",
+   "pourquoi": "Le Département bichonne les volets de son bar."
+  },
+  {
+   "idweb": "26-113896",
+   "objet": "Travaux d'aménagement pour l'exposition « Lucy McKenzie, la mode rêvée » présentée au Palais Galliera du 23 avril 2027 au 18 juillet 2027\n\nLot 1 : Agencement scénographique, marché n° 2026-262660\nL...",
+   "nomacheteur": "Paris Musées",
+   "code_departement": [
+    "75"
+   ],
+   "descripteur_libelle": [
+    "Décoration (travaux)",
+    "Matériel électrique",
+    "Electricité (travaux)",
+    "Matériel scénique"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-113896",
+   "pourquoi": "La mode rêvée sort du placard au Galliera."
+  },
+  {
+   "idweb": "26-113403",
+   "objet": "Prestations d'agence de voyages pour les déplacements professionnels",
+   "nomacheteur": "TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES (T.A.A.F.)",
+   "code_departement": [
+    "974"
+   ],
+   "descripteur_libelle": [
+    "Voyage"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-113403",
+   "pourquoi": "Voyages pro direction les pingouins de Kerguelen."
+  }
+ ]
+}
