@@ -1,0 +1,134 @@
+{
+ "date": "2026-11-25",
+ "total": 284,
+ "model": null,
+ "top": [
+  {
+   "idweb": "26-114586",
+   "objet": "PRESTATION D'ELIMINATION DES NUISIBLES POUR LE GHT PSY SUD PARIS",
+   "nomacheteur": "GHT Psy Sud Paris",
+   "code_departement": [
+    "94",
+    "92"
+   ],
+   "descripteur_libelle": [
+    "Dératisation, désinsectisation"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-114586"
+  },
+  {
+   "idweb": "26-114526",
+   "objet": "Ramassage des animaux errants domestiques ou non, sauvages et exotiques",
+   "nomacheteur": "Mairie De Boulogne Sur Mer",
+   "code_departement": [
+    "62",
+    "59"
+   ],
+   "descripteur_libelle": [
+    "Animaux",
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-114526"
+  },
+  {
+   "idweb": "26-113698",
+   "objet": "Prestations de services par drones pour le compte des adhérents de CADI",
+   "nomacheteur": "Centrale d'Achats Durables et Innovants",
+   "code_departement": [
+    "974"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-113698"
+  },
+  {
+   "idweb": "26-114598",
+   "objet": "Mise en place d’une mesure d’audience cinéma des salles et des films en France, d’un outil barométrique et d’un outil de prévision du public des films",
+   "nomacheteur": "Centre national du cinéma",
+   "code_departement": [
+    "75",
+    "78"
+   ],
+   "descripteur_libelle": [
+    "Etude"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-114598"
+  },
+  {
+   "idweb": "26-114250",
+   "objet": "Accord-Cadre De Pose, Maintenance Et Depose Du Materiel De Balisage Pour Les Plages De Carnon",
+   "nomacheteur": "Ville de Mauguio",
+   "code_departement": [
+    "34"
+   ],
+   "descripteur_libelle": [
+    "Matériel de sécurité",
+    "Plage"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-114250"
+  },
+  {
+   "idweb": "26-114448",
+   "objet": "Passation de marchés d’assurances pour les besoins de l’EPCC ANJOU THEATRE",
+   "nomacheteur": "ANJOU THEATRE",
+   "code_departement": [
+    "49"
+   ],
+   "descripteur_libelle": [
+    "Assurance"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-114448"
+  },
+  {
+   "idweb": "26-114618",
+   "objet": "Accord-cadre à bon de commande multi-attributaire pour l’organisation d’évènements de la collectivité de Saint-Martin :\nPaniers cadeaux",
+   "nomacheteur": "Collectivité de Saint Martin (978)",
+   "code_departement": [
+    "978"
+   ],
+   "descripteur_libelle": [
+    "Evénementiel"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-114618"
+  },
+  {
+   "idweb": "26-113848",
+   "objet": "26FOUR06 - ACCORD-CADRE A BONS DE COMMANDE RELATIF A DES PRESTATIONS DE LOCATION ET DE MAINTENANCE DE DEUX TRACTEURS AGRICOLES EN \"FULL SERVICE\" POUR LE SERVICE PLAGES DE L'ANTENNE DE SIX-FOURS-LES...",
+   "nomacheteur": "METROPOLE TOULON PROVENCE MEDITERRANEE",
+   "code_departement": [
+    "83"
+   ],
+   "descripteur_libelle": [
+    "Matériel agricole, horticole"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-113848"
+  },
+  {
+   "idweb": "26-113538",
+   "objet": "RELANCE - Prestation de service de blanchisserie",
+   "nomacheteur": "CHNO des 15-20",
+   "code_departement": [
+    "75"
+   ],
+   "descripteur_libelle": [
+    "Blanchissage",
+    "Textile"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-113538"
+  },
+  {
+   "idweb": "26-114521",
+   "objet": "Calorifugage comble et plancher",
+   "nomacheteur": "CH AGEN-NERAC",
+   "code_departement": [
+    "47"
+   ],
+   "descripteur_libelle": [
+    "Isolation",
+    "Equipement thermique"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-114521"
+  }
+ ]
+}
