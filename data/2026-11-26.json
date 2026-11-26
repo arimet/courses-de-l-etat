@@ -1,0 +1,141 @@
+{
+ "date": "2026-11-26",
+ "total": 313,
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "top": [
+  {
+   "idweb": "26-114353",
+   "objet": "SOLUTION INNOVANTE D'ANALYSE DES INGESTA ET DU GASPILLAGE ALIMENTAIRE PAR IA ET PRESTATIONS DE CONSEILS ASSOCIEES",
+   "nomacheteur": "GIP RESAH",
+   "code_departement": [
+    "75"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-114353",
+   "pourquoi": "L'IA ausculte nos restes de cantine."
+  },
+  {
+   "idweb": "26-114023",
+   "objet": "Fourniture d'un ensemble de distributeurs automatiques de produits locaux",
+   "nomacheteur": "COMMUNAUTE DE COMMUNES FALAISES DU TALOU",
+   "code_departement": [
+    "76"
+   ],
+   "descripteur_libelle": [
+    "Equipements spécialisés",
+    "Automate"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-114023",
+   "pourquoi": "Le terroir sort du distributeur automatique."
+  },
+  {
+   "idweb": "26-114241",
+   "objet": "Acquisition de composteurs anti-rongeurs adaptés à l'espace public pour le SIRTOMAD",
+   "nomacheteur": "Grand Montauban Communauté d'Agglomeration",
+   "code_departement": [
+    "82"
+   ],
+   "descripteur_libelle": [
+    "Composteur"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-114241",
+   "pourquoi": "Composteurs anti-rongeurs : les rats font grise mine."
+  },
+  {
+   "idweb": "26-114900",
+   "objet": "26V1645-00 - Conception d'un film d'animation introductif au carnaval de Nice 2027",
+   "nomacheteur": "VILLE DE NICE",
+   "code_departement": [
+    "6"
+   ],
+   "descripteur_libelle": [
+    "Film"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-114900",
+   "pourquoi": "Le Carnaval 2027 a déjà son dessin animé."
+  },
+  {
+   "idweb": "26-114438",
+   "objet": "Accord-cadre à bons de commande pour des prestations de reliure traditionnelle pour les bibliothèques spécialisées, les services habilités de la Ville de Paris, et pour l'établissement public Paris Mu",
+   "nomacheteur": "VILLE de PARIS - DFA - SDA",
+   "code_departement": [
+    "75"
+   ],
+   "descripteur_libelle": [
+    "Reliure"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-114438",
+   "pourquoi": "Reliure traditionnelle : Paris chouchoute ses livres."
+  },
+  {
+   "idweb": "26-114716",
+   "objet": "Fourniture de pains et pains bio, viennoiseries et pâtisseries pour la restauration scolaire et autre",
+   "nomacheteur": "Mairie de RONCHIN",
+   "code_departement": [
+    "59",
+    "62"
+   ],
+   "descripteur_libelle": [
+    "Denrées alimentaires",
+    "Restauration collective"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-114716",
+   "pourquoi": "La cantine sent bon la viennoiserie bio."
+  },
+  {
+   "idweb": "26-114870",
+   "objet": "Organisation et réalisation de sorties et excursions à destination des seniors de la ville de Marignane",
+   "nomacheteur": "Mairie de Marignane",
+   "code_departement": [
+    "13"
+   ],
+   "descripteur_libelle": [
+    "Voyage"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-114870",
+   "pourquoi": "Excursions seniors : la mairie organise les vacances."
+  },
+  {
+   "idweb": "26-114305",
+   "objet": "Concession de service public pour l'exploitation de l'aérodrome de Toulouse-Lasbordes",
+   "nomacheteur": "Toulouse Métropole",
+   "code_departement": [
+    "31"
+   ],
+   "descripteur_libelle": [
+    "Délégation de service public",
+    "Aéronautique"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-114305",
+   "pourquoi": "Un aérodrome en concession, clefs en main."
+  },
+  {
+   "idweb": "26-115051",
+   "objet": "Matériels et équipements pour la Police Municipale, la Tranquillité Publique et la Brigade Cadre de Vie",
+   "nomacheteur": "Marie d'Armentières",
+   "code_departement": [
+    "59"
+   ],
+   "descripteur_libelle": [
+    "Equipements spécialisés"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-115051",
+   "pourquoi": "La Brigade Cadre de Vie fait ses courses."
+  },
+  {
+   "idweb": "26-114146",
+   "objet": "Prestations de recherche, visite, prise de location de logements et l'accompagnement dans la recherche d'un déménageur pour les membres du corps de conception et de direction de la Police nationale.",
+   "nomacheteur": "Ministère de l'Intérieur",
+   "code_departement": [
+    "75"
+   ],
+   "descripteur_libelle": [
+    "Déménagement"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-114146",
+   "pourquoi": "Déménagement de luxe pour hauts gradés policiers."
+  }
+ ]
+}
