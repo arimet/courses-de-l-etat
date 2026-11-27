@@ -1,0 +1,139 @@
+{
+ "date": "2026-11-27",
+ "total": 294,
+ "model": null,
+ "top": [
+  {
+   "idweb": "26-115567",
+   "objet": "Conseil artistique et création d'un spectacle vivant",
+   "nomacheteur": "Ville de Bar-le-Duc",
+   "code_departement": [
+    "55"
+   ],
+   "descripteur_libelle": [
+    "Spectacle"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-115567"
+  },
+  {
+   "idweb": "26-115284",
+   "objet": "Commune de Thérouanne (Département du Pas-de-Calais) - Route de Boulogne - Fouilles archéologiques préventives",
+   "nomacheteur": "NOREADE SIDEN-SIAN",
+   "code_departement": [
+    "62"
+   ],
+   "descripteur_libelle": [
+    "Fouille archéologique"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-115284"
+  },
+  {
+   "idweb": "26-115518",
+   "objet": "Location de chalet à destination des manifestations de la commune de Décines-Charpieu",
+   "nomacheteur": "Ville de Décines-Charpieu",
+   "code_departement": [
+    "69"
+   ],
+   "descripteur_libelle": [
+    "Bâtiments modulaires",
+    "Location (matériels)",
+    "Bois"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-115518"
+  },
+  {
+   "idweb": "26-115241",
+   "objet": "RÉHABILITATION DES VANNES DES OUVRAGES DU CALAISIS",
+   "nomacheteur": "Institution des Wateringues",
+   "code_departement": [
+    "62",
+    "59"
+   ],
+   "descripteur_libelle": [
+    "Ouvrage métallique",
+    "Ouvrage hydraulique",
+    "Bois",
+    "Chaudronnerie",
+    "Equipement hydraulique"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-115241"
+  },
+  {
+   "idweb": "26-114491",
+   "objet": "Fourniture de livres non scolaires et de documents sonores et audiovisuels pour la Médiathèque de l'Eure.",
+   "nomacheteur": "Département de l'Eure",
+   "code_departement": [
+    "27"
+   ],
+   "descripteur_libelle": [
+    "Livres",
+    "Jeux, jouets"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-114491"
+  },
+  {
+   "idweb": "26-114663",
+   "objet": "Création de supports de communication pour le SMA",
+   "nomacheteur": "Syndicat Mixte de l'Argens (83)",
+   "code_departement": [
+    "83"
+   ],
+   "descripteur_libelle": [
+    "Publicité, Communication"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-114663"
+  },
+  {
+   "idweb": "26-115389",
+   "objet": "REFONTE DU SYSTEME DE VANNAGE ET DU GENIE-CIVIL DE L'ECLUSE",
+   "nomacheteur": "SID ATLANTIQUE",
+   "code_departement": [
+    "29"
+   ],
+   "descripteur_libelle": [
+    "Ecluse"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-115389"
+  },
+  {
+   "idweb": "26-114573",
+   "objet": "Fourniture et pose de signalisation verticale",
+   "nomacheteur": "DEPARTEMENT DU LOT",
+   "code_departement": [
+    "46"
+   ],
+   "descripteur_libelle": [
+    "Signalisation",
+    "Panneaux"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-114573"
+  },
+  {
+   "idweb": "26-115390",
+   "objet": "FOURNITURE DE CARTES ACCREDITIVES POUR L'ACHAT DE CARBURANT ET PRESTATIONS ASSOCIEES",
+   "nomacheteur": "Mairie Ormesson-sur-Marne",
+   "code_departement": [
+    "94"
+   ],
+   "descripteur_libelle": [
+    "Carburant, hydrocarbure",
+    "Carte magnétique, carte à puce"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-115390"
+  },
+  {
+   "idweb": "26-114650",
+   "objet": "Acquisition et livraison d'une pelle à pneus 14 tonnes",
+   "nomacheteur": "Grand Montauban Communauté d'Agglomeration",
+   "code_departement": [
+    "82"
+   ],
+   "descripteur_libelle": [
+    "Equipements spécialisés",
+    "Véhicules",
+    "Véhicules (acquisition)"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-114650"
+  }
+ ]
+}
