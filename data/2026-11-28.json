@@ -1,0 +1,148 @@
+{
+ "date": "2026-11-28",
+ "total": 54,
+ "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "top": [
+  {
+   "idweb": "26-115023",
+   "objet": "Fabrication et fourniture d'épées, de ceinturons et de porte-épées pour les élèves, les cadres militaires et des personnalités de l'Ecole polytechnique",
+   "nomacheteur": "EPSCP / Ecole Polytechnique",
+   "code_departement": [
+    "91",
+    "75"
+   ],
+   "descripteur_libelle": [
+    "Matériel de sécurité",
+    "Contrôle d'accès"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-115023",
+   "pourquoi": "L'école forge ses mousquetaires."
+  },
+  {
+   "idweb": "26-115052",
+   "objet": "Fabrication, le conditionnement, le stockage et la livraison des enveloppes électorales au prodit de l'ensemble des préfectures et hauts-commissariats.",
+   "nomacheteur": "Ministère de l'Intérieur",
+   "code_departement": [
+    "75"
+   ],
+   "descripteur_libelle": [
+    "Impression"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-115052",
+   "pourquoi": "L'enveloppe officielle du bulletin unique."
+  },
+  {
+   "idweb": "26-114985",
+   "objet": "SUIVI DES BANCS DE MAËRL DES SITES NATURA 2000  DE LA FAÇADE ATLANTIQUE",
+   "nomacheteur": "Office français de la biodiversité",
+   "code_departement": [
+    "94"
+   ],
+   "descripteur_libelle": [
+    "Etude"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-114985",
+   "pourquoi": "Surveillance rapprochée d'algues calcaires."
+  },
+  {
+   "idweb": "26-114923",
+   "objet": "Fourniture et livraison de denrées alimentaires pour les manifestations, spectacles, réunions et voeux du maire pour la commune de Roissy-en-France",
+   "nomacheteur": "Mairie de Roissy-en-France",
+   "code_departement": [
+    "95"
+   ],
+   "descripteur_libelle": [
+    "Denrées alimentaires"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-114923",
+   "pourquoi": "Le frigo officiel des vœux du maire."
+  },
+  {
+   "idweb": "26-115060",
+   "objet": "Accords-cadres pour les prestations agricoles sur les espaces naturels du Département",
+   "nomacheteur": "Conseil départemental Loire Atlantique",
+   "code_departement": [
+    "44"
+   ],
+   "descripteur_libelle": [
+    "Prestations de services",
+    "Espaces verts"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-115060",
+   "pourquoi": "Des vaches jardinières pour la biodiversité."
+  },
+  {
+   "idweb": "26-115083",
+   "objet": "Mission de maîtrise d'œuvre pour la conception, la fabrication et l'installation de 9 postes de secours dédiés à la sécurité des zones de baignade",
+   "nomacheteur": "Communauté d'Agglomération Royan Atlantique",
+   "code_departement": [
+    "17"
+   ],
+   "descripteur_libelle": [
+    "Etude"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-115083",
+   "pourquoi": "Neuf tours de guet pour sauveteurs."
+  },
+  {
+   "idweb": "26-114972",
+   "objet": "2026M0286 - Programme 2027 - Divers collèges - Laveries - Nouveaux lave-vaisselle à avancement automatique et remise à niveau de l'environnement matériel",
+   "nomacheteur": "CD des A-M - Direction de la Construction, de l'Immobilier et du Patrimoine",
+   "code_departement": [
+    "6"
+   ],
+   "descripteur_libelle": [
+    "Electroménager",
+    "Cuisine (équipement)",
+    "Equipement industriel"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-114972",
+   "pourquoi": "L'industriel qui lave les assiettes des collégiens."
+  },
+  {
+   "idweb": "26-114988",
+   "objet": "MARCHE PUBLIC DE TRAVAUX D'ALIMENTATION DES NAVIRES PAR COURANT A QUAI SUR LE PORT DE COMMERCE DE SETE - PHASE 2",
+   "nomacheteur": "PORT SUD DE FRANCE",
+   "code_departement": [
+    "34"
+   ],
+   "descripteur_libelle": [
+    "Electricité (travaux)"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-114988",
+   "pourquoi": "Les gros navires branchés sur secteur."
+  },
+  {
+   "idweb": "26-114987",
+   "objet": "Prestations de curage, d'inspections télévisées et d'opérations préalables à la réception de réseaux d'eaux",
+   "nomacheteur": "CTE DE CNES  RUMILLY TERRE DE SAVOIE",
+   "code_departement": [
+    "74"
+   ],
+   "descripteur_libelle": [
+    "Assainissement",
+    "Alimentation en eau potable",
+    "Curage",
+    "Prestations de services"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-114987",
+   "pourquoi": "Passage caméra dans les tuyaux publics."
+  },
+  {
+   "idweb": "26-114930",
+   "objet": "Réaménagement des bureaux du site co-propriétaire de l'UGAP « Le Tholonet » en espace flex office",
+   "nomacheteur": "Union des Groupements d'Achats Publics",
+   "code_departement": [
+    "77"
+   ],
+   "descripteur_libelle": [
+    "Démolition",
+    "Cloison, faux plafond",
+    "Revêtements de sols",
+    "Serrurerie",
+    "Electricité (travaux)"
+   ],
+   "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-114930"
+  }
+ ]
+}
